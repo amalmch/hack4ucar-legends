@@ -1,0 +1,10 @@
+nom_kpi,valeur,domaine
+Taux de réussite,0.78,academique
+Taux d'abandon,0.11,academique
+Budget exécuté (%),0.92,finance
+Coût par étudiant,2850,finance
+Empreinte carbone,140,esg
+Consommation énergie,45000,esg
+Taux de recyclage,0.35,esg
+Enseignants permanents,42,rh
+Taux d'encadrement,0.08,academique

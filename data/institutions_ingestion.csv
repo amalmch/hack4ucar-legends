@@ -1,0 +1,33 @@
+institution_id,nom,ville,etudiants,enseignants,budget_alloue,budget_consomme,empreinte_carbone,taux_reussite
+UCAR-FSJPST,Faculté des Sciences Juridiques Politiques et Sociales de Tunis,Tunis,3500,120,4500000,4200000,120,0.76
+UCAR-FSB,Faculté des Sciences de Bizerte,Bizerte,4200,180,5000000,4900000,180,0.72
+UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Nabeul,2800,90,3200000,3000000,95,0.79
+UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Tunis,1500,85,3800000,3750000,110,0.85
+UCAR-EPT,Ecole Polytechnique de Tunisie,Carthage,400,60,2500000,2400000,40,0.96
+UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Carthage,1200,75,2200000,2100000,80,0.88
+UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Tunis,800,45,1500000,1400000,45,0.92
+UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Gammarth,600,40,1800000,1750000,60,0.86
+UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Bizerte,1100,70,2100000,2000000,75,0.81
+UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Carthage,3800,160,4800000,4700000,130,0.83
+UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Tunis,3200,150,6000000,5800000,210,0.94
+UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Mateur,1800,85,2400000,2300000,90,0.74
+UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Nabeul,950,65,1900000,1800000,60,0.82
+UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,La Marsa,350,55,2000000,1950000,30,0.97
+UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Nabeul,750,45,1400000,1350000,45,0.84
+UCAR-ISTEUB,Institut Supérieur des Technologies de l'Environnement de L'Urbanisme et du Bâtiment,Tunis,1050,55,1800000,1700000,85,0.88
+UCAR-ISLT,Institut Supérieur des Langues de Tunis,Tunis,4500,190,4200000,4100000,110,0.75
+UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Nabeul,2100,95,2600000,2500000,80,0.77
+UCAR-ISSTE,Institut Supérieur des Sciences et Technologies de l'Environnement de Borj Cédria,Borj Cédria,1300,75,2200000,2100000,65,0.89
+UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Bizerte,1600,65,1900000,1850000,70,0.76
+UCAR-ISEPBG,Institut Supérieur des Etudes Préparatoires en Biologie et Géologie à Soukra,Soukra,850,55,1700000,1650000,50,0.80
+UCAR-SUPCOM,Sup'Com,Ariana,600,65,3000000,2900000,75,0.95
+UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Mograne,900,50,1800000,1750000,55,0.82
+UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Mateur,850,45,1700000,1650000,50,0.81
+UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Tunis,750,45,1600000,1550000,65,0.85
+UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Bizerte,400,30,1200000,1150000,40,0.86
+UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Tunis,1400,60,2000000,1950000,65,0.78
+UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Carthage,1100,50,1700000,1600000,55,0.83
+UCAR-INAT,Institut National Agronomique de Tunisie,Tunis,1800,105,3500000,3400000,120,0.91
+UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Sidi Dhrif,950,55,1900000,1850000,60,0.85
+UCAR-INRGREF,Institut National de Recherche en Génie Rural Eau et Forêt,Ariana,150,45,2800000,2700000,45,0.98
+UCAR-INRAT,Institut Natioal de Recherche Agronomique de Tunis,Ariana,200,50,3200000,3100000,55,0.98

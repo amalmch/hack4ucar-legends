@@ -1,0 +1,59 @@
+# Core API
+flask==3.0.3
+flask-cors==4.0.1
+flask-jwt-extended==4.6.0
+flask-socketio==5.3.6
+flask-limiter==3.7.0
+
+# Database — MongoDB (Big Data)
+pymongo==4.17.0
+
+# AI — Identity Verification
+pytesseract==0.3.13
+Pillow==12.2.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.27.3
+pdfplumber==0.11.9
+
+# Data & KPI
+pandas==2.2.2
+numpy==1.26.4
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+
+# AI — Anomaly Detection
+scikit-learn==1.5.0       # IsolationForest, StandardScaler
+scipy==1.13.1             # Z-score stats
+
+# AI — Prediction
+prophet==1.1.5            # Prophet time series
+torch==2.3.0              # LSTM (PyTorch)
+# tensorflow==2.16.1      # alternative LSTM backend
+
+# XAI
+shap==0.45.1
+lime==0.2.0.1
+
+# Reports / LLM (Mistral via Ollama or Hugging Face)
+requests==2.32.3          # call Mistral API / Ollama
+jinja2==3.1.4             # report templates
+reportlab==4.2.2          # PDF generation
+openpyxl==3.1.4           # Excel export
+
+# Security
+cryptography==42.0.8      # AES-256
+pyjwt==2.8.0
+bcrypt==4.1.3
+python-dotenv==1.0.1
+
+# WebSocket / async
+eventlet==0.36.1
+
+# Testing
+pytest==8.2.2
+pytest-flask==1.3.0
+pytest-cov==5.0.0
+
+# Dev utilities
+pydantic==2.7.4
+loguru==0.7.2

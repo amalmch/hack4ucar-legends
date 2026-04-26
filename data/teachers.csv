@@ -1,0 +1,392 @@
+teacher_id,nom,prenom,genre,institution_id,institution_name,departement,grade,specialite,anciennete_ans,nb_heures_cours_annee,nb_etudiants_encadres,nb_publications_annee,nb_projets_recherche,nb_formations_suivies,taux_absenteisme_pct,statut,annee_academique
+ENS-C251236B,Trabelsi,Mariem,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Licence,Assistant,Langues,4,221,41,4,4,3,0.09,Vacataire,2023-2024
+ENS-BF21991E,Baccouche,Yassine,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Licence,Maître de Conférences,Langues,28,204,26,8,3,0,0.11,Permanent,2023-2024
+ENS-1DDE1B63,Jebali,Lina,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Doctorat,Assistant,Management,5,281,55,8,2,0,0.03,Vacataire,2023-2024
+ENS-24EA934E,Khemiri,Anis,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,Assistant B,Physique,9,224,41,3,2,1,0.04,Permanent,2023-2024
+ENS-24C4FB46,Gafsi,Mariem,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,Professeur,Physique,31,296,37,8,0,4,0.05,Permanent,2023-2024
+ENS-4B94DC38,Baccouche,Rania,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Doctorat,Assistant B,Biologie,7,198,21,5,4,4,0.03,Vacataire,2023-2024
+ENS-BAFDD5AA,Trabelsi,Ahmed,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Doctorat,Maître de Conférences,Mathématiques,26,365,74,2,3,4,0.04,Permanent,2023-2024
+ENS-69FCAC57,Mzoughi,Adam,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,Professeur,Génie Civil,32,252,67,6,2,0,0.08,Permanent,2023-2024
+ENS-77CD57E2,Ben Ali,Tarek,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,Maître de Conférences,Mathématiques,26,238,45,4,0,4,0.07,Vacataire,2023-2024
+ENS-40DACE17,Mzoughi,Nizar,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,Maître Assistant A,Biologie,13,211,31,3,0,3,0.01,Permanent,2023-2024
+ENS-EB1DF274,Aloui,Rim,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Licence,Maître Assistant B,Biologie,22,221,46,1,2,4,0.05,Permanent,2023-2024
+ENS-0F7404EE,Zouaghi,Sarra,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,Maître de Conférences,Chimie,28,299,37,2,3,2,0.1,Vacataire,2023-2024
+ENS-20441B2B,Hamdi,Sarra,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,Professeur,Biologie,30,263,24,8,1,3,0.1,Permanent,2023-2024
+ENS-8F5E14EF,Khlifi,Hajer,F,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,Assistant,Économie,4,256,50,1,3,0,0.03,Permanent,2023-2024
+ENS-24FB32A9,Ben Ali,Amira,F,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,Maître de Conférences,Informatique,27,236,79,5,2,0,0.05,Permanent,2023-2024
+ENS-130572EB,Belhaj,Rania,F,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,Maître Assistant A,Mathématiques,16,299,37,3,0,1,0.08,Vacataire,2023-2024
+ENS-39A2A03E,Dridi,Mehdi,M,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,Maître de Conférences,Génie Civil,24,246,18,4,4,0,0.08,Permanent,2023-2024
+ENS-EDA12B51,Oueslati,Sirine,F,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,Maître Assistant B,Droit,23,354,68,8,3,5,0.1,Permanent,2023-2024
+ENS-3C5ACCA3,Trabelsi,Hedi,M,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,Maître de Conférences,Économie,27,207,49,0,2,4,0.02,Vacataire,2023-2024
+ENS-B8F934D2,Khlifi,Yassine,M,UCAR-FSB,Faculté des Sciences de Bizerte,Master,Assistant,Management,3,278,53,1,1,2,0.01,Permanent,2023-2024
+ENS-FA82F352,Zouaghi,Tarek,M,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,Maître Assistant A,Langues,15,335,24,4,1,5,0.11,Permanent,2023-2024
+ENS-66D891DB,Ayari,Hamza,M,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,Maître Assistant A,Économie,17,226,29,0,0,2,0.03,Permanent,2023-2024
+ENS-EAD713F2,Chaari,Sarra,F,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,Professeur,Droit,30,203,38,7,2,3,0.11,Permanent,2023-2024
+ENS-740C8700,Dridi,Ahmed,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Master,Assistant,Droit,2,368,51,1,3,2,0.1,Permanent,2023-2024
+ENS-C7523B14,Hamdi,Nour,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,Maître Assistant B,Économie,19,216,15,2,4,5,0.02,Permanent,2023-2024
+ENS-3C35BD4A,Gafsi,Yassine,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,Maître Assistant B,Management,22,210,56,8,4,3,0.09,Vacataire,2023-2024
+ENS-7C25767B,Hamdi,Hajer,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Master,Maître Assistant A,Langues,16,236,33,6,4,0,0.12,Permanent,2023-2024
+ENS-7ADEC942,Gafsi,Sirine,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,Assistant B,Management,7,254,29,6,4,3,0.1,Permanent,2023-2024
+ENS-4138A7E2,Mansouri,Anis,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,Maître de Conférences,Biologie,26,244,52,8,1,0,0.06,Permanent,2023-2024
+ENS-83B26E09,Gafsi,Maissa,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,Assistant B,Physique,7,257,75,7,2,2,0.08,Vacataire,2023-2024
+ENS-0083F6D4,Belhaj,Maissa,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,Assistant,Langues,1,216,39,1,0,1,0.01,Permanent,2023-2024
+ENS-88F04E4B,Baccouche,Sirine,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Master,Maître Assistant A,Chimie,14,254,85,6,1,0,0.04,Permanent,2023-2024
+ENS-BE4F16AA,Zouaghi,Fatma,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,Assistant B,Droit,11,279,36,5,1,1,0.1,Vacataire,2023-2024
+ENS-5B5B8CBE,Khlifi,Asma,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,Maître Assistant A,Management,12,237,40,1,1,3,0.02,Permanent,2023-2024
+ENS-B2BB6AF1,Zouaghi,Mariem,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Master,Assistant B,Langues,10,223,68,0,4,5,0.11,Permanent,2023-2024
+ENS-9EB5541D,Aloui,Mariem,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Master,Maître Assistant A,Droit,15,217,63,2,2,1,0.1,Permanent,2023-2024
+ENS-6C567A73,Sfaxi,Rim,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,Assistant,Économie,1,254,54,7,1,5,0.05,Permanent,2023-2024
+ENS-D5B58D51,Baccouche,Sirine,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,Maître Assistant B,Informatique,21,276,47,2,2,0,0.0,Vacataire,2023-2024
+ENS-8684F4BA,Jebali,Sami,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,Assistant,Mathématiques,1,207,17,1,4,5,0.07,Permanent,2023-2024
+ENS-265BF058,Zouaghi,Nizar,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,Maître Assistant A,Mathématiques,12,229,69,5,1,0,0.04,Permanent,2023-2024
+ENS-958337C6,Ben Ali,Mariem,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,Maître Assistant A,Chimie,14,269,62,3,1,0,0.01,Vacataire,2023-2024
+ENS-30C045CC,Mzoughi,Hamza,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,Professeur,Physique,30,279,65,6,0,3,0.11,Permanent,2023-2024
+ENS-7CFE8129,Jebali,Tarek,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,Assistant,Informatique,1,272,43,0,3,1,0.06,Permanent,2023-2024
+ENS-A3669687,Baccouche,Yassine,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,Assistant B,Informatique,8,226,21,0,3,4,0.07,Vacataire,2023-2024
+ENS-D72E3BF9,Belhaj,Hedi,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,Maître Assistant B,Langues,21,216,74,3,3,2,0.05,Permanent,2023-2024
+ENS-D42A2704,Hamdi,Ahmed,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,Assistant B,Langues,7,291,73,1,2,0,0.09,Vacataire,2023-2024
+ENS-ABB5C0E7,Gafsi,Asma,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,Maître de Conférences,Économie,26,274,42,1,1,2,0.09,Vacataire,2023-2024
+ENS-0BEBCF9D,Chaari,Asma,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,Maître Assistant B,Chimie,18,271,25,1,1,4,0.08,Permanent,2023-2024
+ENS-EFF7CBBC,Oueslati,Asma,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Doctorat,Maître Assistant A,Droit,13,295,53,7,1,5,0.08,Permanent,2023-2024
+ENS-3CDFB830,Chaari,Nizar,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,Assistant,Droit,5,299,29,8,0,2,0.08,Vacataire,2023-2024
+ENS-237E01D5,Ayari,Rania,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,Maître Assistant B,Chimie,22,238,61,5,1,4,0.1,Vacataire,2023-2024
+ENS-AF8F712E,Belhaj,Bilel,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,Maître Assistant B,Mathématiques,23,297,72,2,1,0,0.1,Permanent,2023-2024
+ENS-E9566771,Chaari,Nour,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,Assistant,Droit,3,294,18,5,3,3,0.07,Permanent,2023-2024
+ENS-E15867C6,Aloui,Fatma,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Doctorat,Maître Assistant A,Physique,17,282,79,8,0,1,0.11,Permanent,2023-2024
+ENS-77C70C27,Mzoughi,Rami,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,Maître de Conférences,Mathématiques,28,192,41,8,3,4,0.06,Permanent,2023-2024
+ENS-BA4CB44F,Ben Ali,Yassine,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Master,Assistant B,Physique,6,194,26,8,2,5,0.04,Permanent,2023-2024
+ENS-73E4A873,Khemiri,Mohamed,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,Assistant B,Informatique,9,280,65,5,1,3,0.09,Permanent,2023-2024
+ENS-787BE482,Jebali,Maissa,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Doctorat,Professeur,Biologie,31,251,32,5,2,0,0.0,Permanent,2023-2024
+ENS-54D22CDA,Sfaxi,Nour,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Licence,Assistant,Management,4,277,19,7,1,5,0.05,Permanent,2023-2024
+ENS-58BCCA82,Ayari,Anis,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,Assistant B,Chimie,9,211,36,5,0,5,0.02,Permanent,2023-2024
+ENS-1E42B4BD,Khemiri,Khaled,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Master,Professeur,Génie Civil,32,371,26,6,0,5,0.04,Permanent,2023-2024
+ENS-0C26734E,Khlifi,Mohamed,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,Maître de Conférences,Physique,25,210,29,3,3,5,0.09,Vacataire,2023-2024
+ENS-93F22FA6,Baccouche,Adam,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Licence,Professeur,Chimie,30,261,57,6,1,3,0.03,Permanent,2023-2024
+ENS-65CEFA0C,Hamdi,Hamza,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Doctorat,Assistant B,Génie Civil,7,212,78,8,4,3,0.05,Permanent,2023-2024
+ENS-5DC8CF7E,Khlifi,Hamza,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Licence,Assistant B,Biologie,8,243,23,1,0,0,0.07,Permanent,2023-2024
+ENS-18790037,Khemiri,Tarek,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Master,Maître de Conférences,Mathématiques,27,221,55,5,3,2,0.09,Permanent,2023-2024
+ENS-8A822286,Belhaj,Maissa,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Doctorat,Assistant,Informatique,1,285,19,0,1,0,0.01,Vacataire,2023-2024
+ENS-77484D82,Ben Ali,Rami,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Doctorat,Maître Assistant A,Physique,15,204,18,4,2,5,0.06,Vacataire,2023-2024
+ENS-E5C553AD,Chaari,Khaled,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Master,Maître de Conférences,Chimie,25,205,50,5,0,3,0.06,Permanent,2023-2024
+ENS-B7C3833E,Sfaxi,Sarra,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Master,Maître de Conférences,Chimie,26,288,27,2,0,1,0.11,Permanent,2023-2024
+ENS-351422B5,Jebali,Tarek,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,Maître de Conférences,Mathématiques,25,220,79,4,0,0,0.11,Permanent,2023-2024
+ENS-8314FF33,Mansouri,Yassine,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,Maître de Conférences,Physique,27,200,76,8,3,0,0.09,Permanent,2023-2024
+ENS-A7A8B9B8,Baccouche,Hedi,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,Assistant,Chimie,5,213,38,0,0,1,0.06,Vacataire,2023-2024
+ENS-252B3638,Sfaxi,Mariem,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Doctorat,Assistant B,Chimie,10,249,30,7,2,1,0.03,Permanent,2023-2024
+ENS-8A1D8D09,Trabelsi,Rim,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Doctorat,Assistant,Mathématiques,4,364,62,2,2,0,0.06,Permanent,2023-2024
+ENS-896E96CE,Aloui,Salma,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,Professeur,Informatique,31,355,73,7,0,1,0.03,Permanent,2023-2024
+ENS-813CE66D,Khlifi,Lina,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,Maître Assistant B,Informatique,19,238,72,4,3,4,0.0,Permanent,2023-2024
+ENS-9142B548,Mzoughi,Rim,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,Assistant,Informatique,1,194,15,1,1,3,0.05,Vacataire,2023-2024
+ENS-50899EE5,Jebali,Mohamed,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Master,Assistant,Informatique,2,202,36,6,1,3,0.1,Permanent,2023-2024
+ENS-1FDEB0BC,Sfaxi,Rami,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,Maître de Conférences,Génie Civil,26,287,37,8,0,2,0.05,Vacataire,2023-2024
+ENS-EB333BF7,Chaari,Hedi,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,Assistant B,Physique,9,280,37,8,0,0,0.06,Vacataire,2023-2024
+ENS-60B3B6DD,Sfaxi,Nour,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Doctorat,Maître Assistant B,Biologie,23,266,62,4,2,1,0.09,Permanent,2023-2024
+ENS-B6FCA6C4,Baccouche,Nizar,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,Maître de Conférences,Mathématiques,26,214,40,0,3,4,0.03,Permanent,2023-2024
+ENS-7094DF00,Hamdi,Adam,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,Assistant,Biologie,5,272,17,7,1,5,0.08,Vacataire,2023-2024
+ENS-20D82467,Oueslati,Maissa,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Doctorat,Maître Assistant B,Langues,21,285,38,3,1,3,0.11,Permanent,2023-2024
+ENS-69106855,Mzoughi,Yassine,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,Maître Assistant A,Chimie,12,278,61,7,2,3,0.08,Permanent,2023-2024
+ENS-FB820212,Ayari,Anis,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,Maître Assistant B,Droit,23,284,74,4,4,3,0.06,Vacataire,2023-2024
+ENS-6862B11A,Jebali,Rami,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Cycle Ingénieur,Maître Assistant A,Langues,14,290,56,6,1,2,0.06,Permanent,2023-2024
+ENS-FDB98DAB,Aloui,Sirine,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,Maître Assistant A,Économie,13,229,44,5,0,0,0.02,Permanent,2023-2024
+ENS-2CDCFDD5,Baccouche,Khaled,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Cycle Ingénieur,Maître de Conférences,Biologie,29,251,80,5,0,3,0.11,Permanent,2023-2024
+ENS-5F791F2C,Khlifi,Hajer,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,Professeur,Biologie,32,233,68,5,1,1,0.1,Permanent,2023-2024
+ENS-E0CFC371,Khemiri,Sirine,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,Maître Assistant A,Droit,15,199,66,7,1,2,0.0,Vacataire,2023-2024
+ENS-AEA8B702,Belhaj,Ines,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,Professeur,Biologie,31,207,51,4,4,3,0.04,Permanent,2023-2024
+ENS-B1F384DE,Zouaghi,Sarra,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Cycle Ingénieur,Maître Assistant A,Informatique,16,199,29,5,1,3,0.08,Permanent,2023-2024
+ENS-B2BD33CF,Khlifi,Sarra,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,Assistant,Droit,1,267,23,8,3,0,0.09,Vacataire,2023-2024
+ENS-5E354769,Gafsi,Hedi,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,Maître de Conférences,Génie Civil,27,289,44,7,0,1,0.11,Permanent,2023-2024
+ENS-5CB0F0C7,Oueslati,Lina,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,Assistant,Économie,4,218,20,3,0,1,0.04,Permanent,2023-2024
+ENS-29A98F30,Mansouri,Sarra,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,Maître Assistant B,Génie Civil,22,210,81,3,2,1,0.11,Vacataire,2023-2024
+ENS-AE5C01EE,Chaari,Ines,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,Maître Assistant A,Physique,13,300,25,1,4,3,0.08,Permanent,2023-2024
+ENS-90EC1855,Ben Ali,Hajer,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Doctorat,Maître Assistant B,Langues,21,205,56,3,3,1,0.08,Permanent,2023-2024
+ENS-41A27E16,Ayari,Hamza,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,Assistant,Biologie,3,271,18,0,4,4,0.09,Permanent,2023-2024
+ENS-983457B3,Khlifi,Adam,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,Professeur,Mathématiques,31,280,77,8,4,3,0.1,Permanent,2023-2024
+ENS-FEDBD745,Trabelsi,Ahmed,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,Assistant,Chimie,5,272,41,6,3,4,0.02,Permanent,2023-2024
+ENS-EFD9637D,Baccouche,Rania,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Licence,Maître de Conférences,Biologie,24,192,40,4,0,4,0.1,Permanent,2023-2024
+ENS-9B9C5C17,Jebali,Fatma,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,Assistant B,Management,8,223,67,0,2,2,0.04,Permanent,2023-2024
+ENS-1BC1604D,Ben Ali,Hedi,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Licence,Professeur,Mathématiques,32,259,69,2,3,2,0.07,Permanent,2023-2024
+ENS-B220EC2B,Baccouche,Anis,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,Maître de Conférences,Économie,26,296,42,1,0,4,0.1,Permanent,2023-2024
+ENS-BFC1DBAC,Gafsi,Ahmed,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,Maître de Conférences,Informatique,29,413,81,2,2,0,0.05,Permanent,2023-2024
+ENS-8560E5E3,Dridi,Yassine,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Marketing,Assistant B,Génie Civil,6,252,73,7,2,1,0.02,Vacataire,2023-2024
+ENS-2F65B7CC,Ayari,Bilel,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,Maître Assistant A,Management,17,248,59,3,1,1,0.07,Permanent,2023-2024
+ENS-932199BE,Aloui,Hajer,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,Assistant,Informatique,2,295,44,5,2,4,0.11,Permanent,2023-2024
+ENS-0A41195D,Oueslati,Mohamed,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,Maître de Conférences,Langues,29,359,83,4,2,1,0.06,Permanent,2023-2024
+ENS-1005BE5F,Hamdi,Mehdi,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,Professeur,Biologie,32,269,39,4,3,0,0.1,Vacataire,2023-2024
+ENS-959CE396,Belhaj,Anis,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,Maître Assistant B,Génie Civil,19,257,56,0,4,4,0.05,Permanent,2023-2024
+ENS-AB32C63B,Oueslati,Ahmed,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Marketing,Maître de Conférences,Informatique,28,234,62,3,0,4,0.11,Vacataire,2023-2024
+ENS-B3960350,Khemiri,Lina,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,Maître Assistant B,Génie Civil,23,200,27,6,1,3,0.04,Permanent,2023-2024
+ENS-7E5DC396,Hamdi,Anis,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,Maître de Conférences,Génie Civil,26,223,47,8,4,1,0.1,Vacataire,2023-2024
+ENS-0806EADC,Oueslati,Khaled,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,Assistant,Biologie,3,227,15,7,0,0,0.09,Vacataire,2023-2024
+ENS-3BD1D42C,Gafsi,Ines,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Marketing,Maître de Conférences,Génie Civil,28,264,44,5,2,0,0.02,Vacataire,2023-2024
+ENS-EE8C5624,Ayari,Sarra,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,Assistant B,Mathématiques,8,385,73,7,4,0,0.1,Permanent,2023-2024
+ENS-C698EBE7,Ayari,Salma,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,Assistant B,Management,8,257,16,3,2,1,0.04,Vacataire,2023-2024
+ENS-897D9668,Khemiri,Yassine,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,Professeur,Économie,30,205,81,1,2,1,0.11,Permanent,2023-2024
+ENS-83D91EDB,Sfaxi,Hajer,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,Maître Assistant A,Informatique,17,251,45,3,3,0,0.05,Permanent,2023-2024
+ENS-9E761E47,Dridi,Adam,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,Maître de Conférences,Droit,26,257,50,4,4,2,0.06,Permanent,2023-2024
+ENS-114DA359,Khemiri,Hajer,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,Maître de Conférences,Langues,29,286,28,1,4,2,0.02,Vacataire,2023-2024
+ENS-75027580,Ben Ali,Nour,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,Assistant B,Droit,7,230,71,3,3,3,0.11,Permanent,2023-2024
+ENS-30D69E2C,Ayari,Sarra,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,Maître de Conférences,Informatique,25,298,20,5,4,1,0.1,Vacataire,2023-2024
+ENS-DAD278E5,Oueslati,Adam,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,Professeur,Droit,32,415,80,2,1,4,0.08,Permanent,2023-2024
+ENS-9265D9FD,Mzoughi,Nizar,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,Assistant B,Économie,6,330,36,7,2,5,0.05,Vacataire,2023-2024
+ENS-A0D50ED7,Belhaj,Mehdi,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,Maître Assistant A,Langues,14,214,64,1,3,1,0.03,Permanent,2023-2024
+ENS-F8702E2B,Zouaghi,Nour,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,Maître Assistant A,Biologie,16,284,15,1,3,4,0.09,Vacataire,2023-2024
+ENS-BFA36346,Sfaxi,Rim,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,Assistant B,Physique,8,192,82,6,3,2,0.11,Vacataire,2023-2024
+ENS-F2A97C9E,Oueslati,Yassine,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Cycle Ingénieur,Maître Assistant B,Management,18,285,33,2,4,0,0.06,Permanent,2023-2024
+ENS-F37F7F52,Hamdi,Hedi,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,Maître Assistant B,Informatique,18,203,77,0,0,3,0.12,Permanent,2023-2024
+ENS-50B98ABC,Mansouri,Hedi,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Cycle Ingénieur,Maître Assistant B,Biologie,20,258,37,0,1,2,0.01,Permanent,2023-2024
+ENS-843DFB41,Dridi,Khaled,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Master,Assistant,Langues,1,235,56,5,1,0,0.06,Permanent,2023-2024
+ENS-28A503BE,Trabelsi,Anis,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,Maître Assistant A,Chimie,17,265,76,1,2,5,0.04,Vacataire,2023-2024
+ENS-9261A0CE,Gafsi,Sirine,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Master,Maître Assistant A,Mathématiques,13,197,50,8,2,1,0.11,Permanent,2023-2024
+ENS-D226DD81,Mansouri,Ines,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Cycle Ingénieur,Maître de Conférences,Biologie,28,271,36,2,3,5,0.12,Permanent,2023-2024
+ENS-4F937F7E,Aloui,Bilel,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Cycle Ingénieur,Assistant,Économie,5,226,62,2,1,0,0.08,Permanent,2023-2024
+ENS-9667B53D,Ben Ali,Lina,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Cycle Ingénieur,Assistant,Physique,4,237,60,3,3,0,0.04,Permanent,2023-2024
+ENS-527A9130,Baccouche,Sarra,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,Assistant B,Physique,9,242,68,8,3,4,0.01,Vacataire,2023-2024
+ENS-9A51AEA5,Baccouche,Hamza,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,Assistant B,Management,7,287,79,3,0,1,0.01,Permanent,2023-2024
+ENS-E10BCF52,Belhaj,Maissa,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,Maître de Conférences,Biologie,24,276,83,2,2,4,0.04,Vacataire,2023-2024
+ENS-C8638321,Hamdi,Hajer,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,Maître de Conférences,Physique,26,264,21,5,1,1,0.1,Permanent,2023-2024
+ENS-B6499539,Khlifi,Rim,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,Maître de Conférences,Biologie,26,243,83,6,2,2,0.1,Permanent,2023-2024
+ENS-128BCB1B,Mansouri,Asma,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Master,Professeur,Physique,30,281,17,4,4,0,0.06,Permanent,2023-2024
+ENS-C6E8AAC8,Khlifi,Lina,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,Maître Assistant A,Management,12,297,42,8,1,0,0.06,Permanent,2023-2024
+ENS-BB2E9980,Zouaghi,Salma,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,Assistant,Génie Civil,3,286,46,8,0,2,0.11,Permanent,2023-2024
+ENS-1EF8CE8A,Baccouche,Fatma,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,Professeur,Management,30,368,77,1,3,5,0.07,Permanent,2023-2024
+ENS-48EF5824,Belhaj,Hamza,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,Maître Assistant A,Informatique,13,247,34,3,0,0,0.05,Permanent,2023-2024
+ENS-D61A2448,Ben Ali,Rim,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,Assistant B,Physique,10,219,74,3,4,3,0.12,Permanent,2023-2024
+ENS-F41F5341,Dridi,Asma,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,Maître Assistant A,Biologie,16,271,64,6,4,3,0.09,Permanent,2023-2024
+ENS-B549A2BD,Ayari,Asma,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,Maître Assistant B,Économie,18,295,70,1,4,2,0.05,Vacataire,2023-2024
+ENS-1A9AF881,Zouaghi,Ines,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,Professeur,Informatique,32,217,45,8,0,5,0.02,Permanent,2023-2024
+ENS-E222627F,Belhaj,Mehdi,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,Assistant B,Droit,7,276,49,8,0,0,0.07,Vacataire,2023-2024
+ENS-7332CEC8,Trabelsi,Amira,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,Maître Assistant A,Langues,13,206,56,5,1,4,0.05,Permanent,2023-2024
+ENS-23356C01,Ayari,Hajer,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,Maître Assistant A,Droit,13,193,39,3,0,5,0.0,Permanent,2023-2024
+ENS-7442ED60,Ben Ali,Mariem,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,Professeur,Chimie,30,211,74,6,3,3,0.11,Permanent,2023-2024
+ENS-DD3D8648,Hamdi,Rami,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,Assistant B,Économie,11,223,83,3,4,3,0.11,Permanent,2023-2024
+ENS-FF973CED,Gafsi,Mariem,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Licence,Assistant,Biologie,4,300,66,1,3,3,0.12,Permanent,2023-2024
+ENS-09923E4C,Ben Ali,Anis,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,Assistant B,Mathématiques,8,296,17,8,3,5,0.11,Permanent,2023-2024
+ENS-CA9F7119,Hamdi,Mariem,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Licence,Maître Assistant B,Droit,20,280,46,0,0,0,0.11,Permanent,2023-2024
+ENS-F5AE88C2,Chaari,Nizar,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,Assistant B,Économie,7,261,20,2,1,1,0.08,Permanent,2023-2024
+ENS-3EF6C2C7,Ayari,Hedi,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,Maître Assistant A,Langues,17,273,68,1,0,3,0.03,Permanent,2023-2024
+ENS-E61EA05F,Jebali,Mariem,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,Maître Assistant B,Génie Civil,22,237,53,4,4,2,0.12,Permanent,2023-2024
+ENS-B973FE92,Belhaj,Amira,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Licence,Maître Assistant B,Biologie,23,282,35,3,0,1,0.04,Vacataire,2023-2024
+ENS-F72BEE78,Hamdi,Rim,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,Professeur,Physique,32,275,31,0,1,5,0.05,Permanent,2023-2024
+ENS-70177C49,Mansouri,Ahmed,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Cycle Ingénieur,Professeur,Droit,30,252,84,8,1,5,0.06,Permanent,2023-2024
+ENS-9EE7C238,Baccouche,Mariem,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Cycle Ingénieur,Professeur,Droit,32,266,25,6,4,1,0.05,Permanent,2023-2024
+ENS-9C6C25A6,Baccouche,Sami,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,Assistant B,Management,7,251,21,5,1,5,0.03,Permanent,2023-2024
+ENS-3788EB0C,Khemiri,Nizar,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,Maître Assistant A,Droit,13,258,71,8,4,5,0.08,Permanent,2023-2024
+ENS-622F8DB7,Belhaj,Rami,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,Maître Assistant A,Langues,13,349,82,3,1,5,0.09,Permanent,2023-2024
+ENS-E4F1C3D1,Chaari,Rania,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,Professeur,Mathématiques,31,230,56,6,1,2,0.11,Permanent,2023-2024
+ENS-CE253ED0,Chaari,Ines,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,Maître Assistant B,Droit,19,242,15,4,2,4,0.07,Permanent,2023-2024
+ENS-0A8C33E9,Ben Ali,Asma,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,Maître de Conférences,Génie Civil,26,202,17,5,4,3,0.08,Permanent,2023-2024
+ENS-5B91D181,Baccouche,Mehdi,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Cycle Ingénieur,Maître Assistant B,Mathématiques,23,233,48,8,3,2,0.1,Permanent,2023-2024
+ENS-46853588,Trabelsi,Rami,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,Professeur,Mathématiques,32,258,78,0,2,4,0.09,Permanent,2023-2024
+ENS-1DF769CD,Mzoughi,Yassine,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,Maître Assistant A,Biologie,14,243,41,0,4,0,0.04,Vacataire,2023-2024
+ENS-7A3F831F,Khemiri,Bilel,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,Assistant,Biologie,4,214,40,8,1,1,0.05,Permanent,2023-2024
+ENS-F2054AE8,Khlifi,Hamza,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,Maître Assistant B,Mathématiques,20,272,49,8,3,5,0.03,Vacataire,2023-2024
+ENS-F5557CD5,Ben Ali,Khaled,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,Maître de Conférences,Langues,27,273,74,2,0,0,0.12,Permanent,2023-2024
+ENS-28927FD0,Dridi,Nizar,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,Assistant B,Biologie,7,223,63,6,0,4,0.07,Permanent,2023-2024
+ENS-7642BEAF,Gafsi,Yassine,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,Maître Assistant B,Management,21,219,73,2,2,4,0.01,Vacataire,2023-2024
+ENS-90EBF920,Hamdi,Rim,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,Maître Assistant B,Biologie,23,277,28,0,3,2,0.11,Permanent,2023-2024
+ENS-DB27A68B,Khlifi,Tarek,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,Assistant,Chimie,4,250,19,5,3,1,0.02,Permanent,2023-2024
+ENS-DD910044,Khlifi,Yassine,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,Maître de Conférences,Mathématiques,26,343,80,1,0,5,0.08,Permanent,2023-2024
+ENS-D16DAEE8,Aloui,Hamza,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,Assistant,Physique,2,255,59,2,0,1,0.05,Permanent,2023-2024
+ENS-BDB0F266,Dridi,Hajer,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,Maître Assistant A,Biologie,13,344,58,7,2,5,0.02,Permanent,2023-2024
+ENS-7921F3CB,Chaari,Rania,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,Maître Assistant A,Management,14,228,20,7,1,3,0.09,Permanent,2023-2024
+ENS-944E2B27,Zouaghi,Hedi,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,Assistant,Informatique,3,193,83,6,4,5,0.04,Vacataire,2023-2024
+ENS-E6146D9A,Jebali,Rania,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,Assistant B,Langues,8,236,78,3,2,3,0.07,Permanent,2023-2024
+ENS-30B3039F,Hamdi,Sirine,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Chinois,Maître Assistant B,Langues,22,219,35,0,4,3,0.06,Permanent,2023-2024
+ENS-F2967975,Baccouche,Hedi,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,Maître Assistant A,Biologie,15,248,19,4,1,4,0.07,Vacataire,2023-2024
+ENS-3CA18945,Oueslati,Yassine,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,Maître Assistant B,Chimie,22,241,61,6,2,4,0.05,Vacataire,2023-2024
+ENS-7ECBF9B7,Mzoughi,Lina,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,Maître Assistant A,Économie,13,381,62,6,0,3,0.0,Permanent,2023-2024
+ENS-1A1BEEBE,Ben Ali,Mehdi,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,Professeur,Langues,31,219,18,0,3,5,0.07,Vacataire,2023-2024
+ENS-449BC667,Baccouche,Yassine,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,Maître Assistant A,Physique,15,266,37,2,1,5,0.04,Permanent,2023-2024
+ENS-957B025A,Khlifi,Yassine,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,Assistant B,Physique,10,283,40,4,1,3,0.01,Vacataire,2023-2024
+ENS-039693FE,Sfaxi,Rami,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Espagnol,Maître Assistant A,Mathématiques,13,220,75,0,3,1,0.05,Permanent,2023-2024
+ENS-997DFBD7,Mzoughi,Yassine,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,Assistant B,Génie Civil,10,291,22,5,2,4,0.02,Vacataire,2023-2024
+ENS-23B00F17,Mzoughi,Lina,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Espagnol,Maître Assistant B,Management,20,194,72,8,2,4,0.11,Vacataire,2023-2024
+ENS-6A04B371,Mzoughi,Rania,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Espagnol,Assistant,Génie Civil,4,248,85,7,3,5,0.04,Vacataire,2023-2024
+ENS-6B2F0E52,Ayari,Adam,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,Assistant B,Management,7,236,65,5,2,3,0.09,Permanent,2023-2024
+ENS-E4EE9779,Khlifi,Yassine,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Espagnol,Assistant B,Langues,8,244,39,4,1,1,0.12,Permanent,2023-2024
+ENS-6E824C63,Baccouche,Asma,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,Assistant B,Langues,11,296,46,4,0,5,0.1,Permanent,2023-2024
+ENS-FD6B3C5A,Sfaxi,Sami,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,Assistant,Génie Civil,5,260,33,8,1,5,0.07,Permanent,2023-2024
+ENS-C69DAF82,Khemiri,Nizar,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,Maître Assistant B,Génie Civil,23,222,50,2,4,2,0.1,Permanent,2023-2024
+ENS-812EC2CD,Khlifi,Rami,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,Maître Assistant A,Biologie,14,204,55,5,1,3,0.09,Vacataire,2023-2024
+ENS-37213E79,Sfaxi,Lina,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,Maître Assistant B,Biologie,19,245,81,6,1,1,0.06,Permanent,2023-2024
+ENS-30ACD0F4,Baccouche,Rim,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,Maître de Conférences,Génie Civil,27,255,32,4,1,2,0.03,Permanent,2023-2024
+ENS-781C022D,Baccouche,Nour,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,Assistant B,Physique,10,234,45,4,2,3,0.09,Permanent,2023-2024
+ENS-BE199C35,Oueslati,Tarek,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,Maître de Conférences,Économie,28,263,51,4,2,0,0.09,Permanent,2023-2024
+ENS-0121F1FD,Hamdi,Mohamed,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Doctorat,Maître Assistant B,Droit,19,356,16,7,3,1,0.05,Permanent,2023-2024
+ENS-6D7F1C6A,Ben Ali,Ines,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,Maître de Conférences,Chimie,27,215,43,7,2,5,0.02,Vacataire,2023-2024
+ENS-C219CF48,Belhaj,Adam,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,Professeur,Langues,32,296,77,5,0,5,0.1,Permanent,2023-2024
+ENS-9AE5325A,Ben Ali,Lina,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,Assistant B,Physique,11,252,40,0,4,2,0.11,Vacataire,2023-2024
+ENS-86E12115,Ayari,Sarra,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,Assistant B,Mathématiques,8,285,19,3,0,5,0.07,Vacataire,2023-2024
+ENS-830A6794,Jebali,Sami,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Doctorat,Maître Assistant A,Management,16,259,41,4,3,3,0.12,Vacataire,2023-2024
+ENS-52341F04,Jebali,Sami,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Licence,Maître de Conférences,Génie Civil,26,227,71,2,2,0,0.1,Permanent,2023-2024
+ENS-2467D739,Oueslati,Mohamed,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,Assistant B,Droit,11,251,32,3,1,5,0.0,Permanent,2023-2024
+ENS-F7A45F4D,Baccouche,Yassine,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,Professeur,Informatique,30,286,68,7,4,3,0.04,Vacataire,2023-2024
+ENS-95186736,Gafsi,Mehdi,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,Assistant B,Langues,7,212,71,2,4,1,0.06,Vacataire,2023-2024
+ENS-95CE688B,Baccouche,Sami,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,Maître Assistant B,Physique,21,216,39,5,0,1,0.08,Permanent,2023-2024
+ENS-179B8239,Khlifi,Mariem,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Master,Maître Assistant A,Management,15,282,61,3,2,3,0.01,Permanent,2023-2024
+ENS-085A8FBE,Ayari,Lina,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,Maître Assistant A,Informatique,12,231,34,6,1,1,0.0,Vacataire,2023-2024
+ENS-F9616C63,Aloui,Tarek,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,Assistant,Management,4,228,62,1,2,4,0.09,Permanent,2023-2024
+ENS-B2F7A5BE,Hamdi,Sirine,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,Maître de Conférences,Physique,26,195,67,7,2,3,0.06,Vacataire,2023-2024
+ENS-F89BCE7B,Mzoughi,Nizar,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,Assistant,Génie Civil,5,208,27,4,4,0,0.05,Permanent,2023-2024
+ENS-F477EE0E,Baccouche,Tarek,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,Maître Assistant A,Mathématiques,17,283,40,6,4,0,0.06,Permanent,2023-2024
+ENS-661476E2,Khlifi,Sirine,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Master,Professeur,Langues,32,236,75,7,0,0,0.08,Vacataire,2023-2024
+ENS-914C10F0,Mansouri,Hedi,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,Assistant,Biologie,3,262,79,2,1,0,0.07,Vacataire,2023-2024
+ENS-100F8497,Mzoughi,Asma,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,Professeur,Biologie,32,259,55,6,4,1,0.11,Permanent,2023-2024
+ENS-A575DC2D,Aloui,Rania,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Licence,Professeur,Économie,30,284,43,4,1,4,0.08,Vacataire,2023-2024
+ENS-192AE00D,Oueslati,Sirine,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,Maître de Conférences,Droit,25,206,84,0,3,1,0.1,Permanent,2023-2024
+ENS-8F256ABD,Mzoughi,Hedi,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,Maître Assistant B,Droit,21,212,41,3,0,2,0.09,Permanent,2023-2024
+ENS-251DC4CE,Dridi,Mariem,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,Assistant,Chimie,5,416,51,5,3,3,0.11,Permanent,2023-2024
+ENS-C1A1B64E,Hamdi,Mariem,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Licence,Maître de Conférences,Informatique,27,254,66,5,3,4,0.06,Permanent,2023-2024
+ENS-BD314407,Hamdi,Rami,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,Assistant B,Informatique,7,224,78,6,3,4,0.08,Permanent,2023-2024
+ENS-96C8D7E2,Khemiri,Lina,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Licence,Maître Assistant A,Économie,17,219,35,2,1,1,0.07,Permanent,2023-2024
+ENS-AD5A8CBB,Belhaj,Hamza,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,Assistant,Mathématiques,5,249,25,4,3,3,0.07,Permanent,2023-2024
+ENS-96F506A8,Baccouche,Khaled,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,Assistant B,Génie Civil,8,330,58,2,2,0,0.08,Vacataire,2023-2024
+ENS-DE5CD1DB,Jebali,Rami,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,Assistant B,Langues,9,323,41,7,1,4,0.02,Permanent,2023-2024
+ENS-82FAA84F,Dridi,Hajer,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Master,Assistant B,Management,11,272,62,5,0,3,0.05,Permanent,2023-2024
+ENS-B0CFDCA8,Mansouri,Sarra,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Master,Assistant,Chimie,1,268,22,7,2,0,0.08,Permanent,2023-2024
+ENS-43367387,Hamdi,Rania,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Master,Professeur,Management,32,253,40,0,0,5,0.11,Permanent,2023-2024
+ENS-C4465D4F,Trabelsi,Tarek,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,Assistant,Management,1,212,16,2,4,3,0.02,Permanent,2023-2024
+ENS-BAA74743,Belhaj,Sami,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,Maître de Conférences,Management,24,217,31,4,1,1,0.11,Permanent,2023-2024
+ENS-F8AB5D87,Belhaj,Nizar,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,Maître Assistant B,Chimie,21,265,45,4,2,2,0.11,Vacataire,2023-2024
+ENS-2C21153A,Mzoughi,Lina,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,Maître de Conférences,Physique,28,275,29,3,0,5,0.07,Permanent,2023-2024
+ENS-18A003A3,Aloui,Rami,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,Assistant B,Biologie,8,203,44,7,2,3,0.1,Permanent,2023-2024
+ENS-C7FEC938,Jebali,Nizar,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,Maître Assistant A,Droit,13,292,38,5,0,0,0.01,Permanent,2023-2024
+ENS-F0F15027,Ben Ali,Adam,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Doctorat,Assistant B,Management,11,215,71,6,2,3,0.06,Permanent,2023-2024
+ENS-933184F5,Zouaghi,Adam,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,Assistant,Langues,3,264,39,0,2,1,0.1,Vacataire,2023-2024
+ENS-DF774425,Dridi,Sami,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,Maître Assistant B,Physique,21,410,60,5,1,2,0.08,Permanent,2023-2024
+ENS-C18AEE0F,Mzoughi,Ines,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,Assistant B,Chimie,6,266,58,1,2,4,0.11,Permanent,2023-2024
+ENS-886A36ED,Baccouche,Hedi,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,Maître Assistant B,Informatique,21,265,19,8,2,1,0.05,Permanent,2023-2024
+ENS-F86A2D03,Hamdi,Tarek,M,UCAR-SUPCOM,Sup'Com,Licence,Maître Assistant A,Physique,16,216,56,6,1,2,0.12,Vacataire,2023-2024
+ENS-A7FD5F37,Dridi,Mariem,F,UCAR-SUPCOM,Sup'Com,Cycle Ingénieur,Maître Assistant A,Chimie,14,234,84,0,3,0,0.02,Vacataire,2023-2024
+ENS-B488FBD4,Chaari,Hajer,F,UCAR-SUPCOM,Sup'Com,Doctorat,Assistant,Économie,1,345,17,2,3,5,0.11,Permanent,2023-2024
+ENS-0C210FDF,Sfaxi,Mariem,F,UCAR-SUPCOM,Sup'Com,Doctorat,Professeur,Management,31,298,49,1,3,4,0.0,Permanent,2023-2024
+ENS-9F344862,Dridi,Hedi,M,UCAR-SUPCOM,Sup'Com,Cycle Ingénieur,Maître Assistant A,Biologie,14,235,75,3,4,3,0.07,Vacataire,2023-2024
+ENS-2B54ACBE,Mzoughi,Hamza,M,UCAR-SUPCOM,Sup'Com,Cycle Ingénieur,Assistant B,Langues,7,231,23,3,1,3,0.05,Permanent,2023-2024
+ENS-14C05169,Baccouche,Hajer,F,UCAR-SUPCOM,Sup'Com,Cycle Ingénieur,Professeur,Biologie,30,260,83,3,3,0,0.05,Permanent,2023-2024
+ENS-F3381198,Khemiri,Hajer,F,UCAR-SUPCOM,Sup'Com,Doctorat,Maître de Conférences,Informatique,25,204,22,0,0,2,0.03,Vacataire,2023-2024
+ENS-E7B552A0,Baccouche,Rania,F,UCAR-SUPCOM,Sup'Com,Master,Assistant B,Physique,9,300,57,6,0,1,0.07,Vacataire,2023-2024
+ENS-B90A9877,Chaari,Asma,F,UCAR-SUPCOM,Sup'Com,Doctorat,Maître de Conférences,Physique,25,289,59,8,1,3,0.06,Permanent,2023-2024
+ENS-F57408D4,Aloui,Mariem,F,UCAR-SUPCOM,Sup'Com,Doctorat,Assistant,Management,3,285,55,5,4,3,0.05,Vacataire,2023-2024
+ENS-EE4F653C,Khemiri,Nizar,M,UCAR-SUPCOM,Sup'Com,Licence,Maître Assistant A,Droit,16,267,55,7,1,1,0.06,Permanent,2023-2024
+ENS-E14742F8,Trabelsi,Hamza,M,UCAR-SUPCOM,Sup'Com,Licence,Professeur,Chimie,31,386,39,0,4,3,0.05,Vacataire,2023-2024
+ENS-AFC343E2,Trabelsi,Bilel,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,Assistant B,Mathématiques,8,290,34,8,2,3,0.12,Vacataire,2023-2024
+ENS-3325AED2,Oueslati,Mohamed,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,Assistant B,Informatique,11,202,83,8,1,2,0.06,Permanent,2023-2024
+ENS-D3E9D659,Oueslati,Sirine,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,Maître Assistant B,Droit,19,227,50,5,4,2,0.02,Permanent,2023-2024
+ENS-5F31023B,Gafsi,Ines,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,Assistant,Génie Civil,3,274,65,0,3,5,0.05,Permanent,2023-2024
+ENS-66152CD8,Khemiri,Nizar,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,Maître de Conférences,Management,27,300,18,2,0,2,0.06,Permanent,2023-2024
+ENS-553C6107,Mzoughi,Sarra,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Licence,Assistant B,Économie,10,213,64,7,3,1,0.03,Vacataire,2023-2024
+ENS-464C74F4,Ayari,Maissa,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,Assistant B,Chimie,11,296,49,8,3,4,0.04,Vacataire,2023-2024
+ENS-4FE69983,Aloui,Hamza,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,Professeur,Génie Civil,32,270,46,8,4,3,0.07,Permanent,2023-2024
+ENS-00AA0ABD,Mansouri,Nour,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Licence,Maître Assistant B,Mathématiques,20,278,36,8,4,5,0.07,Vacataire,2023-2024
+ENS-6B27A9E7,Sfaxi,Lina,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,Maître Assistant B,Génie Civil,19,268,25,4,1,1,0.09,Permanent,2023-2024
+ENS-9CCE368C,Aloui,Nour,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,Maître Assistant A,Langues,12,278,75,5,4,5,0.04,Permanent,2023-2024
+ENS-2BCE83F8,Dridi,Hamza,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Licence,Assistant,Génie Civil,1,285,21,2,3,2,0.08,Vacataire,2023-2024
+ENS-33CB47BE,Khlifi,Mohamed,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,Professeur,Physique,30,263,49,4,0,4,0.03,Vacataire,2023-2024
+ENS-7F52AB8E,Belhaj,Yassine,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,Maître Assistant B,Management,18,255,46,2,3,4,0.12,Permanent,2023-2024
+ENS-E011FC8E,Oueslati,Bilel,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Cycle Ingénieur,Professeur,Physique,30,197,57,2,3,4,0.1,Permanent,2023-2024
+ENS-E2C25150,Jebali,Sami,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,Assistant,Droit,2,289,33,8,0,3,0.1,Permanent,2023-2024
+ENS-0593FF7F,Jebali,Hamza,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,Maître de Conférences,Génie Civil,26,196,19,2,3,2,0.03,Permanent,2023-2024
+ENS-9C8F5DAA,Trabelsi,Yassine,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,Assistant,Biologie,2,200,83,1,2,3,0.06,Vacataire,2023-2024
+ENS-3A84FCB6,Gafsi,Tarek,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,Assistant B,Droit,10,276,23,8,3,2,0.07,Permanent,2023-2024
+ENS-709B3EED,Dridi,Yassine,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,Maître Assistant A,Droit,14,254,44,4,2,5,0.12,Permanent,2023-2024
+ENS-AF181AD4,Belhaj,Nour,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,Assistant,Langues,4,274,72,8,0,4,0.07,Permanent,2023-2024
+ENS-034B9620,Sfaxi,Lina,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,Assistant B,Mathématiques,10,225,36,5,2,0,0.08,Permanent,2023-2024
+ENS-8277AFBA,Aloui,Mariem,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,Assistant,Chimie,4,202,45,1,1,4,0.04,Permanent,2023-2024
+ENS-7A31CF11,Dridi,Sirine,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,Assistant,Informatique,4,221,38,5,0,0,0.1,Permanent,2023-2024
+ENS-8CC2D663,Trabelsi,Hajer,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,Maître de Conférences,Langues,26,217,40,4,1,1,0.07,Vacataire,2023-2024
+ENS-BBBA1C53,Ayari,Nizar,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,Maître Assistant B,Biologie,23,281,55,0,2,4,0.03,Permanent,2023-2024
+ENS-0F49F273,Chaari,Nour,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,Assistant,Langues,1,226,79,1,1,2,0.02,Vacataire,2023-2024
+ENS-F29DB5E9,Trabelsi,Lina,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,Maître Assistant A,Mathématiques,15,297,16,1,0,1,0.08,Permanent,2023-2024
+ENS-3CC23357,Ayari,Salma,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,Professeur,Économie,31,225,72,1,1,2,0.04,Permanent,2023-2024
+ENS-94F51D9A,Sfaxi,Maissa,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,Assistant B,Physique,7,241,48,8,0,0,0.07,Vacataire,2023-2024
+ENS-1C210D16,Zouaghi,Ahmed,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,Assistant B,Droit,9,356,52,3,1,3,0.09,Vacataire,2023-2024
+ENS-6CC88D03,Trabelsi,Adam,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Doctorat,Assistant,Mathématiques,1,231,53,3,4,2,0.04,Vacataire,2023-2024
+ENS-27CE5880,Chaari,Nizar,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,Assistant B,Biologie,11,278,26,1,3,5,0.0,Vacataire,2023-2024
+ENS-BDAAB488,Chaari,Rim,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,Assistant B,Mathématiques,8,259,56,4,1,1,0.06,Permanent,2023-2024
+ENS-4116B45D,Hamdi,Ahmed,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,Maître Assistant A,Économie,12,363,66,7,0,0,0.08,Permanent,2023-2024
+ENS-0AC7CFA8,Mzoughi,Amira,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,Maître Assistant B,Management,22,277,19,6,4,5,0.02,Permanent,2023-2024
+ENS-15336ADF,Trabelsi,Sarra,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,Maître de Conférences,Management,26,216,60,2,0,0,0.03,Permanent,2023-2024
+ENS-B841F877,Dridi,Adam,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,Assistant B,Mathématiques,7,253,54,1,2,5,0.03,Permanent,2023-2024
+ENS-FB6FDACF,Chaari,Yassine,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Master,Maître Assistant B,Langues,20,237,56,2,3,5,0.08,Permanent,2023-2024
+ENS-2F0F2BCF,Ayari,Tarek,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,Maître de Conférences,Génie Civil,27,287,18,6,0,0,0.02,Permanent,2023-2024
+ENS-FFC92C11,Hamdi,Nour,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Master,Maître de Conférences,Droit,29,246,54,4,1,3,0.01,Permanent,2023-2024
+ENS-05947F06,Khemiri,Sirine,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,Professeur,Langues,31,218,17,3,3,3,0.07,Permanent,2023-2024
+ENS-67D26703,Aloui,Mehdi,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,Maître Assistant A,Management,13,297,74,0,3,3,0.01,Permanent,2023-2024
+ENS-B3EAF709,Mzoughi,Hamza,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,Maître Assistant B,Physique,22,256,19,4,4,2,0.07,Permanent,2023-2024
+ENS-E0371C8A,Aloui,Tarek,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,Maître de Conférences,Informatique,28,256,78,5,1,4,0.05,Permanent,2023-2024
+ENS-E8AF06C9,Oueslati,Rim,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,Maître Assistant B,Langues,23,199,21,8,4,4,0.1,Permanent,2023-2024
+ENS-A8F62E41,Khemiri,Adam,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Licence,Maître de Conférences,Mathématiques,28,210,25,1,3,4,0.02,Permanent,2023-2024
+ENS-DBB13F02,Sfaxi,Rim,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,Maître Assistant A,Droit,15,208,76,2,1,2,0.07,Permanent,2023-2024
+ENS-A7B3A1AF,Baccouche,Lina,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Licence,Assistant B,Mathématiques,10,331,64,8,1,2,0.03,Vacataire,2023-2024
+ENS-D58FEFC5,Belhaj,Adam,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Doctorat,Assistant,Économie,1,228,18,4,1,5,0.12,Permanent,2023-2024
+ENS-80F686EB,Trabelsi,Mohamed,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,Maître de Conférences,Économie,24,369,45,4,0,0,0.03,Vacataire,2023-2024
+ENS-02878103,Ayari,Hamza,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,Maître Assistant A,Droit,15,206,44,4,2,4,0.05,Permanent,2023-2024
+ENS-E937B86C,Baccouche,Rim,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,Assistant,Management,3,246,48,5,4,3,0.08,Permanent,2023-2024
+ENS-F427E289,Chaari,Hedi,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,Maître Assistant B,Management,22,238,17,5,2,3,0.12,Permanent,2023-2024
+ENS-D9EA6AB2,Hamdi,Mohamed,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,Maître Assistant A,Biologie,17,245,60,5,2,5,0.11,Permanent,2023-2024
+ENS-6B6DA197,Aloui,Hajer,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,Maître Assistant B,Droit,23,291,41,8,3,3,0.05,Permanent,2023-2024
+ENS-431FA734,Mzoughi,Ines,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,Assistant,Droit,4,365,73,0,0,2,0.11,Vacataire,2023-2024
+ENS-C8EED255,Mansouri,Hamza,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,Maître Assistant A,Informatique,12,375,32,5,0,4,0.1,Permanent,2023-2024
+ENS-714945C4,Trabelsi,Hedi,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,Maître Assistant A,Biologie,13,244,28,8,0,5,0.0,Permanent,2023-2024
+ENS-776E89CC,Zouaghi,Ines,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Doctorat,Maître de Conférences,Informatique,29,257,65,0,3,3,0.02,Vacataire,2023-2024
+ENS-466E2B66,Belhaj,Bilel,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Doctorat,Maître Assistant B,Génie Civil,22,215,33,1,4,3,0.08,Vacataire,2023-2024
+ENS-A56B67B7,Baccouche,Amira,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Licence,Maître Assistant A,Génie Civil,12,269,33,1,2,5,0.12,Permanent,2023-2024
+ENS-9738A359,Khlifi,Hajer,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,Maître Assistant A,Mathématiques,14,248,26,6,0,3,0.07,Vacataire,2023-2024
+ENS-FA32D2D9,Aloui,Mehdi,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,Maître de Conférences,Management,27,278,21,6,0,3,0.02,Permanent,2023-2024
+ENS-BBA47761,Belhaj,Khaled,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,Maître de Conférences,Génie Civil,28,230,35,4,3,0,0.11,Permanent,2023-2024
+ENS-E6A913C2,Trabelsi,Asma,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,Maître de Conférences,Informatique,26,197,64,4,0,2,0.03,Permanent,2023-2024
+ENS-5F4049CA,Mzoughi,Nizar,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Master,Maître Assistant B,Informatique,21,262,38,5,1,5,0.08,Permanent,2023-2024
+ENS-265C0397,Khlifi,Mohamed,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Master,Assistant,Langues,3,232,50,0,3,4,0.03,Permanent,2023-2024
+ENS-686A0CCC,Jebali,Sarra,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Master,Maître Assistant B,Physique,23,415,77,0,4,0,0.12,Permanent,2023-2024
+ENS-8E3E48B5,Sfaxi,Rania,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,Assistant,Langues,3,270,22,0,3,3,0.12,Permanent,2023-2024
+ENS-5609DA80,Hamdi,Asma,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Master,Maître de Conférences,Génie Civil,24,276,84,4,4,1,0.03,Permanent,2023-2024
+ENS-0825BE6C,Khemiri,Yassine,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Licence,Professeur,Mathématiques,31,197,66,1,2,3,0.08,Permanent,2023-2024
+ENS-C3DC6B3A,Chaari,Yassine,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Licence,Assistant,Informatique,2,242,25,1,3,3,0.08,Vacataire,2023-2024
+ENS-716B4892,Belhaj,Hedi,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Licence,Maître Assistant B,Physique,22,242,56,6,1,5,0.02,Vacataire,2023-2024
+ENS-F3AAC4EB,Khlifi,Sami,M,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,Professeur,Biologie,30,244,31,8,2,1,0.03,Vacataire,2023-2024
+ENS-4384FD2B,Baccouche,Rim,F,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,Professeur,Mathématiques,31,282,61,1,1,0,0.02,Permanent,2023-2024
+ENS-79F2B89E,Baccouche,Amira,F,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,Assistant B,Physique,9,247,61,7,1,4,0.06,Permanent,2023-2024
+ENS-22DA6A97,Hamdi,Ahmed,M,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,Maître Assistant A,Génie Civil,17,226,25,5,4,3,0.01,Permanent,2023-2024
+ENS-902033AB,Trabelsi,Khaled,M,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,Maître Assistant B,Physique,22,291,64,8,3,2,0.01,Vacataire,2023-2024
+ENS-5EE4E49D,Trabelsi,Fatma,F,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,Maître de Conférences,Langues,29,295,70,6,4,2,0.09,Vacataire,2023-2024
+ENS-3166571B,Gafsi,Hamza,M,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,Assistant,Mathématiques,5,275,19,8,3,5,0.07,Vacataire,2023-2024
+ENS-78E29072,Mansouri,Ines,F,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,Maître de Conférences,Économie,24,205,80,3,0,3,0.03,Permanent,2023-2024
+ENS-27A1F438,Sfaxi,Rania,F,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,Maître Assistant A,Biologie,16,265,78,5,4,3,0.01,Vacataire,2023-2024
+ENS-E7C1FB4A,Aloui,Ahmed,M,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,Maître Assistant A,Chimie,14,299,82,6,1,4,0.05,Vacataire,2023-2024
+ENS-FAFBB797,Hamdi,Mehdi,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,Maître de Conférences,Langues,26,215,49,1,2,5,0.1,Vacataire,2023-2024
+ENS-37B44F27,Dridi,Mariem,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,Maître Assistant B,Biologie,20,215,23,1,4,1,0.02,Permanent,2023-2024
+ENS-618F27F3,Chaari,Asma,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,Maître de Conférences,Génie Civil,24,272,39,4,4,2,0.12,Permanent,2023-2024
+ENS-5B7A803B,Khemiri,Maissa,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Licence,Maître de Conférences,Mathématiques,27,218,78,4,3,2,0.08,Permanent,2023-2024
+ENS-3122E6E4,Trabelsi,Lina,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Master,Maître Assistant B,Langues,18,195,44,7,4,0,0.07,Permanent,2023-2024
+ENS-B501534B,Khemiri,Sami,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,Maître de Conférences,Droit,27,252,47,5,3,1,0.02,Permanent,2023-2024
+ENS-D5AB8F5C,Sfaxi,Nizar,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,Maître Assistant A,Chimie,14,214,77,8,0,5,0.03,Permanent,2023-2024
+ENS-1B7C4109,Belhaj,Sarra,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,Maître Assistant A,Mathématiques,13,274,25,5,4,5,0.11,Vacataire,2023-2024
+ENS-D65389A9,Sfaxi,Ahmed,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,Assistant B,Physique,6,280,22,2,1,1,0.09,Permanent,2023-2024
+ENS-139023DE,Gafsi,Sami,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Licence,Maître Assistant B,Biologie,23,235,83,4,3,4,0.05,Permanent,2023-2024
+ENS-6ADDE718,Sfaxi,Rami,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,Assistant B,Droit,7,197,16,3,2,1,0.05,Permanent,2023-2024
+ENS-2C8B4BA2,Mansouri,Anis,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,Assistant,Langues,3,214,37,7,3,1,0.03,Permanent,2023-2024
+ENS-3F54B437,Mzoughi,Hedi,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Master,Assistant,Informatique,2,270,31,3,0,1,0.02,Permanent,2023-2024
+ENS-5F9533E5,Sfaxi,Bilel,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,Maître Assistant B,Biologie,21,295,49,5,4,0,0.11,Vacataire,2023-2024
+ENS-A0FDD7BB,Hamdi,Maissa,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,Assistant,Droit,5,269,26,4,4,4,0.04,Permanent,2023-2024
+ENS-E3AD9FCD,Jebali,Mehdi,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Doctorat,Assistant B,Économie,11,197,69,8,0,4,0.05,Vacataire,2023-2024
+ENS-83851B81,Mzoughi,Maissa,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,Maître de Conférences,Économie,25,325,49,8,0,3,0.03,Permanent,2023-2024
+ENS-03DA1540,Oueslati,Nizar,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,Assistant,Physique,2,200,72,8,4,1,0.04,Permanent,2023-2024
+ENS-2F0D3352,Gafsi,Amira,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,Maître Assistant A,Informatique,14,246,33,2,1,2,0.03,Permanent,2023-2024
+ENS-C7848AB6,Mzoughi,Mariem,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Doctorat,Maître de Conférences,Informatique,26,251,45,0,3,2,0.02,Permanent,2023-2024
+ENS-37C56DAA,Hamdi,Ines,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,Maître de Conférences,Économie,26,219,38,6,1,5,0.07,Permanent,2023-2024
+ENS-090F0556,Ayari,Salma,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Cycle Ingénieur,Maître Assistant A,Physique,16,223,16,5,2,5,0.04,Vacataire,2023-2024
+ENS-D4CC5FB2,Mzoughi,Bilel,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,Professeur,Informatique,32,293,22,3,2,0,0.09,Permanent,2023-2024
+ENS-3E7EAFA4,Khlifi,Tarek,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,Assistant B,Chimie,9,206,34,2,1,3,0.1,Vacataire,2023-2024
+ENS-890B3F9C,Trabelsi,Nour,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,Maître Assistant A,Biologie,12,292,18,4,4,1,0.05,Permanent,2023-2024
+ENS-44E2D3FD,Dridi,Sirine,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,Assistant,Biologie,5,242,79,0,2,0,0.08,Vacataire,2023-2024
+ENS-428F581B,Zouaghi,Mariem,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,Maître de Conférences,Droit,24,243,56,3,2,1,0.06,Vacataire,2023-2024
+ENS-5A50B4EC,Chaari,Nizar,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,Assistant B,Génie Civil,8,205,46,5,1,2,0.07,Permanent,2023-2024
+ENS-A4815764,Jebali,Maissa,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,Professeur,Génie Civil,32,236,57,1,4,5,0.04,Vacataire,2023-2024
+ENS-539925B9,Baccouche,Sarra,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,Assistant,Biologie,2,223,33,7,3,0,0.09,Vacataire,2023-2024
+ENS-DC907D27,Chaari,Rim,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,Maître Assistant A,Informatique,12,277,20,0,1,2,0.12,Permanent,2023-2024
+ENS-7717CC91,Jebali,Ahmed,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,Professeur,Mathématiques,31,228,47,7,1,3,0.09,Permanent,2023-2024
+ENS-F25A2AF9,Trabelsi,Lina,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Licence,Assistant,Génie Civil,2,299,37,3,2,1,0.03,Permanent,2023-2024
+ENS-2AF241C4,Belhaj,Adam,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Licence,Maître de Conférences,Management,25,292,77,6,2,3,0.12,Vacataire,2023-2024
+ENS-1FD206FF,Trabelsi,Adam,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,Maître Assistant A,Management,17,267,52,0,0,1,0.01,Permanent,2023-2024
+ENS-2EDDA9F9,Ben Ali,Khaled,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Licence,Assistant B,Physique,9,291,29,0,2,0,0.1,Permanent,2023-2024
+ENS-ADAE9513,Jebali,Khaled,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,Maître Assistant A,Langues,13,256,70,4,1,5,0.08,Permanent,2023-2024

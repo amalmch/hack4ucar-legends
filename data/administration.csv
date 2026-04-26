@@ -1,0 +1,33 @@
+institution_id,institution_name,ville,annee_budgetaire,budget_alloue_tnd,budget_execute_tnd,budget_execute_pct,nb_personnels_admin,nb_enseignants_total,nb_etudiants_total,nb_salles_cours,nb_amphitheatres,nb_salles_informatique,nb_equipements_info,surface_campus_m2,nb_conventions_nationales,nb_conventions_intl,nb_projets_recherche,financements_recherche_tnd,consommation_energie_kwh,taux_recyclage_pct,nb_etudiants_mobilite_out,nb_etudiants_mobilite_in,taux_reussite_global,taux_abandon_global,taux_emploi_diplomes,annee_reference
+UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Tunis,2024,7079527,4247716,0.6,74,62,973,25,6,12,236,6281,16,3,20,143580,317521,0.16,6,18,0.55,0.23,0.6,2023-2024
+UCAR-FSB,Faculté des Sciences de Bizerte,Bizerte,2024,7916430,7520608,0.95,60,177,1903,33,4,8,190,17634,15,12,9,663765,241868,0.57,28,8,0.59,0.07,0.53,2023-2024
+UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Nabeul,2024,6150269,5104723,0.83,30,48,1861,52,3,6,104,5232,13,5,10,116813,434847,0.12,31,10,0.72,0.12,0.74,2023-2024
+UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Tunis,2024,8777229,5968516,0.68,59,82,2236,12,6,8,118,4667,2,3,13,291423,552374,0.5,13,9,0.67,0.27,0.81,2023-2024
+UCAR-EPT,Ecole Polytechnique de Tunisie,Carthage,2024,8907604,5433638,0.61,20,134,3617,49,1,9,112,15625,15,1,20,543152,477495,0.21,22,9,0.58,0.2,0.47,2023-2024
+UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Carthage,2024,14818197,8742736,0.59,70,169,1311,18,1,4,192,15700,9,5,3,299329,510346,0.49,33,20,0.67,0.18,0.85,2023-2024
+UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Tunis,2024,9837246,7279562,0.74,70,83,4439,46,5,3,100,22446,6,12,13,445529,560294,0.28,23,15,0.78,0.16,0.77,2023-2024
+UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Gammarth,2024,14680769,14533961,0.99,49,75,3771,59,3,8,196,23180,16,9,14,166166,87060,0.45,19,12,0.89,0.17,0.5,2023-2024
+UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Bizerte,2024,8365692,8282035,0.99,26,49,466,18,7,5,46,19672,7,6,4,456430,154878,0.13,32,25,0.83,0.06,0.6,2023-2024
+UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Carthage,2024,14546809,11637447,0.8,22,54,2889,13,8,9,52,24992,13,6,12,559169,532149,0.2,41,12,0.75,0.17,0.85,2023-2024
+UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Tunis,2024,9123172,15691856,1.72,24,158,4336,57,6,8,105,24256,5,2,12,532058,127619,0.28,14,0,0.85,0.11,0.52,2023-2024
+UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Mateur,2024,7283079,6554771,0.9,66,109,2393,44,3,10,55,8164,3,3,10,305175,356141,0.38,1,25,0.89,0.04,0.76,2023-2024
+UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Nabeul,2024,10313262,6394222,0.62,39,136,3825,54,7,9,48,8390,13,3,11,272972,265490,0.16,19,9,0.77,0.11,0.61,2023-2024
+UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,La Marsa,2024,13982204,14261848,1.02,61,85,1266,48,8,4,229,3528,16,5,1,733976,306791,0.41,28,10,0.89,0.12,0.67,2023-2024
+UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Nabeul,2024,10088739,8978978,0.89,46,87,2980,56,3,2,200,15250,2,5,20,521655,170542,0.33,34,23,0.88,0.18,0.65,2023-2024
+UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Tunis,2024,6424662,5268223,0.82,40,128,1950,45,3,4,106,11806,9,6,10,641396,255819,0.28,0,14,0.81,0.18,0.46,2023-2024
+UCAR-ISLT,Institut Supérieur des Langues de Tunis,Tunis,2024,3674028,2755521,0.75,53,139,4231,41,4,5,163,23979,7,7,6,788037,585159,0.4,41,26,0.9,0.1,0.63,2023-2024
+UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Nabeul,2024,11509002,10818462,0.94,20,33,2195,45,3,9,120,13296,10,6,13,243231,175034,0.39,17,26,0.77,0.12,0.64,2023-2024
+UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Borj Cédria,2024,3922120,3373023,0.86,49,98,1629,18,1,12,42,15527,4,4,18,467885,428798,0.1,25,25,0.63,0.19,0.57,2023-2024
+UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Bizerte,2024,5861898,5217089,0.89,57,116,3441,26,6,10,248,18923,5,5,1,122090,216107,0.48,22,22,0.74,0.04,0.6,2023-2024
+UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Soukra,2024,10403721,10195647,0.98,71,99,2894,20,3,4,226,9606,2,7,5,733788,318053,0.05,34,11,0.6,0.21,0.85,2023-2024
+UCAR-SUPCOM,Sup'Com,Ariana,2024,7591269,7515356,0.99,64,102,2046,48,2,12,155,20134,5,3,4,338861,383056,0.32,6,18,0.76,0.16,0.65,2023-2024
+UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Mograne,2024,3908349,2384093,0.61,68,167,3373,28,8,6,244,16783,6,11,12,53839,176996,0.26,20,7,0.9,0.2,0.71,2023-2024
+UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Mateur,2024,2940958,1617527,0.55,39,115,3733,50,2,3,173,14010,3,7,9,97587,319553,0.23,7,24,0.66,0.07,0.66,2023-2024
+UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Tunis,2024,3337727,3404482,1.02,23,120,877,51,6,5,71,21990,12,2,3,737455,270527,0.14,2,16,0.85,0.13,0.84,2023-2024
+UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Bizerte,2024,8078625,7836266,0.97,36,51,2005,38,1,11,190,21426,2,6,7,456196,215662,0.56,29,18,0.67,0.11,0.84,2023-2024
+UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Tunis,2024,6101208,5491087,0.9,51,56,3175,14,3,12,135,6310,10,10,10,470944,300143,0.44,4,11,0.78,0.19,0.7,2023-2024
+UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Carthage,2024,6791806,5297609,0.78,20,35,1932,42,5,10,110,14892,11,4,20,729511,411322,0.28,6,16,0.82,0.05,0.79,2023-2024
+UCAR-INAT,Institut National Agronomique de Tunisie,Tunis,2024,6419287,4044151,0.63,64,163,3679,31,7,12,103,19581,6,4,18,741990,461205,0.34,18,12,0.58,0.16,0.61,2023-2024
+UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Sidi Dhrif,2024,4085089,2614457,0.64,76,45,451,35,1,5,136,23514,15,4,3,51198,550452,0.54,23,19,0.57,0.08,0.58,2023-2024
+UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Ariana,2024,7579587,7503791,0.99,30,93,3113,13,6,4,210,9255,4,4,13,127184,130909,0.57,21,23,0.69,0.14,0.5,2023-2024
+UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Ariana,2024,10181655,8959856,0.88,71,165,2900,21,5,10,43,16617,5,2,1,694913,523328,0.62,9,6,0.64,0.16,0.77,2023-2024

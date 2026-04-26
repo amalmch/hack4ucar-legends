@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap');
+
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@layer base {
+  body {
+    @apply font-sans bg-slate-50 text-slate-900 min-h-screen antialiased overflow-x-hidden;
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(37, 99, 235, 0.05) 0px, transparent 50%),
+      radial-gradient(at 100% 100%, rgba(79, 70, 229, 0.05) 0px, transparent 50%);
+    background-attachment: fixed;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-bold tracking-tight text-slate-900;
+  }
+}
+
+@layer components {
+  /* Layout */
+  .app-container {
+    @apply flex min-h-screen;
+  }
+
+  .main-content {
+    @apply flex-1 p-8;
+  }
+
+  /* Glass Cards */
+  .glass-card {
+    @apply bg-white/80 backdrop-blur-xl border border-white/50 rounded-2xl p-6 shadow-sm transition-all duration-300;
+  }
+  
+  .glass-card:hover {
+    @apply shadow-xl -translate-y-1;
+  }
+
+  /* Inputs & Forms */
+  .form-input {
+    @apply w-full py-3 pr-4 pl-11 bg-white border border-slate-200 rounded-xl text-slate-900 font-medium outline-none transition-all duration-300 shadow-inner;
+  }
+
+  .form-input:focus {
+    @apply border-ucar-500 ring-4 ring-ucar-500/10;
+  }
+
+  .btn-primary {
+    @apply w-full py-3 px-4 bg-accent-gradient rounded-xl text-white font-semibold flex justify-center items-center gap-2 transition-all duration-300 shadow-md;
+  }
+
+  .btn-primary:hover:not(:disabled) {
+    @apply -translate-y-0.5 shadow-lg bg-accent-gradient-hover;
+  }
+
+  .btn-primary:active:not(:disabled) {
+    @apply translate-y-0;
+  }
+
+  .btn-primary:disabled {
+    @apply opacity-70 cursor-not-allowed;
+  }
+
+  /* Tables */
+  .table-container {
+    @apply overflow-x-auto rounded-2xl bg-white shadow-sm border border-slate-100;
+  }
+
+  table {
+    @apply w-full border-collapse;
+  }
+
+  th {
+    @apply text-left py-4 px-5 text-slate-500 font-semibold text-xs uppercase tracking-wider border-b border-slate-100 bg-slate-50/50;
+  }
+
+  td {
+    @apply py-4 px-5 border-b border-slate-100 text-slate-900 font-medium transition-colors duration-200;
+  }
+
+  tr:last-child td {
+    @apply border-b-0;
+  }
+
+  tr:hover td {
+    @apply bg-slate-50;
+  }
+
+  /* Alerts */
+  .alert-banner {
+    @apply p-5 rounded-2xl flex items-center gap-4 mb-6 shadow-sm transition-transform duration-300;
+  }
+
+  .alert-banner:hover {
+    @apply translate-x-1;
+  }
+
+  .alert-critical {
+    @apply bg-red-50 border border-red-200 text-red-800;
+  }
+
+  .alert-critical strong {
+    @apply text-red-900;
+  }
+
+  .alert-warning {
+    @apply bg-amber-50 border border-amber-200 text-amber-900;
+  }
+}
+
+/* Stagger children animations */
+.animate-fade > * {
+  opacity: 0;
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.animate-fade > *:nth-child(1) { animation-delay: 0.1s; }
+.animate-fade > *:nth-child(2) { animation-delay: 0.2s; }
+.animate-fade > *:nth-child(3) { animation-delay: 0.3s; }
+.animate-fade > *:nth-child(4) { animation-delay: 0.4s; }
+.animate-fade > *:nth-child(5) { animation-delay: 0.5s; }
+
+@media print {
+  body.printing-mode aside, body.printing-mode nav { display: none !important; }
+  body.printing-mode main { margin: 0 !important; padding: 0 !important; width: 100% !important; max-width: 100% !important; }
+  body.printing-mode .glass-card { box-shadow: none !important; border: 1px solid #e2e8f0 !important; }
+  body.printing-mode .table-container { box-shadow: none !important; }
+}
+

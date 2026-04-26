@@ -1,0 +1,82 @@
+version: "3.9"
+
+services:
+  # ── Binôme B Flask API ─────────────────────────────────
+  binome-b-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: binome_b_api
+    ports:
+      - "5001:5001"
+    environment:
+      FLASK_ENV: development
+      PORT: 5001
+      DB_HOST: timescaledb
+      DB_PORT: 5432
+      DB_NAME: ucar_db
+      DB_USER: ucar_admin
+      DB_PASS: secret
+      REDIS_URL: redis://redis:6379/0
+      JWT_SECRET_KEY: "jwt-super-secret-change-in-prod"
+      INTERNAL_API_KEY: "binome-a-internal-key"
+      MISTRAL_BACKEND: "ollama"
+      OLLAMA_URL: "http://ollama:11434"
+      MODELS_DIR: "/app/saved_models"
+    volumes:
+      - .:/app
+      - ./saved_models:/app/saved_models
+      - ./exports:/app/exports
+      - ./logs:/app/logs
+    depends_on:
+      - timescaledb
+      - redis
+    networks:
+      - ucar-net
+    restart: unless-stopped
+
+  # ── TimescaleDB (shared with Binôme A) ─────────────────
+  timescaledb:
+    image: timescale/timescaledb:latest-pg16
+    container_name: ucar_timescaledb
+    environment:
+      POSTGRES_DB: ucar_db
+      POSTGRES_USER: ucar_admin
+      POSTGRES_PASSWORD: secret
+    ports:
+      - "5432:5432"
+    volumes:
+      - timescale_data:/var/lib/postgresql/data
+    networks:
+      - ucar-net
+
+  # ── Redis ──────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    container_name: ucar_redis
+    ports:
+      - "6379:6379"
+    networks:
+      - ucar-net
+
+  # ── Ollama (Mistral 7B local) ──────────────────────────
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ucar_ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    networks:
+      - ucar-net
+    # After first startup, run: docker exec ucar_ollama ollama pull mistral:7b
+
+volumes:
+  timescale_data:
+  ollama_data:
+
+networks:
+  ucar-net:
+    driver: bridge
+    # Binôme A should connect to this same network
+    # Add to Binôme A's docker-compose: networks: - ucar-net (external: true)

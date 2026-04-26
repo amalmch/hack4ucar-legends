@@ -1,0 +1,422 @@
+{
+  "info": {
+    "name": "UCAR — Binôme B Full Test Suite",
+    "description": "End-to-end tests with real KPI data. Run in ORDER: Auth → Ingest → Anomaly → Predict → XAI → Alerts → Reports",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "base_url", "value": "http://localhost:5001" },
+    { "key": "token", "value": "" },
+    { "key": "internal_key", "value": "binome-a-internal-key" },
+    { "key": "report_id", "value": "" }
+  ],
+  "item": [
+    {
+      "name": "0 — Auth",
+      "item": [
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/health"
+          }
+        },
+        {
+          "name": "Get Dev Token (superadmin)",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "var json = pm.response.json();",
+                  "pm.collectionVariables.set('token', json.token);",
+                  "pm.test('Token received', () => pm.expect(json.token).to.be.a('string'));"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "url": "{{base_url}}/dev/token"
+          }
+        }
+      ]
+    },
+    {
+      "name": "1 — Ingest Real KPI Data",
+      "item": [
+        {
+          "name": "Ingest Batch — 5 Institutions (90 days)",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "X-Internal-Key", "value": "{{internal_key}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/internal/kpi/ingest",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"records\": [\n    {\"institution_id\":\"ENS-ALGER\",\"date\":\"2024-01-01\",\"taux_reussite\":0.74,\"taux_abandon\":0.11,\"budget_execute_pct\":0.82,\"gender_ratio\":0.58,\"nb_inscriptions\":1420},\n    {\"institution_id\":\"ENS-ALGER\",\"date\":\"2024-02-01\",\"taux_reussite\":0.71,\"taux_abandon\":0.13,\"budget_execute_pct\":0.85,\"gender_ratio\":0.57,\"nb_inscriptions\":1390},\n    {\"institution_id\":\"ENS-ALGER\",\"date\":\"2024-03-01\",\"taux_reussite\":0.68,\"taux_abandon\":0.15,\"budget_execute_pct\":0.89,\"gender_ratio\":0.57,\"nb_inscriptions\":1350},\n    {\"institution_id\":\"ENS-ALGER\",\"date\":\"2024-04-01\",\"taux_reussite\":0.65,\"taux_abandon\":0.17,\"budget_execute_pct\":0.92,\"gender_ratio\":0.56,\"nb_inscriptions\":1310},\n    {\"institution_id\":\"ENS-ALGER\",\"date\":\"2024-05-01\",\"taux_reussite\":0.08,\"taux_abandon\":0.92,\"budget_execute_pct\":1.75,\"gender_ratio\":0.30,\"nb_inscriptions\":400},\n    {\"institution_id\":\"UNIV-ORAN\",\"date\":\"2024-01-01\",\"taux_reussite\":0.78,\"taux_abandon\":0.09,\"budget_execute_pct\":0.79,\"gender_ratio\":0.53,\"nb_inscriptions\":6100},\n    {\"institution_id\":\"UNIV-ORAN\",\"date\":\"2024-02-01\",\"taux_reussite\":0.80,\"taux_abandon\":0.08,\"budget_execute_pct\":0.81,\"gender_ratio\":0.53,\"nb_inscriptions\":6200},\n    {\"institution_id\":\"UNIV-ORAN\",\"date\":\"2024-03-01\",\"taux_reussite\":0.79,\"taux_abandon\":0.09,\"budget_execute_pct\":0.84,\"gender_ratio\":0.54,\"nb_inscriptions\":6150},\n    {\"institution_id\":\"UNIV-ORAN\",\"date\":\"2024-04-01\",\"taux_reussite\":0.77,\"taux_abandon\":0.10,\"budget_execute_pct\":0.86,\"gender_ratio\":0.54,\"nb_inscriptions\":6050},\n    {\"institution_id\":\"UNIV-ORAN\",\"date\":\"2024-05-01\",\"taux_reussite\":0.75,\"taux_abandon\":0.11,\"budget_execute_pct\":0.88,\"gender_ratio\":0.53,\"nb_inscriptions\":5980},\n    {\"institution_id\":\"UNIV-CONSTANTINE\",\"date\":\"2024-01-01\",\"taux_reussite\":0.66,\"taux_abandon\":0.14,\"budget_execute_pct\":0.71,\"gender_ratio\":0.56,\"nb_inscriptions\":5200},\n    {\"institution_id\":\"UNIV-CONSTANTINE\",\"date\":\"2024-02-01\",\"taux_reussite\":0.64,\"taux_abandon\":0.16,\"budget_execute_pct\":0.74,\"gender_ratio\":0.55,\"nb_inscriptions\":5100},\n    {\"institution_id\":\"UNIV-CONSTANTINE\",\"date\":\"2024-03-01\",\"taux_reussite\":0.63,\"taux_abandon\":0.17,\"budget_execute_pct\":0.76,\"gender_ratio\":0.55,\"nb_inscriptions\":5050},\n    {\"institution_id\":\"UNIV-CONSTANTINE\",\"date\":\"2024-04-01\",\"taux_reussite\":0.61,\"taux_abandon\":0.19,\"budget_execute_pct\":0.78,\"gender_ratio\":0.54,\"nb_inscriptions\":4900},\n    {\"institution_id\":\"UNIV-CONSTANTINE\",\"date\":\"2024-05-01\",\"taux_reussite\":0.59,\"taux_abandon\":0.21,\"budget_execute_pct\":0.80,\"gender_ratio\":0.54,\"nb_inscriptions\":4800},\n    {\"institution_id\":\"FST-BEJAIA\",\"date\":\"2024-01-01\",\"taux_reussite\":0.82,\"taux_abandon\":0.07,\"budget_execute_pct\":0.90,\"gender_ratio\":0.49,\"nb_inscriptions\":2800},\n    {\"institution_id\":\"FST-BEJAIA\",\"date\":\"2024-02-01\",\"taux_reussite\":0.83,\"taux_abandon\":0.07,\"budget_execute_pct\":0.91,\"gender_ratio\":0.49,\"nb_inscriptions\":2820},\n    {\"institution_id\":\"FST-BEJAIA\",\"date\":\"2024-03-01\",\"taux_reussite\":0.81,\"taux_abandon\":0.08,\"budget_execute_pct\":0.93,\"gender_ratio\":0.50,\"nb_inscriptions\":2780},\n    {\"institution_id\":\"ISET-ANNABA\",\"date\":\"2024-01-01\",\"taux_reussite\":0.55,\"taux_abandon\":0.25,\"budget_execute_pct\":0.60,\"gender_ratio\":0.45,\"nb_inscriptions\":1800},\n    {\"institution_id\":\"ISET-ANNABA\",\"date\":\"2024-02-01\",\"taux_reussite\":0.53,\"taux_abandon\":0.27,\"budget_execute_pct\":0.62,\"gender_ratio\":0.45,\"nb_inscriptions\":1750},\n    {\"institution_id\":\"ISET-ANNABA\",\"date\":\"2024-03-01\",\"taux_reussite\":0.50,\"taux_abandon\":0.30,\"budget_execute_pct\":0.58,\"gender_ratio\":0.44,\"nb_inscriptions\":1700},\n    {\"institution_id\":\"ISET-ANNABA\",\"date\":\"2024-04-01\",\"taux_reussite\":0.48,\"taux_abandon\":0.33,\"budget_execute_pct\":0.55,\"gender_ratio\":0.44,\"nb_inscriptions\":1650},\n    {\"institution_id\":\"ISET-ANNABA\",\"date\":\"2024-05-01\",\"taux_reussite\":0.45,\"taux_abandon\":0.36,\"budget_execute_pct\":0.52,\"gender_ratio\":0.43,\"nb_inscriptions\":1600}\n  ]\n}"
+            }
+          }
+        },
+        {
+          "name": "Ingest Single Record — New Data Point",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "X-Internal-Key", "value": "{{internal_key}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/internal/kpi/ingest",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"institution_id\": \"ENS-ALGER\",\n  \"date\": \"2024-06-01\",\n  \"taux_reussite\": 0.70,\n  \"taux_abandon\": 0.12,\n  \"budget_execute_pct\": 0.93,\n  \"gender_ratio\": 0.57,\n  \"nb_inscriptions\": 1380\n}"
+            }
+          }
+        },
+        {
+          "name": "Internal Status Check",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "X-Internal-Key", "value": "{{internal_key}}" }],
+            "url": "{{base_url}}/internal/status"
+          }
+        }
+      ]
+    },
+    {
+      "name": "2 — KPI Queries",
+      "item": [
+        {
+          "name": "Get Latest KPIs (all)",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{base_url}}/api/kpi/latest"
+          }
+        },
+        {
+          "name": "Get Latest KPIs — ENS-ALGER only",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": {
+              "raw": "{{base_url}}/api/kpi/latest?institution_id=ENS-ALGER",
+              "query": [{ "key": "institution_id", "value": "ENS-ALGER" }]
+            }
+          }
+        },
+        {
+          "name": "KPI History — Last 90 days",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": {
+              "raw": "{{base_url}}/api/kpi/history?days=90&institution_id=UNIV-ORAN",
+              "query": [
+                { "key": "days", "value": "90" },
+                { "key": "institution_id", "value": "UNIV-ORAN" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "KPI Aggregate (all institutions)",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{base_url}}/api/kpi/aggregate"
+          }
+        }
+      ]
+    },
+    {
+      "name": "3 — Anomaly Detection",
+      "item": [
+        {
+          "name": "Run Anomaly Detection (Isolation Forest)",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Authorization", "value": "Bearer {{token}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/api/anomalies/run",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"method\": \"isolation_forest\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Run Anomaly Detection — ENS-ALGER only",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Authorization", "value": "Bearer {{token}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/api/anomalies/run",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"institution_id\": \"ENS-ALGER\",\n  \"method\": \"isolation_forest\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Get All Anomalies",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{base_url}}/api/anomalies"
+          }
+        },
+        {
+          "name": "Get Critical Anomalies Only",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": {
+              "raw": "{{base_url}}/api/anomalies?severity=critical",
+              "query": [{ "key": "severity", "value": "critical" }]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "4 — Predictions",
+      "item": [
+        {
+          "name": "Run Prophet Forecast — taux_reussite",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Authorization", "value": "Bearer {{token}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/api/predictions/run",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"method\": \"prophet\",\n  \"metric\": \"taux_reussite\",\n  \"horizon\": 30,\n  \"institution_id\": \"ENS-ALGER\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Run Prophet Forecast — taux_abandon",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Authorization", "value": "Bearer {{token}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/api/predictions/run",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"method\": \"prophet\",\n  \"metric\": \"taux_abandon\",\n  \"horizon\": 60,\n  \"institution_id\": \"ISET-ANNABA\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Get Cached Predictions",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{base_url}}/api/predictions"
+          }
+        }
+      ]
+    },
+    {
+      "name": "5 — XAI Explanations",
+      "item": [
+        {
+          "name": "Explain Anomaly Row 0",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": {
+              "raw": "{{base_url}}/api/xai/explain?row_index=0&method=shap&top_n=5",
+              "query": [
+                { "key": "row_index", "value": "0" },
+                { "key": "method", "value": "shap" },
+                { "key": "top_n", "value": "5" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "XAI Batch Explain All Anomalies",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{base_url}}/api/xai/explain/batch"
+          }
+        }
+      ]
+    },
+    {
+      "name": "6 — Alerts",
+      "item": [
+        {
+          "name": "Generate AI Alerts",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{base_url}}/api/alerts/generate"
+          }
+        },
+        {
+          "name": "Get All Alerts",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{base_url}}/api/alerts"
+          }
+        },
+        {
+          "name": "Get Critical Alerts Only",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": {
+              "raw": "{{base_url}}/api/alerts?severity=critical",
+              "query": [{ "key": "severity", "value": "critical" }]
+            }
+          }
+        },
+        {
+          "name": "Get Alerts — ENS-ALGER",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": {
+              "raw": "{{base_url}}/api/alerts?institution_id=ENS-ALGER",
+              "query": [{ "key": "institution_id", "value": "ENS-ALGER" }]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "7 — Reports",
+      "item": [
+        {
+          "name": "Generate JSON Report — ENS-ALGER",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "var json = pm.response.json();",
+                  "if(json.report_id) pm.collectionVariables.set('report_id', json.report_id);"
+                ]
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Authorization", "value": "Bearer {{token}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/api/reports/generate",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"institution_name\": \"ENS-ALGER\",\n  \"format\": \"json\",\n  \"use_llm\": false\n}"
+            }
+          }
+        },
+        {
+          "name": "Generate PDF Report — UNIV-ORAN",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Authorization", "value": "Bearer {{token}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/api/reports/generate",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"institution_name\": \"UNIV-ORAN\",\n  \"format\": \"pdf\",\n  \"use_llm\": false\n}"
+            }
+          }
+        },
+        {
+          "name": "Get Report by ID",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{base_url}}/api/reports/{{report_id}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "8 — Edge Cases & Error Handling",
+      "item": [
+        {
+          "name": "No Auth — should return 401",
+          "request": {
+            "method": "GET",
+            "url": "{{base_url}}/api/kpi/latest"
+          }
+        },
+        {
+          "name": "Ingest Missing Field",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "X-Internal-Key", "value": "{{internal_key}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/internal/kpi/ingest",
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"institution_id\": \"TEST-INST\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Wrong Internal Key — should return 401",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "X-Internal-Key", "value": "wrong-key" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/internal/kpi/ingest",
+            "body": {
+              "mode": "raw",
+              "raw": "{\"institution_id\": \"X\", \"date\": \"2024-01-01\"}"
+            }
+          }
+        },
+        {
+          "name": "Anomaly on Empty Store — should return 400",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Authorization", "value": "Bearer {{token}}" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "url": "{{base_url}}/api/anomalies/run",
+            "body": {
+              "mode": "raw",
+              "raw": "{ \"institution_id\": \"DOES-NOT-EXIST\" }"
+            }
+          }
+        },
+        {
+          "name": "Report — Non-existent ID",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+            "url": "{{base_url}}/api/reports/00000000-0000-0000-0000-000000000000"
+          }
+        }
+      ]
+    }
+  ]
+}

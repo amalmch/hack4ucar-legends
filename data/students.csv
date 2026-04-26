@@ -1,0 +1,961 @@
+student_id,nom,prenom,genre,institution_id,institution_name,programme,niveau,annee_inscription,ville_origine,boursier,moyenne_s1,moyenne_s2,nb_absences_s1,nb_absences_s2,statut,annee_academique
+ETU-877BEED2,Ayari,Sami,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Licence,L2,2023,Ariana,Oui,12.56,12.37,3,0,actif,2023-2024
+ETU-F1BF10D5,Hamdi,Hedi,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,M1,2021,Tunis,Non,2.13,2.42,43,40,abandonne,2023-2024
+ETU-1960D6E5,Gafsi,Rim,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,M2,2024,Tunis,Oui,16.58,16.99,3,6,actif,2023-2024
+ETU-F11F821A,Gafsi,Bilel,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,L1,2022,Manouba,Non,17.37,16.84,9,8,actif,2023-2024
+ETU-5FFBE149,Mzoughi,Salma,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,M2,2021,Manouba,Non,11.53,10.13,5,2,actif,2023-2024
+ETU-F98D09F7,Oueslati,Nour,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,L3,2024,Nabeul,Oui,7.79,9.19,8,5,actif,2023-2024
+ETU-3D4F4A04,Khlifi,Bilel,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Licence,L3,2021,Sousse,Non,12.4,10.99,9,3,diplome,2023-2024
+ETU-BD1636FE,Sfaxi,Sami,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,M2,2021,Nabeul,Non,17.06,17.35,1,2,diplome,2023-2024
+ETU-8EF40C19,Belhaj,Hajer,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,L3,2020,Manouba,Non,14.78,16.59,3,1,diplome,2023-2024
+ETU-FF16E07E,Zouaghi,Nour,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,L2,2022,Manouba,Non,7.1,8.14,8,5,actif,2023-2024
+ETU-E6A9E88A,Belhaj,Mariem,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,L3,2022,Bizerte,Non,14.7,14.69,9,9,diplome,2023-2024
+ETU-AEE332E3,Khemiri,Rami,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Licence,L3,2020,Nabeul,Non,9.43,10.21,11,5,actif,2023-2024
+ETU-58679C5C,Ben Ali,Mehdi,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,M2,2021,Sfax,Non,8.28,8.86,5,3,actif,2023-2024
+ETU-D200EE07,Khlifi,Sami,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,M2,2022,Ben Arous,Oui,13.14,12.63,4,5,diplome,2023-2024
+ETU-5E36C86C,Zouaghi,Hedi,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Doctorat,M2,2023,Monastir,Non,11.89,13.48,10,0,actif,2023-2024
+ETU-00970D7D,Oueslati,Mehdi,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Doctorat,L1,2024,Monastir,Oui,15.52,17.28,6,4,actif,2023-2024
+ETU-08C56C93,Gafsi,Hamza,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,M2,2020,Monastir,Non,7.29,7.7,7,4,actif,2023-2024
+ETU-75D788C2,Ayari,Sami,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Licence,L1,2020,Tunis,Non,14.56,14.1,4,4,actif,2023-2024
+ETU-4565F3C4,Chaari,Fatma,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,L3,2021,Zaghouan,Non,16.38,16.98,10,4,actif,2023-2024
+ETU-A603491A,Ayari,Sami,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Licence,M1,2023,Sfax,Non,11.93,11.26,12,3,actif,2023-2024
+ETU-80537F54,Mansouri,Rania,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,L2,2021,Tunis,Oui,7.6,8.04,6,5,actif,2023-2024
+ETU-5267C293,Khlifi,Amira,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,L1,2022,Sfax,Oui,7.54,6.12,5,2,actif,2023-2024
+ETU-A82070C5,Ben Ali,Yassine,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,L2,2020,Manouba,Oui,9.25,10.9,9,3,actif,2023-2024
+ETU-63CC3FAB,Khemiri,Sami,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Doctorat,L1,2023,Sousse,Non,15.14,14.92,5,5,actif,2023-2024
+ETU-4036CA5A,Jebali,Khaled,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Doctorat,L3,2022,Ariana,Oui,12.66,14.6,10,10,actif,2023-2024
+ETU-DB42D1A0,Belhaj,Sami,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,L1,2021,Zaghouan,Non,13.68,12.35,5,7,actif,2023-2024
+ETU-8B81558A,Khemiri,Rim,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,M1,2021,Bizerte,Non,15.19,14.14,1,0,actif,2023-2024
+ETU-903852E8,Ben Ali,Sami,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,L3,2022,Nabeul,Oui,7.84,7.43,11,7,actif,2023-2024
+ETU-F99054CD,Hamdi,Nizar,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,M2,2022,Manouba,Non,7.44,7.8,8,3,actif,2023-2024
+ETU-2880ABAE,Sfaxi,Mohamed,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Licence,L2,2021,Sousse,Non,4.34,5.88,40,11,abandonne,2023-2024
+ETU-388922BA,Chaari,Rania,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Master,M1,2021,Zaghouan,Oui,12.09,13.24,3,3,actif,2023-2024
+ETU-E5BDA79F,Belhaj,Nizar,M,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Doctorat,L3,2023,Manouba,Non,8.5,9.63,9,12,actif,2023-2024
+ETU-EC6792A9,Chaari,Amira,F,UCAR-FSJPST,"Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",Cycle Ingénieur,L3,2022,Sousse,Non,9.81,10.16,1,3,actif,2023-2024
+ETU-617EAB18,Sfaxi,Yassine,M,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,L2,2022,Tunis,Non,14.04,15.94,0,2,actif,2023-2024
+ETU-24A7D3D1,Trabelsi,Sarra,F,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,L3,2022,Ben Arous,Oui,8.04,9.53,12,15,actif,2023-2024
+ETU-C2C38877,Gafsi,Tarek,M,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,M1,2022,Ariana,Non,7.94,7.61,9,2,actif,2023-2024
+ETU-305C1908,Sfaxi,Rania,F,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,L2,2023,Zaghouan,Non,15.43,13.96,6,0,actif,2023-2024
+ETU-5D179E03,Dridi,Sirine,F,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,M2,2024,Sousse,Oui,16.91,16.73,6,8,diplome,2023-2024
+ETU-B52521AF,Baccouche,Ines,F,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,L1,2020,Sousse,Oui,17.03,18.13,9,8,actif,2023-2024
+ETU-12BA203B,Ayari,Nour,F,UCAR-FSB,Faculté des Sciences de Bizerte,Master,M1,2023,Sousse,Non,7.46,8.78,11,6,actif,2023-2024
+ETU-9F101E26,Aloui,Ines,F,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,M2,2023,Sfax,Non,11.77,12.85,3,6,diplome,2023-2024
+ETU-B28D2A89,Mansouri,Adam,M,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,M1,2023,Nabeul,Oui,9.08,10.85,10,11,actif,2023-2024
+ETU-5C634DBD,Khlifi,Sarra,F,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,M1,2022,Monastir,Oui,7.02,7.42,1,1,actif,2023-2024
+ETU-16D99D04,Baccouche,Sirine,F,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,L2,2024,Bizerte,Non,12.65,13.9,4,6,actif,2023-2024
+ETU-D77595D4,Oueslati,Lina,F,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,L2,2023,Zaghouan,Oui,16.8,16.38,7,5,actif,2023-2024
+ETU-A76AE651,Gafsi,Tarek,M,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,L2,2021,Ariana,Non,15.02,14.77,9,8,actif,2023-2024
+ETU-D016E340,Belhaj,Mehdi,M,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,M2,2024,Nabeul,Oui,8.26,7.87,1,4,actif,2023-2024
+ETU-300B597C,Sfaxi,Adam,M,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,L2,2022,Monastir,Oui,17.16,17.35,8,3,actif,2023-2024
+ETU-C227D237,Ben Ali,Nour,F,UCAR-FSB,Faculté des Sciences de Bizerte,Master,L2,2024,Monastir,Non,7.13,8.49,5,8,actif,2023-2024
+ETU-96724D05,Mansouri,Lina,F,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,L3,2023,Sousse,Oui,8.28,8.86,6,1,actif,2023-2024
+ETU-C305D6CB,Sfaxi,Bilel,M,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,M1,2021,Manouba,Non,13.97,12.93,9,0,actif,2023-2024
+ETU-543B25D5,Trabelsi,Lina,F,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,M1,2021,Sfax,Non,12.8,11.52,1,3,actif,2023-2024
+ETU-38017139,Mzoughi,Rania,F,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,L2,2023,Ben Arous,Oui,12.82,13.0,10,0,actif,2023-2024
+ETU-F50F8BF1,Sfaxi,Mohamed,M,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,M2,2022,Tunis,Oui,14.24,13.55,0,3,diplome,2023-2024
+ETU-CEF7E2F8,Trabelsi,Tarek,M,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,M1,2023,Ben Arous,Non,7.9,9.81,3,3,actif,2023-2024
+ETU-F8C1AE76,Jebali,Mohamed,M,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,L1,2023,Bizerte,Non,9.66,8.74,6,0,actif,2023-2024
+ETU-B44FC1DD,Zouaghi,Lina,F,UCAR-FSB,Faculté des Sciences de Bizerte,Licence,M2,2021,Sousse,Non,13.51,12.33,1,1,diplome,2023-2024
+ETU-235FB68C,Gafsi,Lina,F,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,L2,2020,Tunis,Non,16.28,15.79,12,8,actif,2023-2024
+ETU-2A839C1E,Ayari,Yassine,M,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,M1,2022,Ben Arous,Oui,11.65,13.53,10,12,actif,2023-2024
+ETU-45CA3E54,Oueslati,Mariem,F,UCAR-FSB,Faculté des Sciences de Bizerte,Cycle Ingénieur,L1,2020,Zaghouan,Non,8.73,10.29,3,5,actif,2023-2024
+ETU-B2648F25,Belhaj,Salma,F,UCAR-FSB,Faculté des Sciences de Bizerte,Doctorat,M1,2022,Sousse,Oui,17.41,18.46,3,6,actif,2023-2024
+ETU-7776076A,Ben Ali,Ahmed,M,UCAR-FSB,Faculté des Sciences de Bizerte,Master,L2,2020,Tunis,Oui,14.57,13.67,11,11,actif,2023-2024
+ETU-7D41BFE5,Jebali,Fatma,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,L3,2023,Nabeul,Non,12.41,10.92,3,4,actif,2023-2024
+ETU-59E97B14,Chaari,Adam,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,L2,2023,Sousse,Oui,12.01,13.19,12,9,actif,2023-2024
+ETU-B4498FB3,Dridi,Mariem,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,M2,2020,Sousse,Non,6.45,7.58,12,10,actif,2023-2024
+ETU-953ACD54,Sfaxi,Yassine,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,L1,2020,Sousse,Non,10.83,9.78,5,2,actif,2023-2024
+ETU-F2757394,Hamdi,Mohamed,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,M1,2023,Nabeul,Non,12.98,12.76,11,7,actif,2023-2024
+ETU-0DCFD217,Dridi,Sarra,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,L2,2020,Sousse,Non,7.14,8.32,12,8,actif,2023-2024
+ETU-1051B629,Chaari,Adam,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,L1,2024,Sfax,Oui,12.16,11.37,9,12,actif,2023-2024
+ETU-FA4DA619,Baccouche,Rami,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,M1,2023,Zaghouan,Non,11.8,12.3,9,0,actif,2023-2024
+ETU-B314CE3A,Trabelsi,Nizar,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,L3,2024,Sfax,Non,12.58,11.31,3,3,actif,2023-2024
+ETU-FE04869A,Aloui,Lina,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,L3,2021,Nabeul,Non,16.76,17.34,9,11,actif,2023-2024
+ETU-1623A527,Baccouche,Rami,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,L3,2020,Sfax,Non,16.38,17.6,9,12,actif,2023-2024
+ETU-216E64BF,Ayari,Sirine,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,L3,2024,Sousse,Non,4.01,3.17,18,18,actif,2023-2024
+ETU-72B94630,Mzoughi,Lina,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,L3,2020,Ben Arous,Oui,9.4,9.65,4,3,actif,2023-2024
+ETU-15FED92F,Dridi,Khaled,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,M1,2023,Nabeul,Non,16.62,16.17,0,2,actif,2023-2024
+ETU-DB7507FC,Khlifi,Lina,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Master,M2,2021,Tunis,Non,15.22,14.92,4,3,actif,2023-2024
+ETU-5FB0B1E1,Dridi,Nour,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,M1,2022,Monastir,Non,7.09,7.84,0,1,actif,2023-2024
+ETU-4A710908,Khemiri,Maissa,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,L2,2022,Sousse,Non,9.34,9.22,4,4,actif,2023-2024
+ETU-34FD7A1C,Zouaghi,Fatma,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Master,L3,2024,Tunis,Oui,9.52,10.53,4,4,actif,2023-2024
+ETU-08D20C30,Sfaxi,Sirine,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,L3,2024,Monastir,Oui,7.39,6.15,0,0,actif,2023-2024
+ETU-B2F1BF42,Gafsi,Asma,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,M1,2020,Manouba,Non,11.13,11.83,10,4,actif,2023-2024
+ETU-24888613,Trabelsi,Adam,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,M2,2020,Tunis,Oui,7.8,7.17,0,0,actif,2023-2024
+ETU-2D6812CD,Jebali,Mohamed,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,M2,2023,Tunis,Non,8.8,8.04,11,11,actif,2023-2024
+ETU-64FADA13,Khemiri,Salma,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,M2,2021,Sfax,Non,17.04,17.53,1,4,diplome,2023-2024
+ETU-ECFEC67D,Ayari,Asma,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,M1,2024,Sfax,Non,13.48,14.72,4,1,actif,2023-2024
+ETU-A0FCA3EB,Sfaxi,Maissa,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,L1,2024,Monastir,Non,9.87,10.86,9,1,actif,2023-2024
+ETU-B38C020A,Ben Ali,Rami,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,M1,2021,Tunis,Non,7.87,9.0,8,10,actif,2023-2024
+ETU-ED3E4EAE,Baccouche,Tarek,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,M1,2023,Ariana,Non,10.79,11.5,5,0,actif,2023-2024
+ETU-F00BEF4C,Chaari,Bilel,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Licence,L3,2021,Tunis,Non,9.66,11.58,10,4,actif,2023-2024
+ETU-ADFF5B32,Jebali,Mariem,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,M2,2024,Ariana,Non,9.3,10.33,8,6,actif,2023-2024
+ETU-F148A28C,Mansouri,Asma,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,L3,2024,Ariana,Non,14.88,13.53,6,1,diplome,2023-2024
+ETU-18CD9181,Trabelsi,Sirine,F,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,L1,2022,Ben Arous,Non,14.91,16.19,9,4,actif,2023-2024
+ETU-528C838F,Baccouche,Bilel,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,L3,2021,Monastir,Non,11.38,10.17,5,8,actif,2023-2024
+ETU-886A2EAB,Oueslati,Tarek,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Doctorat,M2,2023,Bizerte,Non,11.58,13.21,0,1,diplome,2023-2024
+ETU-DD2D9C44,Ben Ali,Nizar,M,UCAR-FSEGN,Faculté des Sciences Economiques et de Gestion de Nabeul,Cycle Ingénieur,L3,2022,Ariana,Non,14.9,16.79,5,7,diplome,2023-2024
+ETU-B5A532D4,Aloui,Rim,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,L2,2023,Zaghouan,Oui,11.75,11.08,10,9,actif,2023-2024
+ETU-CC968C89,Jebali,Asma,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L2,2024,Nabeul,Non,16.37,16.76,1,3,actif,2023-2024
+ETU-E8947C1C,Ayari,Ines,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,M1,2023,Ben Arous,Oui,8.89,7.54,4,6,actif,2023-2024
+ETU-08C53B2F,Khlifi,Sarra,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M2,2021,Manouba,Non,5.75,5.15,30,22,actif,2023-2024
+ETU-60532503,Sfaxi,Rami,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,M1,2021,Ben Arous,Oui,3.58,4.79,31,33,abandonne,2023-2024
+ETU-6F295340,Jebali,Mariem,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M1,2020,Bizerte,Non,12.83,14.03,2,3,actif,2023-2024
+ETU-39D43F3E,Ben Ali,Rania,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L2,2024,Manouba,Non,15.4,15.22,7,4,actif,2023-2024
+ETU-E99FAE86,Oueslati,Lina,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,L3,2023,Zaghouan,Non,7.47,8.55,3,3,actif,2023-2024
+ETU-6EAD3071,Khlifi,Sirine,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L1,2022,Nabeul,Oui,8.99,7.57,7,7,actif,2023-2024
+ETU-D3B3CBB7,Trabelsi,Rim,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L2,2023,Bizerte,Non,7.52,7.48,6,7,actif,2023-2024
+ETU-FAD01C09,Ben Ali,Yassine,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,M1,2020,Sfax,Oui,15.54,14.76,7,9,actif,2023-2024
+ETU-8D2F036C,Aloui,Rim,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M2,2024,Zaghouan,Non,5.66,4.98,23,4,actif,2023-2024
+ETU-53BFD9C0,Khemiri,Salma,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M1,2022,Monastir,Non,13.62,14.02,7,0,actif,2023-2024
+ETU-C0A5AA71,Ayari,Yassine,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L3,2022,Sfax,Non,11.99,13.36,10,11,diplome,2023-2024
+ETU-BB6E60D4,Gafsi,Salma,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L2,2023,Manouba,Oui,17.1,15.88,9,4,actif,2023-2024
+ETU-A835A7B6,Ayari,Mohamed,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L1,2023,Tunis,Non,13.9,14.5,9,6,actif,2023-2024
+ETU-B9B2B729,Khemiri,Tarek,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L1,2020,Monastir,Non,11.5,10.87,2,1,actif,2023-2024
+ETU-99E4F0F6,Sfaxi,Ines,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,M2,2020,Tunis,Non,12.67,13.2,9,10,diplome,2023-2024
+ETU-4572405C,Baccouche,Anis,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,L2,2020,Sousse,Non,4.39,4.81,26,18,abandonne,2023-2024
+ETU-2557145B,Khlifi,Amira,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M1,2022,Manouba,Non,11.33,9.89,2,5,actif,2023-2024
+ETU-E1072021,Gafsi,Amira,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M1,2024,Manouba,Non,11.48,11.17,3,1,actif,2023-2024
+ETU-A64E709B,Zouaghi,Ahmed,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L2,2024,Sousse,Oui,13.38,13.92,10,4,actif,2023-2024
+ETU-EB709E79,Belhaj,Maissa,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,L3,2020,Nabeul,Oui,15.29,15.26,7,5,diplome,2023-2024
+ETU-506A9B42,Ben Ali,Bilel,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,M1,2022,Zaghouan,Non,8.31,9.98,9,3,actif,2023-2024
+ETU-FAD6F9BD,Khlifi,Ines,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,L3,2020,Nabeul,Non,12.94,13.06,10,1,actif,2023-2024
+ETU-48789886,Mansouri,Rania,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M1,2024,Nabeul,Oui,12.95,13.52,1,3,actif,2023-2024
+ETU-5FEBCDEC,Dridi,Mariem,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L1,2021,Bizerte,Non,15.56,16.28,8,8,actif,2023-2024
+ETU-0EEC661F,Mzoughi,Ahmed,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M1,2022,Manouba,Non,14.03,13.01,9,12,actif,2023-2024
+ETU-BD0FD0F8,Hamdi,Khaled,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,L2,2023,Monastir,Non,8.49,9.1,6,2,actif,2023-2024
+ETU-8A3354E9,Oueslati,Khaled,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,M1,2023,Ariana,Non,12.58,13.53,3,1,actif,2023-2024
+ETU-743D87F6,Sfaxi,Anis,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M2,2023,Tunis,Non,11.61,13.04,6,7,diplome,2023-2024
+ETU-457D424A,Khlifi,Sirine,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,L1,2022,Ben Arous,Non,17.06,18.24,1,2,actif,2023-2024
+ETU-36AC4C2A,Oueslati,Salma,F,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Urbanisme,M2,2022,Monastir,Non,10.83,11.16,5,2,diplome,2023-2024
+ETU-AAFC6DBF,Ayari,Anis,M,UCAR-ENAU,Ecole Nationale d'Architecture et d'Urbanisme de Tunis,Architecture,M1,2022,Nabeul,Oui,13.33,14.11,7,2,actif,2023-2024
+ETU-30ED58A7,Jebali,Amira,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Licence,L3,2023,Ariana,Oui,8.27,8.36,12,13,actif,2023-2024
+ETU-F4465E9C,Khlifi,Nizar,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Licence,M1,2021,Monastir,Oui,9.44,10.48,4,2,actif,2023-2024
+ETU-2F805FB7,Khlifi,Nizar,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Master,M1,2021,Tunis,Non,7.08,6.16,12,0,actif,2023-2024
+ETU-7E6450BE,Oueslati,Maissa,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,L3,2020,Monastir,Non,13.08,11.84,1,2,diplome,2023-2024
+ETU-07A560C3,Dridi,Salma,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Doctorat,L3,2024,Tunis,Non,9.69,10.0,12,12,actif,2023-2024
+ETU-F05F4875,Ayari,Fatma,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Master,M2,2022,Sousse,Non,9.49,8.01,3,4,actif,2023-2024
+ETU-ED6A88EA,Hamdi,Anis,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Licence,M1,2024,Tunis,Non,7.58,6.82,5,5,actif,2023-2024
+ETU-24F3FA42,Ben Ali,Mariem,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,M2,2023,Sousse,Non,9.92,11.05,7,1,actif,2023-2024
+ETU-B39318A1,Mansouri,Tarek,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Master,M1,2021,Tunis,Non,13.34,14.06,4,2,actif,2023-2024
+ETU-72AE425C,Aloui,Bilel,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Doctorat,L1,2024,Nabeul,Non,10.27,9.04,7,4,actif,2023-2024
+ETU-1A360BC8,Belhaj,Sarra,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Master,M2,2021,Zaghouan,Oui,13.78,14.42,8,1,diplome,2023-2024
+ETU-787B08BD,Mzoughi,Maissa,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Licence,M1,2022,Tunis,Non,13.5,14.87,3,0,actif,2023-2024
+ETU-8C3FE457,Chaari,Sami,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,M1,2020,Sfax,Non,15.49,14.12,2,5,actif,2023-2024
+ETU-F1B440A4,Sfaxi,Khaled,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Master,L3,2024,Monastir,Non,14.02,15.69,6,5,actif,2023-2024
+ETU-575FC423,Khlifi,Rania,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Licence,M2,2024,Zaghouan,Non,11.62,12.81,9,5,diplome,2023-2024
+ETU-232AB6BB,Sfaxi,Mehdi,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Doctorat,L3,2020,Ben Arous,Non,9.44,11.43,1,1,actif,2023-2024
+ETU-224D3ED4,Hamdi,Lina,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Licence,L2,2021,Ben Arous,Oui,7.51,8.19,6,8,actif,2023-2024
+ETU-01D642B9,Jebali,Sarra,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,M1,2024,Ariana,Non,6.18,6.96,0,0,actif,2023-2024
+ETU-509E7CA1,Baccouche,Lina,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,M1,2021,Sousse,Non,3.87,5.73,39,8,abandonne,2023-2024
+ETU-D9775CDE,Ben Ali,Ahmed,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,L3,2022,Ben Arous,Oui,4.86,3.7,34,32,abandonne,2023-2024
+ETU-5491B135,Chaari,Sarra,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Master,M2,2022,Sousse,Oui,15.42,14.75,5,7,diplome,2023-2024
+ETU-BA44E6D2,Chaari,Sirine,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Doctorat,M1,2024,Tunis,Non,14.23,15.67,2,5,actif,2023-2024
+ETU-70BE77DA,Mansouri,Fatma,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Master,M1,2020,Zaghouan,Non,8.65,10.38,7,10,actif,2023-2024
+ETU-0605C2B3,Belhaj,Mehdi,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Licence,M2,2024,Bizerte,Non,12.61,14.04,3,6,actif,2023-2024
+ETU-63ACF7BC,Sfaxi,Nizar,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,M1,2024,Ariana,Non,7.59,7.75,1,2,actif,2023-2024
+ETU-EE8F80DB,Trabelsi,Asma,F,UCAR-EPT,Ecole Polytechnique de Tunisie,Doctorat,M1,2022,Sfax,Non,15.04,15.87,12,15,actif,2023-2024
+ETU-10537EFA,Hamdi,Khaled,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Cycle Ingénieur,M2,2020,Nabeul,Non,16.99,17.25,7,4,actif,2023-2024
+ETU-7A6F67F7,Sfaxi,Sami,M,UCAR-EPT,Ecole Polytechnique de Tunisie,Doctorat,L1,2023,Zaghouan,Oui,10.7,9.98,6,1,actif,2023-2024
+ETU-2BBFB99F,Baccouche,Khaled,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Master,L1,2021,Nabeul,Non,16.9,17.44,1,3,actif,2023-2024
+ETU-6AD22995,Baccouche,Rania,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Master,M1,2024,Ben Arous,Non,16.4,18.17,12,7,actif,2023-2024
+ETU-99F58264,Gafsi,Sarra,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,M1,2021,Bizerte,Non,17.04,17.14,4,1,actif,2023-2024
+ETU-4958758B,Mansouri,Mehdi,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,L2,2023,Sfax,Non,10.06,10.55,3,0,actif,2023-2024
+ETU-10974D45,Khlifi,Maissa,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Master,M1,2020,Ben Arous,Oui,15.11,15.81,11,0,actif,2023-2024
+ETU-E54226CE,Jebali,Lina,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,L1,2021,Sfax,Non,11.1,9.63,4,7,actif,2023-2024
+ETU-2100929A,Belhaj,Salma,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Licence,M2,2022,Monastir,Non,8.53,9.49,3,6,actif,2023-2024
+ETU-57F98104,Baccouche,Adam,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Licence,L2,2023,Monastir,Non,14.01,14.98,8,9,actif,2023-2024
+ETU-F0B3346A,Dridi,Sarra,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Doctorat,L3,2023,Monastir,Non,14.52,14.86,1,2,diplome,2023-2024
+ETU-88D90969,Mansouri,Nour,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Licence,L3,2021,Ben Arous,Non,15.98,16.64,5,1,actif,2023-2024
+ETU-D6A25FB5,Ben Ali,Ahmed,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,L3,2021,Ben Arous,Non,16.85,18.26,11,12,diplome,2023-2024
+ETU-C477B963,Gafsi,Asma,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Master,L2,2022,Sfax,Non,7.59,6.44,11,1,actif,2023-2024
+ETU-7C1C0B72,Hamdi,Mehdi,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Doctorat,L3,2021,Manouba,Oui,11.83,11.99,4,4,diplome,2023-2024
+ETU-25567592,Trabelsi,Salma,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Licence,M2,2022,Tunis,Non,8.46,8.91,8,4,actif,2023-2024
+ETU-6B3667ED,Khemiri,Khaled,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,L1,2022,Manouba,Non,16.94,18.82,10,8,actif,2023-2024
+ETU-B81CE972,Ben Ali,Mehdi,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Doctorat,L2,2020,Sousse,Non,9.79,10.3,11,13,actif,2023-2024
+ETU-5E7EF8CD,Chaari,Mehdi,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,M1,2024,Zaghouan,Non,11.09,9.64,9,6,actif,2023-2024
+ETU-8FE42815,Trabelsi,Rim,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Doctorat,L1,2020,Ben Arous,Non,11.73,10.41,2,4,actif,2023-2024
+ETU-78D49963,Khemiri,Sarra,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Doctorat,L3,2023,Nabeul,Non,15.56,14.25,11,12,actif,2023-2024
+ETU-F359B318,Hamdi,Rami,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Master,L2,2021,Ariana,Oui,17.48,19.37,12,4,actif,2023-2024
+ETU-F12C0FD8,Belhaj,Hedi,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Licence,L3,2020,Sfax,Non,8.27,6.97,2,4,actif,2023-2024
+ETU-B7C726B3,Khlifi,Maissa,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Licence,L2,2023,Ben Arous,Non,8.87,7.87,12,1,actif,2023-2024
+ETU-3E95B33C,Gafsi,Rim,F,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Master,M1,2021,Monastir,Non,10.18,10.97,11,2,actif,2023-2024
+ETU-15DF1F13,Aloui,Mohamed,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,M1,2023,Ben Arous,Non,9.19,7.88,11,5,actif,2023-2024
+ETU-61D18DC3,Aloui,Yassine,M,UCAR-ESTI,Ecole Supérieure de Technologie et d'Informatique à Carthage,Cycle Ingénieur,L2,2021,Monastir,Non,14.34,15.67,0,3,actif,2023-2024
+ETU-B7886163,Oueslati,Rami,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Master,L3,2022,Tunis,Non,2.51,1.83,24,22,abandonne,2023-2024
+ETU-3487205B,Mansouri,Maissa,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,L3,2023,Monastir,Non,15.53,16.06,4,4,diplome,2023-2024
+ETU-4E1581A4,Ben Ali,Asma,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Master,L2,2024,Sousse,Non,16.69,17.84,2,3,actif,2023-2024
+ETU-D89D8B01,Belhaj,Yassine,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Doctorat,M2,2021,Sfax,Non,8.8,7.65,7,7,actif,2023-2024
+ETU-D0265FDC,Dridi,Hedi,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,M1,2021,Bizerte,Non,10.53,10.09,0,3,actif,2023-2024
+ETU-39C18A6B,Khlifi,Ahmed,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,M2,2021,Zaghouan,Non,9.58,10.39,11,2,actif,2023-2024
+ETU-B0E52D65,Mansouri,Nizar,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,L2,2022,Ariana,Oui,16.85,18.74,4,5,actif,2023-2024
+ETU-55BF5AAB,Ayari,Hamza,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Master,M2,2022,Bizerte,Oui,15.71,16.94,6,7,diplome,2023-2024
+ETU-43C9AC25,Aloui,Maissa,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Master,M2,2020,Sousse,Non,12.04,11.19,7,8,diplome,2023-2024
+ETU-80A0F148,Ben Ali,Nizar,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,L2,2022,Nabeul,Non,11.96,13.14,11,8,actif,2023-2024
+ETU-EBCD061F,Mzoughi,Ahmed,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,M1,2020,Sousse,Oui,16.7,15.24,9,3,actif,2023-2024
+ETU-8C55E2AC,Khemiri,Sirine,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Master,M2,2022,Ariana,Non,14.34,13.19,2,4,actif,2023-2024
+ETU-E2C724F7,Trabelsi,Ines,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,L3,2023,Sousse,Oui,13.01,13.65,10,1,diplome,2023-2024
+ETU-4B5B87C3,Baccouche,Maissa,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Doctorat,L1,2024,Sousse,Non,10.91,12.85,10,7,actif,2023-2024
+ETU-C23CCF74,Zouaghi,Mohamed,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,M1,2024,Tunis,Non,13.43,13.77,6,8,actif,2023-2024
+ETU-27E8C118,Sfaxi,Lina,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Master,M2,2021,Ben Arous,Oui,10.45,9.35,3,4,diplome,2023-2024
+ETU-A3732008,Oueslati,Mehdi,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,M1,2024,Ariana,Non,11.86,13.31,3,3,actif,2023-2024
+ETU-F94630CE,Ben Ali,Tarek,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Doctorat,L2,2022,Nabeul,Non,17.45,16.41,0,2,actif,2023-2024
+ETU-93B932D3,Mansouri,Rim,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Master,M1,2020,Bizerte,Non,13.36,12.05,12,12,actif,2023-2024
+ETU-A5B3BD5F,Dridi,Rami,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,M1,2020,Bizerte,Non,12.49,13.02,7,8,actif,2023-2024
+ETU-2B7D4988,Ben Ali,Hajer,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,L1,2024,Nabeul,Oui,4.41,6.2,19,7,actif,2023-2024
+ETU-6FF9CB53,Hamdi,Bilel,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Master,M2,2021,Bizerte,Non,10.95,12.58,1,0,diplome,2023-2024
+ETU-9E1BC1C2,Ben Ali,Rami,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,L2,2020,Nabeul,Oui,12.69,11.59,10,8,actif,2023-2024
+ETU-344FE7F0,Oueslati,Maissa,F,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Cycle Ingénieur,L3,2024,Monastir,Non,6.38,7.02,11,12,actif,2023-2024
+ETU-DBD0EDA1,Aloui,Nizar,M,UCAR-ESSAI,Ecole Supérieure des Statistiques et d'Analyse de l'Information,Licence,M2,2024,Monastir,Oui,8.19,8.23,10,6,actif,2023-2024
+ETU-43E05474,Ayari,Adam,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,L3,2024,Sousse,Non,11.78,12.28,10,11,actif,2023-2024
+ETU-802A194C,Sfaxi,Mariem,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,M2,2023,Bizerte,Non,15.21,15.62,7,8,actif,2023-2024
+ETU-96CE6D16,Chaari,Salma,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,L3,2020,Sfax,Non,10.22,8.95,3,4,diplome,2023-2024
+ETU-6E49518B,Dridi,Yassine,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,L3,2024,Zaghouan,Non,16.06,17.86,1,1,actif,2023-2024
+ETU-143F0EA4,Trabelsi,Maissa,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,L2,2022,Zaghouan,Non,7.15,7.0,8,7,actif,2023-2024
+ETU-45EDC6F7,Ayari,Sirine,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,M1,2023,Sfax,Oui,17.42,19.08,12,3,actif,2023-2024
+ETU-E1D586C0,Gafsi,Maissa,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,M1,2022,Manouba,Non,10.09,9.51,10,11,actif,2023-2024
+ETU-F5E78FE5,Sfaxi,Fatma,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Cycle Ingénieur,L2,2022,Manouba,Non,8.24,6.85,12,13,actif,2023-2024
+ETU-19602D41,Ayari,Lina,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,M1,2020,Sousse,Non,13.05,14.93,1,1,actif,2023-2024
+ETU-E2E13298,Trabelsi,Mariem,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,L2,2022,Nabeul,Non,14.5,13.58,0,2,actif,2023-2024
+ETU-F3063B61,Mzoughi,Hajer,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Cycle Ingénieur,M1,2023,Manouba,Non,7.96,8.43,0,2,actif,2023-2024
+ETU-881108F5,Ben Ali,Mariem,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,M2,2023,Zaghouan,Oui,12.71,14.64,3,6,diplome,2023-2024
+ETU-509EF31E,Aloui,Sami,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,L1,2021,Monastir,Oui,7.12,5.8,8,0,actif,2023-2024
+ETU-33B8C7A0,Mansouri,Hajer,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,L2,2021,Ariana,Non,15.61,16.63,11,7,actif,2023-2024
+ETU-27C5F015,Mansouri,Sami,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,L2,2022,Zaghouan,Non,9.05,8.24,9,10,actif,2023-2024
+ETU-6A2AB179,Gafsi,Rim,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,M2,2020,Zaghouan,Non,12.47,12.39,4,7,actif,2023-2024
+ETU-47DC6483,Aloui,Khaled,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,L1,2023,Ariana,Non,9.68,9.91,5,7,actif,2023-2024
+ETU-D65C3B9D,Hamdi,Mohamed,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Cycle Ingénieur,L1,2024,Bizerte,Non,16.73,17.93,7,6,actif,2023-2024
+ETU-8ECB5F45,Mansouri,Sarra,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,L3,2021,Bizerte,Non,14.76,16.37,6,8,diplome,2023-2024
+ETU-3B0DA6A9,Mansouri,Lina,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,L2,2020,Tunis,Non,8.22,7.35,12,6,actif,2023-2024
+ETU-CBE29AC0,Mzoughi,Mehdi,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,M2,2023,Ben Arous,Oui,7.3,7.65,7,10,actif,2023-2024
+ETU-FE4C5EDB,Zouaghi,Rim,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Cycle Ingénieur,M1,2022,Nabeul,Non,15.42,16.6,12,10,actif,2023-2024
+ETU-CD821074,Dridi,Mariem,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,M2,2024,Bizerte,Oui,8.83,9.02,4,3,actif,2023-2024
+ETU-E7C0499E,Aloui,Mehdi,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Master,L3,2022,Ben Arous,Non,15.47,15.31,9,6,diplome,2023-2024
+ETU-AF7314A8,Oueslati,Nizar,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,M2,2020,Nabeul,Non,16.77,16.36,4,1,actif,2023-2024
+ETU-B6DFD611,Aloui,Tarek,M,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Doctorat,L2,2021,Ben Arous,Non,8.17,8.64,3,3,actif,2023-2024
+ETU-4656F26A,Belhaj,Sarra,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,M1,2021,Tunis,Oui,9.31,9.53,1,2,actif,2023-2024
+ETU-EEBC0005,Oueslati,Ines,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Licence,M2,2024,Manouba,Non,15.94,15.16,1,3,actif,2023-2024
+ETU-6C4C59A4,Jebali,Amira,F,UCAR-ESAC,Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth,Cycle Ingénieur,M1,2022,Ariana,Non,14.1,15.24,3,0,actif,2023-2024
+ETU-D2105BEC,Aloui,Bilel,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,M1,2020,Sousse,Oui,15.96,16.45,1,2,actif,2023-2024
+ETU-CBE51825,Gafsi,Sarra,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Licence,L1,2023,Sfax,Non,7.34,8.15,6,5,actif,2023-2024
+ETU-85737140,Mzoughi,Hajer,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Doctorat,M2,2023,Monastir,Oui,14.41,13.11,6,7,actif,2023-2024
+ETU-F5B39150,Zouaghi,Sirine,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Licence,L2,2024,Sousse,Oui,17.01,16.01,0,1,actif,2023-2024
+ETU-3BD3E4F5,Khemiri,Ahmed,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,M1,2021,Nabeul,Non,15.28,16.6,8,0,actif,2023-2024
+ETU-E83DD679,Belhaj,Asma,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,L3,2023,Ben Arous,Non,15.97,17.33,1,1,actif,2023-2024
+ETU-91B4D4A9,Mansouri,Salma,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Licence,L1,2021,Zaghouan,Oui,10.62,9.62,5,6,actif,2023-2024
+ETU-22B322A4,Baccouche,Rim,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,M2,2022,Ariana,Non,12.85,12.6,9,6,diplome,2023-2024
+ETU-DF21F362,Baccouche,Salma,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Doctorat,L2,2024,Ariana,Non,8.04,10.03,1,4,actif,2023-2024
+ETU-1DA5F031,Baccouche,Anis,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Licence,M1,2023,Sousse,Non,16.36,17.37,3,0,actif,2023-2024
+ETU-487C41AC,Mansouri,Rim,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,M2,2023,Ben Arous,Non,4.01,3.08,39,35,abandonne,2023-2024
+ETU-6C0C55A4,Mzoughi,Fatma,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,M1,2020,Tunis,Non,15.63,16.14,12,8,actif,2023-2024
+ETU-9A267172,Oueslati,Amira,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Doctorat,L2,2023,Nabeul,Non,16.09,17.55,7,10,actif,2023-2024
+ETU-48E977C9,Trabelsi,Tarek,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Doctorat,L1,2021,Sousse,Non,8.56,8.71,3,4,actif,2023-2024
+ETU-4525BC56,Ben Ali,Amira,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,L1,2020,Manouba,Oui,8.46,8.65,2,0,actif,2023-2024
+ETU-3BCF10BA,Khlifi,Sami,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Doctorat,M2,2024,Tunis,Non,10.4,11.97,9,10,actif,2023-2024
+ETU-A114ADCF,Hamdi,Lina,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,M2,2022,Tunis,Non,8.28,7.95,4,5,actif,2023-2024
+ETU-143D00C3,Ben Ali,Salma,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,M1,2023,Manouba,Non,13.22,12.7,8,4,actif,2023-2024
+ETU-25D687A6,Gafsi,Rania,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,L2,2020,Sousse,Oui,17.34,17.6,7,3,actif,2023-2024
+ETU-9D85E47C,Trabelsi,Sirine,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Doctorat,L3,2022,Ariana,Non,14.76,13.82,0,2,diplome,2023-2024
+ETU-6141A30B,Belhaj,Khaled,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Licence,L3,2024,Tunis,Oui,15.93,15.74,6,6,diplome,2023-2024
+ETU-4946388E,Dridi,Anis,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,M1,2021,Ben Arous,Non,16.46,15.39,12,7,actif,2023-2024
+ETU-9F8AD524,Baccouche,Sirine,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,L1,2022,Manouba,Non,12.93,14.84,1,4,actif,2023-2024
+ETU-BB882331,Trabelsi,Amira,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,L3,2022,Sousse,Oui,12.89,14.06,1,3,diplome,2023-2024
+ETU-1C1D8EB8,Sfaxi,Hamza,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Doctorat,M1,2021,Sfax,Non,15.93,15.56,5,7,actif,2023-2024
+ETU-D2A8556C,Ayari,Ahmed,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,L2,2024,Tunis,Non,10.68,11.01,8,3,actif,2023-2024
+ETU-F9F9DB13,Mansouri,Sarra,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Doctorat,L2,2022,Sousse,Oui,15.4,16.91,11,6,actif,2023-2024
+ETU-71B30AF4,Baccouche,Rim,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,L1,2022,Bizerte,Non,17.4,18.8,8,10,actif,2023-2024
+ETU-4323C657,Mzoughi,Nizar,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,L3,2023,Monastir,Oui,17.45,16.74,12,0,diplome,2023-2024
+ETU-82A394A8,Khlifi,Hamza,M,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,L1,2021,Manouba,Non,9.24,9.48,8,9,actif,2023-2024
+ETU-05A8CFC1,Sfaxi,Sarra,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,L3,2020,Monastir,Non,9.9,11.22,10,13,actif,2023-2024
+ETU-7E6DEC24,Zouaghi,Nour,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Master,M2,2023,Ben Arous,Oui,10.61,9.27,11,14,diplome,2023-2024
+ETU-6DE27C30,Khemiri,Amira,F,UCAR-IPEIB,Institut Préparatoire aux Etudes d'Ingénieur de Bizerte,Cycle Ingénieur,M1,2021,Nabeul,Non,6.48,5.13,10,13,actif,2023-2024
+ETU-73771348,Baccouche,Mohamed,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,L1,2021,Monastir,Non,15.43,16.46,0,1,actif,2023-2024
+ETU-79D4AEC6,Trabelsi,Sami,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,M1,2022,Tunis,Non,7.87,9.64,3,4,actif,2023-2024
+ETU-86EB483C,Ben Ali,Adam,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,L2,2023,Manouba,Non,16.63,18.02,3,1,actif,2023-2024
+ETU-10D43B40,Hamdi,Sarra,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,L2,2022,Manouba,Non,13.53,15.08,5,0,actif,2023-2024
+ETU-F46E4D24,Mzoughi,Adam,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,M2,2020,Ben Arous,Non,10.63,12.43,0,2,actif,2023-2024
+ETU-88B84054,Aloui,Maissa,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Marketing,M1,2020,Tunis,Non,13.62,12.57,0,2,actif,2023-2024
+ETU-3BFC5BD6,Hamdi,Lina,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Marketing,M2,2022,Manouba,Non,7.02,5.62,11,9,actif,2023-2024
+ETU-ABB7A897,Ben Ali,Khaled,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,L3,2024,Sousse,Non,14.28,13.38,8,11,diplome,2023-2024
+ETU-A043A605,Zouaghi,Salma,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,L1,2023,Manouba,Non,3.73,2.76,21,10,abandonne,2023-2024
+ETU-4AE80291,Khlifi,Lina,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,L3,2022,Manouba,Non,9.79,10.74,8,6,actif,2023-2024
+ETU-E51BD4C1,Sfaxi,Adam,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,L3,2024,Ariana,Non,3.7,5.54,29,30,abandonne,2023-2024
+ETU-428F1736,Belhaj,Nizar,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,L3,2020,Zaghouan,Oui,5.35,3.92,34,14,actif,2023-2024
+ETU-D631642E,Mzoughi,Rami,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,L3,2024,Nabeul,Non,7.72,6.78,7,3,actif,2023-2024
+ETU-894CF503,Ayari,Hedi,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,L2,2024,Sousse,Non,8.79,8.57,12,3,actif,2023-2024
+ETU-DBF3926F,Zouaghi,Hedi,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,L1,2022,Nabeul,Non,8.33,9.85,12,3,actif,2023-2024
+ETU-642A3586,Zouaghi,Tarek,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Marketing,L2,2022,Ariana,Non,12.35,13.3,6,8,actif,2023-2024
+ETU-D4FAD36F,Belhaj,Yassine,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,M1,2021,Sousse,Non,13.59,12.45,11,0,actif,2023-2024
+ETU-F32F2EDF,Khemiri,Hamza,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,L1,2022,Manouba,Non,13.54,14.01,8,6,actif,2023-2024
+ETU-D595F51A,Ben Ali,Ines,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,L1,2024,Zaghouan,Non,10.58,10.23,0,1,actif,2023-2024
+ETU-0B2E902B,Hamdi,Yassine,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,M1,2022,Bizerte,Non,5.15,3.84,42,16,actif,2023-2024
+ETU-B93D5546,Khemiri,Hajer,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,L1,2020,Manouba,Oui,16.49,17.56,12,12,actif,2023-2024
+ETU-B393EE54,Khlifi,Lina,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,M1,2020,Tunis,Non,12.18,12.12,9,3,actif,2023-2024
+ETU-05EA75EF,Oueslati,Asma,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Management,L1,2021,Tunis,Oui,8.13,9.77,4,4,actif,2023-2024
+ETU-9D25A971,Aloui,Yassine,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,M1,2023,Monastir,Non,16.77,15.39,11,3,actif,2023-2024
+ETU-6B60F4C4,Zouaghi,Khaled,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,M1,2023,Tunis,Non,11.66,11.83,9,10,actif,2023-2024
+ETU-B8E47AEB,Khlifi,Fatma,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,M1,2022,Tunis,Non,14.94,15.96,8,8,actif,2023-2024
+ETU-0506B0DF,Trabelsi,Sarra,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Finance,L2,2020,Ben Arous,Non,7.6,7.92,4,3,actif,2023-2024
+ETU-A5666C18,Dridi,Rania,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,M2,2022,Zaghouan,Non,16.33,17.33,8,8,actif,2023-2024
+ETU-A9CA5F95,Hamdi,Rania,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,L1,2024,Tunis,Non,8.79,8.32,4,2,actif,2023-2024
+ETU-E9D8240F,Jebali,Nour,F,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Expertise Comptable,L1,2023,Tunis,Non,15.93,16.14,2,2,actif,2023-2024
+ETU-8E4CC551,Dridi,Hamza,M,UCAR-IHEC,Institut des Hautes Etudes Commerciales de Carthage,Marketing,L3,2022,Sousse,Non,9.64,9.18,7,1,actif,2023-2024
+ETU-51EBA53D,Dridi,Sarra,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,M2,2022,Ben Arous,Non,11.35,10.73,11,10,actif,2023-2024
+ETU-C0754FF3,Jebali,Mohamed,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,M1,2023,Zaghouan,Oui,12.64,14.05,7,10,actif,2023-2024
+ETU-1D63AA4A,Khlifi,Hajer,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,L3,2022,Monastir,Non,15.15,14.11,12,9,diplome,2023-2024
+ETU-018EEF38,Belhaj,Mariem,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,L2,2020,Ariana,Oui,9.1,9.69,0,0,actif,2023-2024
+ETU-94CBF8C6,Mzoughi,Maissa,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,L3,2023,Manouba,Non,9.94,8.75,8,2,actif,2023-2024
+ETU-BC703A74,Mzoughi,Fatma,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,L2,2020,Monastir,Non,7.46,6.87,10,0,actif,2023-2024
+ETU-9D3FB189,Ayari,Anis,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,M1,2020,Nabeul,Non,12.88,11.84,0,3,actif,2023-2024
+ETU-C85479DE,Ayari,Bilel,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,M1,2024,Ariana,Oui,3.39,2.59,15,0,actif,2023-2024
+ETU-FF6263DF,Khemiri,Anis,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,M1,2022,Ben Arous,Non,16.63,17.29,6,2,actif,2023-2024
+ETU-78EF0D8C,Ben Ali,Asma,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,L1,2023,Sfax,Oui,16.07,14.87,3,5,actif,2023-2024
+ETU-1D213438,Ben Ali,Anis,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Génie Logiciel,M2,2021,Ben Arous,Non,9.24,10.48,10,8,actif,2023-2024
+ETU-6B7535B7,Hamdi,Asma,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,L1,2024,Nabeul,Oui,7.6,7.91,2,4,actif,2023-2024
+ETU-4BFF33F4,Zouaghi,Rim,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,L1,2022,Monastir,Non,14.39,15.57,11,9,actif,2023-2024
+ETU-E665476C,Mansouri,Yassine,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,M2,2024,Sfax,Non,12.31,13.34,2,1,actif,2023-2024
+ETU-DA9290CD,Gafsi,Salma,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,M1,2024,Sousse,Non,15.17,15.27,10,7,actif,2023-2024
+ETU-E8E0BB4B,Mzoughi,Rania,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,L1,2023,Ariana,Non,10.45,12.18,3,1,actif,2023-2024
+ETU-CD523690,Ayari,Tarek,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Génie Logiciel,L1,2022,Nabeul,Non,7.1,7.57,9,8,actif,2023-2024
+ETU-30B2D95A,Aloui,Asma,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Génie Logiciel,L2,2024,Ben Arous,Oui,9.87,9.35,9,11,actif,2023-2024
+ETU-B697924C,Khemiri,Nizar,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,L1,2022,Sousse,Oui,9.59,8.44,2,2,actif,2023-2024
+ETU-B4BE9F6F,Belhaj,Amira,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,L2,2023,Monastir,Oui,17.26,16.77,10,8,actif,2023-2024
+ETU-6ACDBC75,Khemiri,Mehdi,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,M2,2020,Bizerte,Non,11.64,11.79,9,5,actif,2023-2024
+ETU-CEC77044,Gafsi,Khaled,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,M1,2024,Ariana,Non,10.77,11.49,6,6,actif,2023-2024
+ETU-AD1D0AA6,Hamdi,Tarek,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,L1,2020,Bizerte,Non,12.79,13.99,2,5,actif,2023-2024
+ETU-E252299D,Jebali,Bilel,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,M2,2024,Ben Arous,Non,12.62,12.57,10,3,actif,2023-2024
+ETU-40D4B695,Oueslati,Bilel,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,M1,2020,Tunis,Non,8.93,9.58,9,2,actif,2023-2024
+ETU-BFC956BB,Chaari,Mariem,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,L2,2023,Manouba,Non,10.84,11.02,4,5,actif,2023-2024
+ETU-846D997A,Mzoughi,Khaled,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,M2,2023,Monastir,Non,16.9,16.6,5,2,actif,2023-2024
+ETU-27B057C5,Khemiri,Tarek,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,M2,2020,Ariana,Non,8.78,7.57,6,0,actif,2023-2024
+ETU-8FBABCF6,Jebali,Salma,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,L2,2020,Bizerte,Non,17.07,17.23,11,11,actif,2023-2024
+ETU-57FC3F7C,Mzoughi,Rania,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,L3,2020,Sfax,Non,10.49,9.01,5,7,diplome,2023-2024
+ETU-34FC3190,Ayari,Rim,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Réseaux et Télécoms,L2,2023,Zaghouan,Non,16.03,15.16,10,4,actif,2023-2024
+ETU-46D9CB29,Baccouche,Mehdi,M,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Chimie Industrielle,L2,2020,Zaghouan,Non,9.78,8.53,4,1,actif,2023-2024
+ETU-8EDF356D,Chaari,Sirine,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,M2,2022,Ariana,Non,9.78,10.59,6,5,actif,2023-2024
+ETU-8138E56D,Aloui,Ines,F,UCAR-INSAT,Institut National des Sciences Appliquées et de Technologie,Biologie Industrielle,L2,2021,Tunis,Non,5.81,6.24,30,26,actif,2023-2024
+ETU-9B7C3964,Mansouri,Mohamed,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Licence,L1,2020,Sousse,Non,15.21,13.73,1,2,actif,2023-2024
+ETU-38D07A0F,Ayari,Maissa,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Cycle Ingénieur,M1,2023,Bizerte,Non,13.11,11.61,11,4,actif,2023-2024
+ETU-D79A9ACE,Mzoughi,Tarek,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Cycle Ingénieur,L2,2021,Bizerte,Non,13.3,12.26,5,3,actif,2023-2024
+ETU-03ADCB9B,Mzoughi,Lina,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,M1,2024,Ben Arous,Non,13.66,15.44,7,6,actif,2023-2024
+ETU-35368392,Hamdi,Tarek,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,M1,2020,Ben Arous,Non,7.54,6.36,4,0,actif,2023-2024
+ETU-CF005FD9,Ben Ali,Mohamed,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Licence,M2,2023,Tunis,Non,9.85,11.36,12,3,actif,2023-2024
+ETU-034B8F75,Trabelsi,Mariem,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Licence,L3,2024,Nabeul,Non,9.95,11.85,0,1,actif,2023-2024
+ETU-E722E158,Baccouche,Tarek,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Licence,M1,2022,Sfax,Non,15.83,16.92,8,2,actif,2023-2024
+ETU-E4B396F4,Trabelsi,Lina,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Licence,L1,2024,Ben Arous,Oui,17.14,16.4,12,12,actif,2023-2024
+ETU-C0598170,Khemiri,Rami,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Master,L1,2022,Nabeul,Oui,12.25,10.91,5,5,actif,2023-2024
+ETU-0E8D07E6,Khlifi,Maissa,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Master,L2,2021,Manouba,Oui,11.68,11.27,3,5,actif,2023-2024
+ETU-88E029B5,Mzoughi,Hajer,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,L3,2023,Zaghouan,Oui,10.79,12.78,7,5,actif,2023-2024
+ETU-25618CA5,Sfaxi,Asma,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Master,M2,2023,Sousse,Non,10.79,9.53,3,6,diplome,2023-2024
+ETU-C2AF9126,Aloui,Sarra,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Master,L3,2021,Ben Arous,Non,8.16,7.42,11,3,actif,2023-2024
+ETU-E186ED1E,Chaari,Khaled,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,L1,2022,Ariana,Oui,8.43,7.15,11,14,actif,2023-2024
+ETU-9F836F5C,Chaari,Mehdi,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Cycle Ingénieur,L2,2024,Bizerte,Non,16.26,16.78,8,0,actif,2023-2024
+ETU-FA03A662,Sfaxi,Ines,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,M2,2024,Zaghouan,Non,4.94,4.74,21,9,abandonne,2023-2024
+ETU-EFBB9462,Sfaxi,Salma,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Licence,L2,2021,Zaghouan,Oui,10.56,10.62,4,6,actif,2023-2024
+ETU-C5617216,Oueslati,Sirine,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,L2,2023,Ariana,Non,12.17,11.74,7,6,actif,2023-2024
+ETU-6FF787FD,Ayari,Ahmed,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,L1,2020,Nabeul,Non,12.95,11.93,11,11,actif,2023-2024
+ETU-269A9C0D,Hamdi,Amira,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,L1,2024,Nabeul,Non,14.46,16.36,10,5,actif,2023-2024
+ETU-D0A83832,Jebali,Adam,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Cycle Ingénieur,L2,2023,Zaghouan,Oui,9.73,10.14,3,6,actif,2023-2024
+ETU-66AC8FD7,Khemiri,Bilel,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,M1,2024,Bizerte,Non,10.86,12.6,10,8,actif,2023-2024
+ETU-C4BDC17C,Ayari,Rania,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,M2,2023,Nabeul,Non,9.76,9.9,2,1,actif,2023-2024
+ETU-95C90723,Aloui,Bilel,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Licence,L2,2024,Ariana,Non,7.82,8.32,12,15,actif,2023-2024
+ETU-97973937,Khlifi,Lina,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,L1,2020,Manouba,Oui,16.87,16.88,7,8,actif,2023-2024
+ETU-C31B0A25,Hamdi,Sarra,F,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Master,L1,2024,Bizerte,Non,10.19,11.22,12,15,actif,2023-2024
+ETU-E07B1FE1,Hamdi,Khaled,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Licence,M2,2023,Ben Arous,Oui,15.9,17.87,10,9,actif,2023-2024
+ETU-E1B29939,Sfaxi,Ahmed,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Licence,L1,2022,Ariana,Non,7.12,7.6,9,1,actif,2023-2024
+ETU-CA85C709,Belhaj,Hamza,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Doctorat,M2,2024,Monastir,Non,16.32,17.44,8,5,actif,2023-2024
+ETU-A677DB59,Hamdi,Mehdi,M,UCAR-ISSATM,Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur,Master,M2,2021,Sfax,Oui,8.45,9.66,7,4,actif,2023-2024
+ETU-F8649061,Gafsi,Hamza,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,L2,2024,Bizerte,Oui,12.97,13.71,11,8,actif,2023-2024
+ETU-9CBD28E6,Khlifi,Mariem,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,L3,2024,Manouba,Non,9.86,8.93,11,6,actif,2023-2024
+ETU-247D1304,Baccouche,Khaled,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,M1,2023,Ben Arous,Oui,13.7,14.12,4,6,actif,2023-2024
+ETU-A06CD548,Mansouri,Hajer,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,L3,2021,Zaghouan,Non,15.46,15.06,9,4,actif,2023-2024
+ETU-56788689,Chaari,Sirine,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Master,M2,2020,Nabeul,Oui,2.52,1.65,33,18,abandonne,2023-2024
+ETU-C8D39877,Jebali,Adam,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,L2,2024,Monastir,Non,14.02,15.75,2,2,actif,2023-2024
+ETU-2514E9B5,Trabelsi,Nizar,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,L1,2021,Nabeul,Non,8.61,10.53,7,2,actif,2023-2024
+ETU-212C4229,Sfaxi,Nizar,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,L2,2021,Tunis,Non,7.2,8.57,6,5,actif,2023-2024
+ETU-2BC0625D,Chaari,Mohamed,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,L3,2023,Bizerte,Non,10.38,9.97,12,13,diplome,2023-2024
+ETU-458A9F74,Mansouri,Tarek,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,L3,2023,Sousse,Non,15.93,17.47,10,6,actif,2023-2024
+ETU-A48E09BC,Sfaxi,Rami,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Master,M2,2023,Nabeul,Non,8.11,9.07,8,6,actif,2023-2024
+ETU-E3778AB2,Oueslati,Hedi,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,M2,2021,Nabeul,Non,15.44,15.29,10,10,actif,2023-2024
+ETU-5CF77901,Mansouri,Amira,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,L2,2024,Tunis,Oui,4.45,4.76,32,13,abandonne,2023-2024
+ETU-B3EB9373,Dridi,Hajer,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,L3,2023,Bizerte,Oui,14.4,16.36,1,0,actif,2023-2024
+ETU-C96F27C2,Zouaghi,Yassine,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Master,M1,2024,Sfax,Non,9.75,9.86,1,1,actif,2023-2024
+ETU-C11E938B,Baccouche,Nizar,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,L2,2023,Zaghouan,Oui,12.15,13.23,9,0,actif,2023-2024
+ETU-2CBC42C6,Ayari,Sami,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,L2,2021,Ben Arous,Non,14.58,13.85,0,0,actif,2023-2024
+ETU-DBAE42C0,Mansouri,Sirine,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,L3,2023,Bizerte,Non,6.22,7.83,12,8,actif,2023-2024
+ETU-386B0A78,Khemiri,Hamza,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,M2,2022,Zaghouan,Oui,13.8,14.89,7,9,actif,2023-2024
+ETU-0F0D8C10,Hamdi,Nour,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,M1,2023,Monastir,Non,16.8,17.53,12,10,actif,2023-2024
+ETU-1693CD65,Mansouri,Mohamed,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,L3,2022,Ariana,Non,13.8,12.52,2,1,diplome,2023-2024
+ETU-B6DC1822,Ayari,Sirine,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,M1,2023,Bizerte,Non,14.09,13.05,2,2,actif,2023-2024
+ETU-389DAE17,Mansouri,Tarek,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Doctorat,M2,2020,Sousse,Non,14.49,15.81,11,3,actif,2023-2024
+ETU-D5156924,Gafsi,Hamza,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,L3,2020,Nabeul,Non,8.98,7.88,6,6,actif,2023-2024
+ETU-0AA7E80E,Oueslati,Lina,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Licence,L3,2022,Zaghouan,Non,13.45,14.1,6,4,actif,2023-2024
+ETU-D3717DCF,Khemiri,Hedi,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Cycle Ingénieur,L2,2020,Manouba,Non,12.01,13.21,6,5,actif,2023-2024
+ETU-BB74235F,Khemiri,Anis,M,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Master,L2,2024,Sousse,Non,11.59,13.21,11,7,actif,2023-2024
+ETU-9174C838,Aloui,Mariem,F,UCAR-IPEIN,Institut Préparatoire aux Etudes d'Ingénieur Nabeul,Master,L1,2023,Manouba,Non,8.41,9.2,4,0,actif,2023-2024
+ETU-D68EFBEB,Oueslati,Mehdi,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Licence,M1,2023,Sousse,Non,14.43,15.67,1,1,actif,2023-2024
+ETU-2CBB6FC4,Dridi,Salma,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,M2,2021,Monastir,Non,13.2,14.41,9,4,actif,2023-2024
+ETU-D0A49E86,Baccouche,Ines,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,L1,2024,Sousse,Non,16.08,15.54,2,0,actif,2023-2024
+ETU-58D828A7,Trabelsi,Mohamed,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,M2,2023,Bizerte,Non,8.42,8.48,3,6,actif,2023-2024
+ETU-32189B88,Belhaj,Adam,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Licence,L2,2022,Tunis,Oui,10.95,10.66,4,3,actif,2023-2024
+ETU-31A3D153,Sfaxi,Bilel,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,L1,2021,Zaghouan,Non,7.59,8.05,0,2,actif,2023-2024
+ETU-8B764EE6,Dridi,Bilel,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Licence,L3,2023,Sfax,Non,13.19,12.78,0,3,actif,2023-2024
+ETU-C8252B7B,Dridi,Hamza,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,L3,2022,Bizerte,Non,14.64,14.16,8,2,diplome,2023-2024
+ETU-C7C82129,Baccouche,Hajer,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,L1,2024,Ben Arous,Non,12.5,11.56,1,3,actif,2023-2024
+ETU-105E1155,Oueslati,Rami,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,L3,2022,Tunis,Non,10.42,9.79,3,0,diplome,2023-2024
+ETU-56F39489,Belhaj,Rania,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,L3,2024,Ben Arous,Non,6.1,7.2,10,12,actif,2023-2024
+ETU-43ADB222,Khlifi,Mariem,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,L2,2024,Ariana,Non,14.92,14.26,3,2,actif,2023-2024
+ETU-8D4A7FEA,Mansouri,Yassine,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,L1,2020,Ariana,Non,4.11,3.31,26,22,abandonne,2023-2024
+ETU-24023E1E,Gafsi,Yassine,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,M1,2022,Bizerte,Non,16.54,18.0,9,8,actif,2023-2024
+ETU-AF1893D3,Aloui,Rania,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,L2,2022,Bizerte,Non,11.23,11.14,4,4,actif,2023-2024
+ETU-7C5CB2B9,Gafsi,Hamza,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,L3,2022,Sousse,Non,8.87,9.79,10,11,actif,2023-2024
+ETU-BB640E87,Khemiri,Sarra,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,L2,2021,Ariana,Non,10.41,12.1,9,1,actif,2023-2024
+ETU-19658CF8,Aloui,Hajer,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,M2,2020,Bizerte,Oui,2.94,4.0,45,10,abandonne,2023-2024
+ETU-1D03F3F4,Belhaj,Amira,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,L1,2022,Zaghouan,Oui,13.96,14.33,8,3,actif,2023-2024
+ETU-A2589A19,Ben Ali,Mariem,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,M2,2022,Tunis,Non,11.99,11.75,2,0,actif,2023-2024
+ETU-A068673D,Belhaj,Salma,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Licence,L1,2021,Ben Arous,Non,16.05,16.25,2,0,actif,2023-2024
+ETU-E178CC2C,Belhaj,Tarek,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,L2,2020,Ben Arous,Oui,16.67,18.06,8,1,actif,2023-2024
+ETU-3721B148,Sfaxi,Rami,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,M2,2020,Sousse,Non,7.98,6.76,11,12,actif,2023-2024
+ETU-80D44BEC,Gafsi,Yassine,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,L2,2024,Nabeul,Oui,8.51,8.8,6,8,actif,2023-2024
+ETU-B2A8E84D,Jebali,Mohamed,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,L2,2020,Ben Arous,Non,9.41,8.84,12,7,actif,2023-2024
+ETU-67BB9D51,Jebali,Hedi,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,L3,2023,Ariana,Non,15.56,16.42,3,6,actif,2023-2024
+ETU-0A239899,Mansouri,Hajer,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,M1,2021,Manouba,Non,15.18,15.87,3,4,actif,2023-2024
+ETU-29D8B895,Dridi,Bilel,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Cycle Ingénieur,L1,2022,Bizerte,Non,4.48,6.25,19,4,actif,2023-2024
+ETU-514D6B8E,Baccouche,Anis,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Licence,L1,2023,Tunis,Non,10.56,9.46,12,12,actif,2023-2024
+ETU-80AFA812,Gafsi,Rami,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,M2,2020,Nabeul,Non,7.24,6.04,0,0,actif,2023-2024
+ETU-B094584A,Baccouche,Fatma,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Licence,L1,2023,Bizerte,Oui,14.53,13.53,3,6,actif,2023-2024
+ETU-F0439CC0,Zouaghi,Hamza,M,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,L3,2022,Sfax,Oui,16.22,16.57,6,0,diplome,2023-2024
+ETU-F3779F1F,Dridi,Hajer,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Master,L3,2022,Ariana,Non,15.71,15.39,10,10,diplome,2023-2024
+ETU-D12027D9,Chaari,Mariem,F,UCAR-IPEST,Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa,Doctorat,M1,2022,Zaghouan,Non,5.04,4.36,27,11,actif,2023-2024
+ETU-CADA3140,Chaari,Khaled,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,L1,2023,Bizerte,Non,10.03,9.6,8,9,actif,2023-2024
+ETU-210945D5,Baccouche,Salma,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,M1,2024,Sousse,Oui,14.53,13.18,7,1,actif,2023-2024
+ETU-20A5C65A,Hamdi,Hedi,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,L3,2020,Sousse,Oui,7.44,9.36,10,4,actif,2023-2024
+ETU-B77AD413,Mzoughi,Lina,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,M1,2023,Ariana,Oui,13.07,13.38,8,0,actif,2023-2024
+ETU-0B11473B,Belhaj,Mohamed,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,M1,2024,Sfax,Non,13.89,15.46,9,6,actif,2023-2024
+ETU-43173DCB,Mzoughi,Nour,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,L2,2021,Monastir,Oui,13.66,13.37,10,2,actif,2023-2024
+ETU-E63AD239,Mansouri,Hamza,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,M2,2020,Ben Arous,Oui,13.67,13.99,1,1,actif,2023-2024
+ETU-B761CC80,Baccouche,Yassine,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,L1,2023,Tunis,Oui,9.44,10.85,10,10,actif,2023-2024
+ETU-4F719B7B,Dridi,Mehdi,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,L3,2022,Nabeul,Non,15.64,16.83,11,11,actif,2023-2024
+ETU-3B305C60,Zouaghi,Anis,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,L3,2022,Tunis,Non,7.85,9.7,9,8,actif,2023-2024
+ETU-EA262D89,Mzoughi,Mariem,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,L1,2023,Nabeul,Oui,15.47,17.1,5,2,actif,2023-2024
+ETU-53DFDBF3,Khemiri,Maissa,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,L3,2023,Manouba,Oui,15.6,14.85,3,4,actif,2023-2024
+ETU-2067D306,Mzoughi,Rania,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,M1,2023,Nabeul,Non,12.75,14.02,5,4,actif,2023-2024
+ETU-D294B96E,Chaari,Anis,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Cycle Ingénieur,L2,2021,Sfax,Oui,14.95,14.7,11,1,actif,2023-2024
+ETU-A003B5CD,Gafsi,Nour,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Cycle Ingénieur,L1,2022,Zaghouan,Non,16.73,16.28,9,8,actif,2023-2024
+ETU-CE93684F,Oueslati,Amira,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,L1,2020,Sousse,Oui,11.33,10.58,8,1,actif,2023-2024
+ETU-C722AE6B,Dridi,Rami,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,L3,2023,Ben Arous,Oui,11.63,10.15,12,11,diplome,2023-2024
+ETU-3163F08A,Ayari,Mariem,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,L1,2024,Nabeul,Oui,7.16,5.81,8,10,actif,2023-2024
+ETU-F40DDE9F,Trabelsi,Sarra,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,L3,2024,Ben Arous,Oui,13.54,14.37,1,4,diplome,2023-2024
+ETU-268855F2,Khemiri,Nour,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Cycle Ingénieur,L2,2022,Monastir,Non,17.23,18.75,4,7,actif,2023-2024
+ETU-6E0C1095,Sfaxi,Maissa,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,M2,2021,Sousse,Non,9.22,8.37,12,9,actif,2023-2024
+ETU-4A2A1553,Mzoughi,Mehdi,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,L3,2020,Bizerte,Non,11.79,10.95,1,2,diplome,2023-2024
+ETU-E9895A5D,Khlifi,Sami,M,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Master,M2,2023,Tunis,Non,11.82,11.05,12,9,actif,2023-2024
+ETU-1BF6E0B8,Baccouche,Asma,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Licence,L1,2020,Tunis,Non,12.82,13.98,10,2,actif,2023-2024
+ETU-7D429735,Hamdi,Mariem,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,M2,2022,Manouba,Non,15.83,15.7,12,15,diplome,2023-2024
+ETU-0096EBAD,Mzoughi,Salma,F,UCAR-ISBAN,Institut Supérieur des Beaux Arts de Nabeul,Doctorat,M2,2023,Ariana,Oui,15.48,16.16,5,0,actif,2023-2024
+ETU-561778F5,Khemiri,Nizar,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,L2,2022,Bizerte,Non,16.59,18.48,6,6,actif,2023-2024
+ETU-F281D3B1,Gafsi,Mohamed,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,L1,2020,Tunis,Oui,12.57,14.35,7,9,actif,2023-2024
+ETU-E865BC05,Gafsi,Tarek,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,M2,2020,Ariana,Non,13.41,13.97,3,6,actif,2023-2024
+ETU-9896ADDD,Jebali,Anis,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,L1,2023,Sousse,Non,7.09,8.66,8,10,actif,2023-2024
+ETU-099DDD8D,Chaari,Yassine,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,M1,2024,Zaghouan,Non,8.39,10.23,8,11,actif,2023-2024
+ETU-6F59ABC8,Khemiri,Sirine,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,M1,2022,Manouba,Oui,12.31,10.85,1,3,actif,2023-2024
+ETU-0ED6EF94,Oueslati,Rania,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,L1,2022,Monastir,Non,10.09,10.8,10,6,actif,2023-2024
+ETU-71F0D6D0,Aloui,Bilel,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,M2,2021,Monastir,Non,11.4,10.74,6,1,diplome,2023-2024
+ETU-E5FD25C6,Mzoughi,Lina,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,M2,2021,Ben Arous,Oui,10.16,10.64,1,2,actif,2023-2024
+ETU-25DEE2D1,Ayari,Yassine,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,L1,2022,Ariana,Oui,9.45,10.67,8,4,actif,2023-2024
+ETU-8ED7932F,Ben Ali,Anis,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,L1,2021,Manouba,Non,9.51,9.07,1,1,actif,2023-2024
+ETU-FA31644D,Gafsi,Adam,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,L3,2024,Sfax,Non,8.97,8.69,2,3,actif,2023-2024
+ETU-782E177A,Oueslati,Adam,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,M1,2024,Manouba,Non,12.55,12.22,10,11,actif,2023-2024
+ETU-B4E938AE,Jebali,Mariem,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,L2,2021,Sfax,Non,13.18,11.82,10,2,actif,2023-2024
+ETU-3C966F30,Khlifi,Mariem,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,M2,2021,Sfax,Non,7.18,8.38,9,3,actif,2023-2024
+ETU-A3ECCB9B,Ayari,Asma,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,M1,2022,Manouba,Non,16.21,17.96,5,8,actif,2023-2024
+ETU-DD89B7C6,Trabelsi,Mohamed,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,M2,2021,Ariana,Non,16.62,15.83,6,7,actif,2023-2024
+ETU-F2481228,Sfaxi,Rania,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,L3,2024,Ariana,Non,9.59,8.41,9,4,actif,2023-2024
+ETU-2A61F009,Oueslati,Hedi,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,L2,2021,Monastir,Non,11.72,12.37,9,4,actif,2023-2024
+ETU-0EEAD105,Chaari,Hamza,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,M2,2023,Bizerte,Non,10.05,11.18,4,2,diplome,2023-2024
+ETU-73414FE2,Dridi,Nizar,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,M2,2024,Monastir,Non,13.88,13.08,3,1,actif,2023-2024
+ETU-58B708F0,Chaari,Hajer,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,M2,2022,Bizerte,Non,3.31,2.4,19,11,actif,2023-2024
+ETU-52B8D8EA,Jebali,Sami,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,M2,2024,Sousse,Non,10.46,9.53,12,13,diplome,2023-2024
+ETU-D6E83667,Trabelsi,Ines,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,M2,2023,Sfax,Oui,14.38,15.5,5,8,diplome,2023-2024
+ETU-A2D4B9AD,Ayari,Mariem,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,L1,2024,Monastir,Non,8.34,10.19,1,4,actif,2023-2024
+ETU-450CF1F6,Mansouri,Mohamed,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,M1,2020,Ariana,Oui,17.2,18.8,3,1,actif,2023-2024
+ETU-8471D3E0,Ayari,Asma,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,L2,2022,Tunis,Non,11.65,12.78,10,10,actif,2023-2024
+ETU-BBD6AE94,Oueslati,Sarra,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,L1,2023,Bizerte,Non,3.75,3.5,30,31,abandonne,2023-2024
+ETU-DA4E798B,Khlifi,Asma,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,L3,2020,Monastir,Oui,8.27,9.44,0,0,actif,2023-2024
+ETU-6D94A834,Mansouri,Adam,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Cycle Ingénieur,L3,2023,Bizerte,Non,13.23,13.85,2,1,diplome,2023-2024
+ETU-102456E6,Sfaxi,Adam,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,M1,2023,Nabeul,Oui,7.17,7.53,4,2,actif,2023-2024
+ETU-84E1F021,Ayari,Rania,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Master,M1,2022,Ben Arous,Non,15.84,17.07,6,6,actif,2023-2024
+ETU-6CC0214B,Sfaxi,Sarra,F,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Doctorat,M1,2020,Tunis,Oui,13.3,13.95,5,4,actif,2023-2024
+ETU-7FE47E40,Zouaghi,Sami,M,UCAR-ISTEUB,"Institut Sup. des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",Licence,L1,2020,Monastir,Oui,14.66,13.31,0,1,actif,2023-2024
+ETU-B7783111,Baccouche,Nizar,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Espagnol,L1,2022,Manouba,Non,12.83,13.96,3,5,actif,2023-2024
+ETU-F0736DC9,Ben Ali,Ahmed,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,L2,2023,Sfax,Oui,17.2,16.71,1,3,actif,2023-2024
+ETU-44BC113E,Ayari,Rania,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Espagnol,M2,2023,Manouba,Non,15.69,14.29,10,2,diplome,2023-2024
+ETU-D1C15F47,Sfaxi,Mehdi,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Chinois,M1,2024,Bizerte,Oui,12.55,14.1,6,6,actif,2023-2024
+ETU-6FA5BA02,Khemiri,Sami,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,M2,2023,Monastir,Non,11.4,11.35,8,6,diplome,2023-2024
+ETU-507EFB6C,Khlifi,Sarra,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,L2,2023,Zaghouan,Non,13.31,14.78,3,5,actif,2023-2024
+ETU-F2B2721C,Mansouri,Nour,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,L2,2021,Nabeul,Non,16.44,16.45,1,1,actif,2023-2024
+ETU-E9EBB344,Jebali,Yassine,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,L2,2023,Ben Arous,Non,8.65,9.02,0,1,actif,2023-2024
+ETU-5B382A65,Khemiri,Ines,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,L2,2022,Ariana,Non,9.58,8.57,2,0,actif,2023-2024
+ETU-DB5CE024,Khemiri,Mohamed,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,L1,2022,Monastir,Oui,17.15,18.43,0,2,actif,2023-2024
+ETU-80F62E02,Khemiri,Ahmed,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,M1,2023,Sousse,Non,9.18,10.87,5,7,actif,2023-2024
+ETU-8BDFB027,Sfaxi,Ines,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Chinois,L3,2020,Monastir,Oui,14.18,13.85,2,3,diplome,2023-2024
+ETU-943C3D50,Mansouri,Sarra,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,L2,2024,Bizerte,Non,12.87,12.26,1,1,actif,2023-2024
+ETU-E83BB32B,Chaari,Nour,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,M1,2020,Monastir,Non,10.42,11.18,11,0,actif,2023-2024
+ETU-7A0BFDD9,Jebali,Rami,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,L3,2022,Ben Arous,Non,16.31,17.23,8,1,actif,2023-2024
+ETU-81B6B898,Aloui,Hamza,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Chinois,L1,2022,Tunis,Non,7.15,6.85,9,8,actif,2023-2024
+ETU-34311F54,Khemiri,Yassine,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,L2,2022,Bizerte,Non,16.87,15.43,10,13,actif,2023-2024
+ETU-9A95C42B,Chaari,Mohamed,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,L2,2020,Tunis,Non,4.47,5.47,34,0,abandonne,2023-2024
+ETU-F3CE20E2,Mansouri,Ines,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Chinois,L2,2023,Nabeul,Non,13.86,14.82,0,1,actif,2023-2024
+ETU-82CEBE71,Mzoughi,Maissa,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Chinois,L2,2023,Nabeul,Non,10.01,9.79,10,5,actif,2023-2024
+ETU-81E37BDF,Khlifi,Yassine,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,M2,2024,Sfax,Non,17.44,19.33,5,5,actif,2023-2024
+ETU-2C87C331,Dridi,Sarra,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Espagnol,L3,2022,Monastir,Oui,8.24,9.62,2,1,actif,2023-2024
+ETU-5AFF8D77,Ben Ali,Mohamed,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,M1,2023,Zaghouan,Oui,13.09,13.68,8,5,actif,2023-2024
+ETU-15ED9F8F,Trabelsi,Fatma,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Italien,L2,2020,Zaghouan,Non,16.04,15.25,6,6,actif,2023-2024
+ETU-73513EA9,Chaari,Hamza,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,M1,2024,Monastir,Oui,6.29,8.03,6,7,actif,2023-2024
+ETU-469CF7DC,Baccouche,Rami,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Anglais,M2,2021,Bizerte,Oui,8.64,7.74,9,3,actif,2023-2024
+ETU-513AD2C5,Baccouche,Ahmed,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,L1,2023,Ariana,Oui,7.39,8.83,8,5,actif,2023-2024
+ETU-74400461,Hamdi,Salma,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,M1,2022,Ariana,Non,8.74,9.88,1,4,actif,2023-2024
+ETU-7CFAC55F,Ben Ali,Adam,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Espagnol,L1,2024,Manouba,Non,12.01,11.32,1,1,actif,2023-2024
+ETU-449C70CF,Oueslati,Mehdi,M,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,L1,2020,Zaghouan,Non,14.74,13.58,11,14,actif,2023-2024
+ETU-6F2B467A,Mzoughi,Sirine,F,UCAR-ISLT,Institut Supérieur des Langues de Tunis,Français,L3,2024,Zaghouan,Oui,10.24,9.6,12,12,actif,2023-2024
+ETU-C2854E11,Dridi,Mehdi,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,M1,2021,Sousse,Oui,7.72,8.78,5,6,actif,2023-2024
+ETU-F7299B26,Trabelsi,Lina,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Doctorat,M2,2022,Sousse,Non,13.03,12.32,12,6,actif,2023-2024
+ETU-E54981E5,Belhaj,Nizar,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,L1,2023,Ben Arous,Non,13.56,14.82,2,2,actif,2023-2024
+ETU-CB1BF913,Khlifi,Hajer,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,L2,2022,Sfax,Non,11.88,13.6,7,4,actif,2023-2024
+ETU-DD324D94,Ayari,Rania,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,M1,2022,Manouba,Oui,9.09,11.08,8,11,actif,2023-2024
+ETU-CFEF85B6,Oueslati,Asma,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,M2,2024,Ben Arous,Non,7.82,8.5,2,3,actif,2023-2024
+ETU-23A1F01F,Baccouche,Mehdi,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,M2,2021,Zaghouan,Non,16.03,16.09,11,1,actif,2023-2024
+ETU-6AB8788D,Zouaghi,Ahmed,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,L2,2022,Ben Arous,Non,15.78,15.26,9,6,actif,2023-2024
+ETU-CB2F3EEE,Zouaghi,Mariem,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,L1,2022,Zaghouan,Non,11.04,10.86,7,8,actif,2023-2024
+ETU-10420E62,Trabelsi,Yassine,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,L3,2021,Nabeul,Non,7.76,8.56,6,9,actif,2023-2024
+ETU-75335524,Dridi,Bilel,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,M2,2022,Sousse,Non,16.33,18.04,4,1,diplome,2023-2024
+ETU-8F9AEAE1,Baccouche,Hajer,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,M2,2022,Manouba,Non,15.77,17.01,0,3,diplome,2023-2024
+ETU-B79458B6,Belhaj,Rania,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,M2,2022,Manouba,Non,8.29,9.91,7,8,actif,2023-2024
+ETU-217C75EE,Zouaghi,Maissa,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,L1,2022,Sousse,Oui,6.3,8.05,12,6,actif,2023-2024
+ETU-35794FE7,Oueslati,Rania,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,L2,2020,Bizerte,Non,12.79,12.07,1,4,actif,2023-2024
+ETU-0ABB55B5,Aloui,Mohamed,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,M1,2020,Zaghouan,Oui,12.08,10.77,2,3,actif,2023-2024
+ETU-8379D306,Sfaxi,Mariem,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,L3,2020,Monastir,Non,16.78,16.66,7,4,actif,2023-2024
+ETU-2C320A87,Mzoughi,Bilel,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,M1,2024,Ben Arous,Non,10.4,9.21,8,9,actif,2023-2024
+ETU-81FB18D8,Gafsi,Anis,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,L1,2024,Ben Arous,Non,11.88,12.97,2,4,actif,2023-2024
+ETU-3B5ADE37,Jebali,Tarek,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,M1,2020,Sousse,Oui,9.83,11.09,6,7,actif,2023-2024
+ETU-CA2F12E1,Ben Ali,Khaled,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Doctorat,L2,2024,Ariana,Non,10.97,10.06,6,6,actif,2023-2024
+ETU-8D5FC8ED,Mansouri,Tarek,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,M1,2024,Zaghouan,Non,15.75,14.64,9,4,actif,2023-2024
+ETU-006604F3,Baccouche,Rania,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,M1,2021,Monastir,Oui,3.04,2.9,45,10,abandonne,2023-2024
+ETU-5C947A97,Jebali,Amira,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Doctorat,M2,2023,Sfax,Oui,9.86,10.16,4,2,actif,2023-2024
+ETU-7BCC817D,Sfaxi,Mehdi,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,M2,2024,Tunis,Non,12.12,13.63,9,6,actif,2023-2024
+ETU-F1CAF8E2,Trabelsi,Salma,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Licence,M1,2022,Manouba,Non,9.11,8.71,10,7,actif,2023-2024
+ETU-4D891F18,Ben Ali,Fatma,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Master,L3,2024,Tunis,Oui,2.6,4.01,30,2,abandonne,2023-2024
+ETU-667E8C02,Sfaxi,Asma,F,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,M1,2021,Manouba,Oui,8.86,10.57,4,1,actif,2023-2024
+ETU-BCB83776,Oueslati,Bilel,M,UCAR-ISLAIN,Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul,Cycle Ingénieur,L1,2022,Tunis,Non,17.17,16.38,6,6,actif,2023-2024
+ETU-8B48C725,Aloui,Mohamed,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Master,L3,2020,Ariana,Non,8.26,6.93,4,2,actif,2023-2024
+ETU-4D1E0F30,Zouaghi,Khaled,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,L2,2020,Bizerte,Non,16.49,15.38,4,6,actif,2023-2024
+ETU-776B8E6C,Ben Ali,Ines,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,M1,2022,Zaghouan,Oui,7.42,8.64,12,9,actif,2023-2024
+ETU-78D0680F,Aloui,Hajer,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Licence,L1,2023,Sousse,Non,7.65,7.55,10,5,actif,2023-2024
+ETU-8498B498,Chaari,Bilel,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,M2,2024,Tunis,Non,7.36,7.76,7,6,actif,2023-2024
+ETU-6A6DCB43,Baccouche,Nour,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Master,M1,2021,Ben Arous,Non,13.21,12.83,0,3,actif,2023-2024
+ETU-468E60B1,Baccouche,Nour,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Master,L2,2020,Ben Arous,Non,16.56,17.1,12,6,actif,2023-2024
+ETU-757782A3,Zouaghi,Mehdi,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,M2,2023,Sfax,Non,13.54,13.03,6,9,actif,2023-2024
+ETU-AA6A06E8,Mansouri,Hedi,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,M1,2024,Nabeul,Non,7.15,7.81,8,2,actif,2023-2024
+ETU-4DBC79F3,Sfaxi,Rania,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,M1,2020,Sousse,Non,2.37,2.2,45,29,abandonne,2023-2024
+ETU-D83AAA01,Gafsi,Bilel,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,L1,2023,Ben Arous,Oui,3.75,5.67,45,13,abandonne,2023-2024
+ETU-8699B450,Jebali,Nizar,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Master,L1,2023,Bizerte,Non,7.9,7.34,8,4,actif,2023-2024
+ETU-BF8E2008,Mzoughi,Sarra,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,L3,2022,Ariana,Non,9.21,9.57,10,1,actif,2023-2024
+ETU-CF67D64C,Trabelsi,Mariem,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,L3,2020,Sousse,Oui,9.32,9.88,10,12,actif,2023-2024
+ETU-AD612D19,Hamdi,Salma,F,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,L1,2023,Monastir,Non,15.97,15.42,1,3,actif,2023-2024
+ETU-3ECFD278,Dridi,Rami,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Licence,L2,2022,Ariana,Non,10.98,9.57,5,6,actif,2023-2024
+ETU-5801CCDF,Ben Ali,Rami,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Licence,L3,2022,Sfax,Oui,7.13,6.61,3,2,actif,2023-2024
+ETU-D898FD8D,Mzoughi,Nizar,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Licence,L1,2023,Nabeul,Non,8.65,7.55,11,11,actif,2023-2024
+ETU-CA69F8DD,Mzoughi,Mohamed,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Licence,M2,2023,Nabeul,Non,13.84,14.46,12,12,actif,2023-2024
+ETU-351E657F,Chaari,Rami,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,L3,2020,Tunis,Oui,10.15,9.71,1,1,diplome,2023-2024
+ETU-E28D8086,Chaari,Ahmed,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Master,L2,2024,Sousse,Oui,11.39,12.58,9,5,actif,2023-2024
+ETU-C64E0302,Dridi,Rami,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Cycle Ingénieur,L1,2020,Monastir,Oui,13.45,13.71,3,6,actif,2023-2024
+ETU-326637CF,Aloui,Bilel,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Licence,L1,2024,Sousse,Non,16.63,17.1,3,1,actif,2023-2024
+ETU-C3F11F71,Baccouche,Ahmed,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Master,L2,2022,Manouba,Oui,12.48,11.48,7,3,actif,2023-2024
+ETU-F5C36AB3,Aloui,Nizar,M,UCAR-ISSTE,Institut Sup. des Sciences et Technologies de l'Environnement de Borj Cédria,Doctorat,L1,2024,Zaghouan,Non,8.05,9.88,9,6,actif,2023-2024
+ETU-79921A0E,Belhaj,Lina,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,M2,2020,Sfax,Non,5.54,4.82,31,5,actif,2023-2024
+ETU-CDACE566,Trabelsi,Rania,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,L3,2022,Nabeul,Non,12.08,13.17,7,2,actif,2023-2024
+ETU-05FE3FBC,Chaari,Rami,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Licence,M2,2020,Sousse,Oui,15.53,16.18,1,2,diplome,2023-2024
+ETU-B22C7BCE,Ayari,Asma,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,L2,2020,Manouba,Non,10.65,11.35,7,1,actif,2023-2024
+ETU-6A2B1CE7,Mzoughi,Salma,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,L3,2020,Ben Arous,Non,11.62,10.28,7,6,diplome,2023-2024
+ETU-9DE619D0,Sfaxi,Asma,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,L2,2021,Bizerte,Non,7.72,7.6,4,5,actif,2023-2024
+ETU-99945174,Zouaghi,Khaled,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,L2,2024,Tunis,Oui,12.79,12.58,9,8,actif,2023-2024
+ETU-5B2979C8,Belhaj,Sirine,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Licence,L3,2024,Sousse,Oui,9.15,8.53,5,7,actif,2023-2024
+ETU-61FAE3C4,Hamdi,Amira,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,L1,2023,Nabeul,Non,7.45,9.43,1,3,actif,2023-2024
+ETU-57B22949,Dridi,Maissa,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,M2,2021,Sfax,Oui,7.35,9.06,3,3,actif,2023-2024
+ETU-AC7295E5,Mansouri,Maissa,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,L2,2021,Zaghouan,Non,11.0,10.3,12,10,actif,2023-2024
+ETU-5CDD7EFB,Hamdi,Rania,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Licence,M1,2023,Sousse,Non,14.86,15.09,1,4,actif,2023-2024
+ETU-AFD3BD91,Ayari,Mehdi,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Licence,L3,2021,Ariana,Non,17.44,19.17,4,1,diplome,2023-2024
+ETU-91BEB49C,Mansouri,Hajer,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,M2,2022,Sousse,Non,12.0,11.6,11,2,actif,2023-2024
+ETU-9723FAC1,Khlifi,Mehdi,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Licence,M1,2024,Monastir,Non,13.43,15.09,0,0,actif,2023-2024
+ETU-6FEF7E2E,Trabelsi,Asma,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,L3,2024,Ben Arous,Non,7.09,8.09,0,3,actif,2023-2024
+ETU-B97D7247,Ben Ali,Amira,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,L3,2021,Ariana,Oui,8.57,9.67,12,0,actif,2023-2024
+ETU-69A5A893,Trabelsi,Yassine,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,M2,2020,Monastir,Non,15.72,16.18,10,13,diplome,2023-2024
+ETU-D99CDE5E,Trabelsi,Nour,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,M1,2023,Sfax,Non,15.58,16.77,4,1,actif,2023-2024
+ETU-A8B3B81C,Khlifi,Tarek,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,M1,2023,Zaghouan,Non,11.8,12.89,7,3,actif,2023-2024
+ETU-30EBE2E5,Oueslati,Sarra,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,L3,2022,Nabeul,Non,16.98,18.7,7,10,actif,2023-2024
+ETU-F8858F87,Zouaghi,Nizar,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,L2,2021,Nabeul,Oui,10.34,11.84,6,3,actif,2023-2024
+ETU-0AF91C75,Ayari,Mohamed,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,M1,2024,Sfax,Non,14.15,12.89,3,5,actif,2023-2024
+ETU-BB2563E1,Belhaj,Anis,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Cycle Ingénieur,L2,2020,Manouba,Non,12.34,11.93,7,10,actif,2023-2024
+ETU-A7D20247,Aloui,Bilel,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,L3,2022,Ben Arous,Oui,16.28,15.87,1,1,actif,2023-2024
+ETU-7B2E55B6,Khlifi,Sirine,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,L3,2021,Bizerte,Non,9.61,9.12,2,5,actif,2023-2024
+ETU-839867EC,Hamdi,Rania,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Master,L2,2024,Zaghouan,Oui,2.69,1.78,38,38,abandonne,2023-2024
+ETU-8CE9FBB4,Hamdi,Sami,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,L3,2024,Manouba,Non,15.04,15.73,4,3,actif,2023-2024
+ETU-6B403D6D,Gafsi,Tarek,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,L1,2022,Tunis,Non,11.47,12.65,4,2,actif,2023-2024
+ETU-6BCC5627,Mzoughi,Tarek,M,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Licence,M2,2023,Zaghouan,Non,9.22,7.97,11,0,actif,2023-2024
+ETU-B1DE9ACD,Zouaghi,Salma,F,UCAR-ISCCB,Institut Supérieur de Commerce et de Comptabilité de Bizerte,Doctorat,L1,2023,Sousse,Non,9.41,9.29,1,0,actif,2023-2024
+ETU-15105EDA,Dridi,Anis,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Master,L2,2023,Tunis,Non,9.57,8.8,3,6,actif,2023-2024
+ETU-8D84BEF2,Ayari,Yassine,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Doctorat,L1,2021,Zaghouan,Non,13.8,15.45,12,8,actif,2023-2024
+ETU-230571BF,Aloui,Hedi,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Master,L2,2022,Sousse,Non,7.49,6.51,4,2,actif,2023-2024
+ETU-428E6415,Ayari,Adam,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,M2,2023,Manouba,Non,10.85,11.84,10,13,diplome,2023-2024
+ETU-036A6A9C,Zouaghi,Sirine,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,L1,2024,Zaghouan,Non,12.13,13.82,0,0,actif,2023-2024
+ETU-CF578FA7,Mansouri,Rania,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,L2,2024,Sfax,Non,13.24,12.56,11,8,actif,2023-2024
+ETU-8864E2D8,Ben Ali,Rania,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,L1,2022,Sousse,Non,10.65,12.56,0,1,actif,2023-2024
+ETU-E2DB53EE,Sfaxi,Mohamed,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Doctorat,M1,2022,Sfax,Oui,3.9,4.86,24,18,abandonne,2023-2024
+ETU-36B27E5B,Oueslati,Mariem,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,M1,2020,Monastir,Non,15.04,15.17,4,3,actif,2023-2024
+ETU-84589FDC,Sfaxi,Mariem,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,M2,2021,Monastir,Non,8.19,9.72,12,15,actif,2023-2024
+ETU-A5FC1088,Trabelsi,Khaled,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,L3,2020,Tunis,Non,7.85,8.58,1,1,actif,2023-2024
+ETU-E8A7EF63,Jebali,Mariem,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,L1,2022,Monastir,Oui,11.51,11.03,10,1,actif,2023-2024
+ETU-A753C916,Oueslati,Amira,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Doctorat,L3,2020,Sfax,Non,10.26,10.88,5,3,diplome,2023-2024
+ETU-DB981D4C,Mansouri,Nour,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,L1,2023,Manouba,Non,8.21,9.01,12,3,actif,2023-2024
+ETU-3DE162C9,Mansouri,Tarek,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,M1,2020,Sousse,Oui,7.32,6.73,0,1,actif,2023-2024
+ETU-AC56841A,Belhaj,Nizar,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,L2,2020,Sfax,Non,10.55,10.78,7,6,actif,2023-2024
+ETU-0AA2D951,Mansouri,Sami,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,L2,2021,Zaghouan,Non,4.76,4.21,20,15,actif,2023-2024
+ETU-BAE76EAC,Zouaghi,Rania,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,L2,2021,Ariana,Non,13.21,14.6,2,0,actif,2023-2024
+ETU-774AB894,Mzoughi,Lina,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,L3,2023,Tunis,Non,11.68,13.46,12,3,actif,2023-2024
+ETU-BA6F50E4,Mansouri,Lina,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,M2,2020,Manouba,Oui,12.47,13.69,2,3,diplome,2023-2024
+ETU-B9F55DD2,Khlifi,Amira,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,M2,2023,Ben Arous,Non,7.55,7.1,1,4,actif,2023-2024
+ETU-F1A707FA,Ben Ali,Tarek,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Master,L2,2022,Monastir,Non,2.79,4.55,28,10,abandonne,2023-2024
+ETU-C755EE3F,Oueslati,Tarek,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,L2,2023,Nabeul,Non,3.01,4.67,28,5,abandonne,2023-2024
+ETU-15240C0E,Ayari,Fatma,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,M2,2024,Nabeul,Non,11.11,11.98,10,4,actif,2023-2024
+ETU-3CD2476B,Baccouche,Sarra,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,L2,2020,Sousse,Non,7.97,8.35,8,9,actif,2023-2024
+ETU-A83FA543,Khlifi,Sarra,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,L2,2024,Monastir,Non,13.82,14.56,3,6,actif,2023-2024
+ETU-00260D89,Trabelsi,Lina,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,L2,2023,Sousse,Non,14.76,15.47,12,13,actif,2023-2024
+ETU-73F2B445,Mzoughi,Rania,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Master,L2,2024,Sfax,Non,12.32,11.4,6,3,actif,2023-2024
+ETU-D354937D,Khemiri,Hajer,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Doctorat,L3,2022,Bizerte,Non,7.07,7.57,7,4,actif,2023-2024
+ETU-D7B85092,Zouaghi,Bilel,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,L3,2020,Bizerte,Non,7.19,6.25,8,8,actif,2023-2024
+ETU-609C8D09,Trabelsi,Mohamed,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Master,M1,2023,Manouba,Oui,14.01,15.71,3,2,actif,2023-2024
+ETU-02B70E6E,Khlifi,Sirine,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Licence,M2,2023,Monastir,Non,8.4,9.31,4,1,actif,2023-2024
+ETU-B9B49364,Baccouche,Mohamed,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Doctorat,L1,2022,Nabeul,Oui,8.01,9.26,1,2,actif,2023-2024
+ETU-5BF9514A,Hamdi,Rami,M,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Master,L1,2023,Bizerte,Non,9.91,10.93,2,5,actif,2023-2024
+ETU-501B789C,Ayari,Hajer,F,UCAR-ISEPBG,Institut Sup. des Etudes Préparatoires en Biologie et Géologie à Soukra,Cycle Ingénieur,M1,2023,Manouba,Non,12.13,11.42,6,0,actif,2023-2024
+ETU-A5245FF0,Sfaxi,Sarra,F,UCAR-SUPCOM,Sup'Com,Master,M2,2021,Nabeul,Non,16.77,18.11,0,0,diplome,2023-2024
+ETU-4C559A32,Ayari,Tarek,M,UCAR-SUPCOM,Sup'Com,Master,M1,2022,Bizerte,Non,12.86,13.79,11,13,actif,2023-2024
+ETU-A01526F6,Khemiri,Tarek,M,UCAR-SUPCOM,Sup'Com,Master,L1,2023,Ben Arous,Non,8.97,9.65,7,10,actif,2023-2024
+ETU-A8872490,Oueslati,Adam,M,UCAR-SUPCOM,Sup'Com,Master,L3,2024,Sousse,Non,8.44,9.04,2,1,actif,2023-2024
+ETU-85DB3DF5,Khemiri,Hajer,F,UCAR-SUPCOM,Sup'Com,Licence,L2,2024,Nabeul,Non,2.91,3.64,20,16,actif,2023-2024
+ETU-CF87980A,Dridi,Asma,F,UCAR-SUPCOM,Sup'Com,Doctorat,M1,2022,Tunis,Non,16.03,15.21,10,2,actif,2023-2024
+ETU-79861198,Ayari,Lina,F,UCAR-SUPCOM,Sup'Com,Master,M2,2021,Monastir,Non,15.69,14.45,8,8,diplome,2023-2024
+ETU-7B1217B4,Aloui,Salma,F,UCAR-SUPCOM,Sup'Com,Doctorat,M2,2021,Zaghouan,Non,12.34,12.77,2,3,diplome,2023-2024
+ETU-C7750152,Chaari,Khaled,M,UCAR-SUPCOM,Sup'Com,Cycle Ingénieur,M2,2023,Sousse,Non,6.19,5.43,12,12,actif,2023-2024
+ETU-52B94FB1,Khlifi,Nour,F,UCAR-SUPCOM,Sup'Com,Master,L2,2023,Sfax,Oui,10.0,9.16,8,8,actif,2023-2024
+ETU-04D24C2D,Zouaghi,Amira,F,UCAR-SUPCOM,Sup'Com,Licence,L1,2024,Monastir,Oui,8.41,7.35,0,0,actif,2023-2024
+ETU-BB09915E,Khlifi,Hamza,M,UCAR-SUPCOM,Sup'Com,Licence,M1,2020,Bizerte,Non,13.23,14.78,0,3,actif,2023-2024
+ETU-72A3CB64,Ben Ali,Nour,F,UCAR-SUPCOM,Sup'Com,Cycle Ingénieur,L2,2023,Bizerte,Oui,17.49,17.35,11,5,actif,2023-2024
+ETU-18824243,Mzoughi,Hajer,F,UCAR-SUPCOM,Sup'Com,Master,M1,2023,Nabeul,Non,13.0,14.6,2,2,actif,2023-2024
+ETU-1F848EA3,Ben Ali,Bilel,M,UCAR-SUPCOM,Sup'Com,Master,L1,2021,Nabeul,Non,11.18,10.74,12,5,actif,2023-2024
+ETU-FADE73CC,Khlifi,Ahmed,M,UCAR-SUPCOM,Sup'Com,Master,M1,2021,Ariana,Non,8.92,8.81,12,2,actif,2023-2024
+ETU-F9A5DC33,Mansouri,Hajer,F,UCAR-SUPCOM,Sup'Com,Cycle Ingénieur,L3,2022,Ariana,Non,16.72,15.68,4,4,diplome,2023-2024
+ETU-A4B5DF0F,Hamdi,Amira,F,UCAR-SUPCOM,Sup'Com,Doctorat,L3,2020,Ariana,Non,12.66,11.26,1,4,diplome,2023-2024
+ETU-EDFEC2BC,Khlifi,Sirine,F,UCAR-SUPCOM,Sup'Com,Doctorat,L2,2023,Manouba,Oui,12.21,11.93,1,1,actif,2023-2024
+ETU-E15D65C4,Ben Ali,Rim,F,UCAR-SUPCOM,Sup'Com,Master,L1,2021,Monastir,Oui,4.94,5.69,16,1,actif,2023-2024
+ETU-AC83177D,Khemiri,Lina,F,UCAR-SUPCOM,Sup'Com,Doctorat,M1,2023,Monastir,Oui,9.81,11.37,11,2,actif,2023-2024
+ETU-EA1340BD,Mzoughi,Sami,M,UCAR-SUPCOM,Sup'Com,Master,M2,2020,Sfax,Non,10.29,10.55,9,11,actif,2023-2024
+ETU-63634228,Zouaghi,Adam,M,UCAR-SUPCOM,Sup'Com,Master,L1,2024,Ben Arous,Non,16.77,16.5,9,7,actif,2023-2024
+ETU-02B7F596,Trabelsi,Mohamed,M,UCAR-SUPCOM,Sup'Com,Licence,L1,2023,Zaghouan,Oui,15.96,15.26,7,1,actif,2023-2024
+ETU-33EA55C3,Sfaxi,Sarra,F,UCAR-SUPCOM,Sup'Com,Master,L1,2020,Sfax,Non,13.88,12.49,12,6,actif,2023-2024
+ETU-5CD57B5E,Dridi,Maissa,F,UCAR-SUPCOM,Sup'Com,Licence,M2,2024,Zaghouan,Oui,17.17,19.03,1,2,diplome,2023-2024
+ETU-0AE1CB32,Belhaj,Sirine,F,UCAR-SUPCOM,Sup'Com,Cycle Ingénieur,L2,2024,Sfax,Non,16.54,15.43,2,5,actif,2023-2024
+ETU-3AC7A43A,Ayari,Yassine,M,UCAR-SUPCOM,Sup'Com,Master,M1,2021,Ariana,Non,9.12,8.14,6,4,actif,2023-2024
+ETU-EAA3639E,Zouaghi,Rania,F,UCAR-SUPCOM,Sup'Com,Licence,M2,2024,Tunis,Non,7.17,5.81,2,5,actif,2023-2024
+ETU-14944BFF,Mansouri,Asma,F,UCAR-SUPCOM,Sup'Com,Licence,L2,2024,Ben Arous,Non,14.43,14.13,2,4,actif,2023-2024
+ETU-639F9C78,Aloui,Bilel,M,UCAR-SUPCOM,Sup'Com,Cycle Ingénieur,L2,2024,Manouba,Oui,8.04,9.96,2,4,actif,2023-2024
+ETU-0CD93E90,Oueslati,Lina,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,L2,2022,Nabeul,Non,17.16,17.44,10,1,actif,2023-2024
+ETU-BB8E2E5A,Mzoughi,Tarek,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,L2,2022,Ariana,Oui,8.42,8.8,2,5,actif,2023-2024
+ETU-115C403D,Trabelsi,Asma,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,L1,2023,Ben Arous,Non,10.0,10.56,9,2,actif,2023-2024
+ETU-E295123A,Ayari,Rania,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,M1,2021,Tunis,Non,7.44,6.91,3,3,actif,2023-2024
+ETU-CE111993,Ayari,Mohamed,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,L1,2023,Monastir,Non,14.34,15.12,4,4,actif,2023-2024
+ETU-EF2F18DF,Sfaxi,Anis,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,L1,2021,Zaghouan,Oui,7.25,8.81,10,6,actif,2023-2024
+ETU-FFFD8F20,Oueslati,Nizar,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,L1,2021,Bizerte,Non,14.24,14.68,9,0,actif,2023-2024
+ETU-2CA66715,Belhaj,Bilel,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,M1,2024,Ben Arous,Non,11.4,10.39,8,5,actif,2023-2024
+ETU-5FF39ABB,Ayari,Mehdi,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Licence,L2,2022,Ben Arous,Non,7.08,7.12,12,5,actif,2023-2024
+ETU-7C235129,Ayari,Anis,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,L3,2023,Zaghouan,Non,9.69,8.29,12,12,actif,2023-2024
+ETU-6581DC1F,Aloui,Salma,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,L2,2022,Sousse,Non,16.57,18.5,2,3,actif,2023-2024
+ETU-23835FA5,Jebali,Asma,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Licence,L2,2021,Bizerte,Non,7.29,8.76,7,6,actif,2023-2024
+ETU-927E5758,Hamdi,Ahmed,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,M1,2021,Ben Arous,Non,11.57,10.83,12,8,actif,2023-2024
+ETU-B3AA49F0,Hamdi,Mehdi,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,L2,2024,Monastir,Non,14.56,15.69,10,5,actif,2023-2024
+ETU-7B7A227E,Sfaxi,Sirine,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,M2,2020,Ben Arous,Non,12.98,13.48,8,7,actif,2023-2024
+ETU-66AD0148,Ben Ali,Lina,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,L2,2020,Sousse,Oui,4.31,6.01,15,16,actif,2023-2024
+ETU-9CDB16F6,Jebali,Asma,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,M2,2024,Sfax,Non,11.87,11.2,7,8,actif,2023-2024
+ETU-12E2CF6E,Trabelsi,Rania,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,M1,2024,Tunis,Non,13.16,13.02,8,6,actif,2023-2024
+ETU-44AA5D96,Zouaghi,Rami,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,L1,2023,Nabeul,Non,16.26,15.99,12,1,actif,2023-2024
+ETU-6F9E834F,Jebali,Rami,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,M1,2020,Zaghouan,Oui,9.89,9.84,8,3,actif,2023-2024
+ETU-F3C3478F,Mzoughi,Hamza,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,M2,2022,Manouba,Non,15.41,16.27,6,6,diplome,2023-2024
+ETU-EC091348,Sfaxi,Salma,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,L3,2023,Zaghouan,Non,14.05,13.51,2,5,actif,2023-2024
+ETU-65F1E908,Jebali,Asma,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,L3,2022,Tunis,Non,8.61,10.12,8,9,actif,2023-2024
+ETU-547D342D,Chaari,Nour,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,L2,2023,Bizerte,Non,10.78,11.19,10,4,actif,2023-2024
+ETU-CBF6568F,Aloui,Amira,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Master,M2,2024,Bizerte,Non,17.3,17.92,3,4,actif,2023-2024
+ETU-6D37E2B0,Trabelsi,Fatma,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,L1,2021,Zaghouan,Oui,14.64,13.82,8,11,actif,2023-2024
+ETU-6C6AAA7A,Belhaj,Nizar,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,M1,2024,Sfax,Oui,12.64,14.56,8,11,actif,2023-2024
+ETU-FA6ED4A0,Khlifi,Nour,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Cycle Ingénieur,L2,2023,Monastir,Non,13.61,13.71,6,2,actif,2023-2024
+ETU-5E013184,Khlifi,Rim,F,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,L2,2022,Manouba,Non,14.65,13.72,2,1,actif,2023-2024
+ETU-2DE4D52B,Baccouche,Tarek,M,UCAR-ESAM,Ecole Supérieure d'Agriculture de Mograne,Doctorat,M2,2020,Manouba,Non,16.8,17.78,0,3,actif,2023-2024
+ETU-A9A5BAB9,Mansouri,Khaled,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Cycle Ingénieur,L2,2020,Monastir,Oui,7.18,6.31,5,8,actif,2023-2024
+ETU-3440DEC1,Belhaj,Khaled,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Cycle Ingénieur,L2,2021,Nabeul,Non,3.4,3.95,35,24,abandonne,2023-2024
+ETU-7C0D03FA,Hamdi,Sarra,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,L3,2022,Zaghouan,Oui,12.77,14.58,5,3,diplome,2023-2024
+ETU-7713BD35,Zouaghi,Anis,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,M2,2023,Ariana,Oui,10.49,10.23,10,6,actif,2023-2024
+ETU-25AC35FF,Baccouche,Khaled,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,M1,2021,Ben Arous,Oui,13.58,12.6,5,6,actif,2023-2024
+ETU-53A653AA,Dridi,Mohamed,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,L1,2020,Ariana,Non,10.76,9.41,0,3,actif,2023-2024
+ETU-8336C3E6,Khlifi,Khaled,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,M2,2024,Ariana,Non,11.09,9.68,0,3,diplome,2023-2024
+ETU-5A3D0CD7,Ben Ali,Bilel,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,L2,2020,Manouba,Non,11.18,12.95,4,0,actif,2023-2024
+ETU-B0612A22,Mansouri,Khaled,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,L3,2022,Manouba,Non,14.94,16.74,1,2,diplome,2023-2024
+ETU-7434B470,Belhaj,Maissa,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,M1,2023,Ben Arous,Oui,12.79,14.52,5,3,actif,2023-2024
+ETU-27502689,Khemiri,Anis,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,M1,2024,Sousse,Non,9.72,9.16,10,9,actif,2023-2024
+ETU-8CDDC5B8,Belhaj,Mariem,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,M1,2020,Zaghouan,Non,3.67,4.01,27,22,abandonne,2023-2024
+ETU-067E2932,Belhaj,Fatma,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,M1,2020,Sousse,Non,13.81,13.51,6,4,actif,2023-2024
+ETU-38A10E75,Belhaj,Mohamed,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,M2,2022,Sfax,Non,7.47,6.95,12,15,actif,2023-2024
+ETU-3673F7C3,Khlifi,Hajer,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,L2,2021,Manouba,Non,17.12,18.51,8,2,actif,2023-2024
+ETU-F2E829A4,Mzoughi,Bilel,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,L1,2024,Ben Arous,Oui,2.41,2.41,35,33,abandonne,2023-2024
+ETU-4CB02BEB,Sfaxi,Ahmed,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,L1,2022,Ben Arous,Oui,16.24,15.75,8,7,actif,2023-2024
+ETU-11AA3910,Sfaxi,Rami,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,L1,2023,Ariana,Non,13.16,14.99,9,6,actif,2023-2024
+ETU-E6BAB7F9,Mansouri,Bilel,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,L1,2020,Nabeul,Non,10.63,9.67,12,7,actif,2023-2024
+ETU-715E8B0D,Dridi,Bilel,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,L1,2022,Ben Arous,Oui,10.86,10.52,4,3,actif,2023-2024
+ETU-2EB2DD9D,Ayari,Mariem,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,L2,2022,Sfax,Non,9.02,9.87,12,3,actif,2023-2024
+ETU-05205C0A,Ayari,Hedi,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,L2,2022,Tunis,Non,8.45,8.82,12,0,actif,2023-2024
+ETU-6715190B,Aloui,Ines,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,L2,2021,Tunis,Non,7.19,8.97,3,6,actif,2023-2024
+ETU-36099BFC,Belhaj,Khaled,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,M2,2023,Sousse,Non,12.09,13.14,8,5,diplome,2023-2024
+ETU-87AA968D,Gafsi,Rami,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,M1,2021,Zaghouan,Non,11.59,10.94,11,11,actif,2023-2024
+ETU-09DD6241,Dridi,Mohamed,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,M2,2021,Sfax,Oui,17.45,19.06,2,4,diplome,2023-2024
+ETU-87810D3F,Ben Ali,Amira,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,M1,2020,Sousse,Non,13.32,14.84,3,5,actif,2023-2024
+ETU-EA50B664,Aloui,Sarra,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Cycle Ingénieur,L2,2024,Ariana,Oui,11.46,12.17,12,1,actif,2023-2024
+ETU-2BDD2710,Khlifi,Mehdi,M,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,L2,2022,Sousse,Oui,9.69,8.86,12,11,actif,2023-2024
+ETU-5CF1C179,Zouaghi,Maissa,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,L1,2024,Ben Arous,Non,16.59,16.38,2,1,actif,2023-2024
+ETU-EA2CC5F6,Zouaghi,Ines,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Master,L1,2022,Sousse,Non,7.01,6.97,6,8,actif,2023-2024
+ETU-2E6995AE,Mzoughi,Fatma,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Cycle Ingénieur,M1,2024,Zaghouan,Non,13.31,14.52,11,3,actif,2023-2024
+ETU-ACFB401C,Ayari,Rim,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Doctorat,L3,2024,Manouba,Non,14.26,15.61,12,1,actif,2023-2024
+ETU-42A8DEA2,Ben Ali,Lina,F,UCAR-ESAMateur,Ecole Supérieure d'Agriculture de Mateur,Licence,M2,2024,Zaghouan,Non,16.42,15.11,5,8,diplome,2023-2024
+ETU-D1339B4B,Trabelsi,Rim,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,M1,2024,Monastir,Non,16.1,16.31,12,6,actif,2023-2024
+ETU-EAF9BDFE,Aloui,Tarek,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,L2,2021,Zaghouan,Non,4.82,3.98,24,17,abandonne,2023-2024
+ETU-4B4841BC,Aloui,Asma,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,L2,2021,Tunis,Non,12.88,11.98,3,3,actif,2023-2024
+ETU-D7FA9958,Aloui,Mariem,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,M1,2024,Manouba,Non,9.52,9.17,6,9,actif,2023-2024
+ETU-849926AC,Mansouri,Tarek,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,L1,2022,Bizerte,Non,10.94,12.36,4,1,actif,2023-2024
+ETU-569944C2,Zouaghi,Bilel,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,L3,2023,Ben Arous,Oui,7.43,7.29,9,11,actif,2023-2024
+ETU-3890E91D,Mzoughi,Anis,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,L1,2024,Zaghouan,Non,13.88,13.69,2,1,actif,2023-2024
+ETU-7A662A27,Chaari,Fatma,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,L2,2023,Ben Arous,Oui,10.59,10.61,3,3,actif,2023-2024
+ETU-0EFFF3CF,Hamdi,Mohamed,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Doctorat,L3,2021,Nabeul,Non,9.04,8.19,5,5,actif,2023-2024
+ETU-81AA4884,Khlifi,Khaled,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,M1,2021,Monastir,Oui,7.1,8.76,5,5,actif,2023-2024
+ETU-04BAE5AD,Chaari,Yassine,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,M1,2021,Ben Arous,Oui,17.32,17.71,8,6,actif,2023-2024
+ETU-9511AFF7,Mansouri,Mehdi,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,L2,2021,Ariana,Non,7.8,8.45,9,9,actif,2023-2024
+ETU-0E00119C,Gafsi,Nour,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,M2,2021,Ben Arous,Non,10.18,9.99,5,3,diplome,2023-2024
+ETU-6A9771E6,Aloui,Yassine,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,L2,2020,Nabeul,Non,16.4,15.43,10,12,actif,2023-2024
+ETU-46DFA608,Zouaghi,Sarra,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,M1,2022,Nabeul,Non,7.34,7.47,3,2,actif,2023-2024
+ETU-51D7592F,Khemiri,Hamza,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,L3,2020,Nabeul,Non,7.01,8.74,6,8,actif,2023-2024
+ETU-9EA42FB8,Ayari,Ahmed,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Doctorat,L2,2021,Tunis,Non,7.96,7.55,12,5,actif,2023-2024
+ETU-DFA26971,Dridi,Nizar,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,L3,2020,Tunis,Non,9.26,9.82,7,10,actif,2023-2024
+ETU-C8B6754F,Ayari,Ahmed,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,L1,2020,Bizerte,Non,11.9,13.27,2,4,actif,2023-2024
+ETU-13A3F06E,Khemiri,Salma,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,L3,2024,Ariana,Non,13.96,15.13,3,0,actif,2023-2024
+ETU-E58042E4,Chaari,Sarra,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,M2,2024,Bizerte,Non,15.24,15.56,4,4,actif,2023-2024
+ETU-634F9019,Aloui,Rim,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Cycle Ingénieur,M2,2022,Ariana,Non,13.62,13.39,0,2,diplome,2023-2024
+ETU-FE4FB01A,Mzoughi,Fatma,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Doctorat,M1,2023,Nabeul,Non,10.65,10.28,6,6,actif,2023-2024
+ETU-2B7AFDD0,Trabelsi,Sarra,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Doctorat,L1,2024,Ben Arous,Non,4.53,5.86,22,4,abandonne,2023-2024
+ETU-3F42521E,Sfaxi,Yassine,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Master,M1,2024,Sousse,Oui,11.89,13.47,8,6,actif,2023-2024
+ETU-A28BE09A,Aloui,Sirine,F,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,M1,2022,Monastir,Non,16.36,18.2,8,7,actif,2023-2024
+ETU-D0E2ABAC,Mzoughi,Yassine,M,UCAR-ESIAT,Ecole Supérieure des Industries Alimentaires de Tunis,Licence,M1,2022,Ariana,Non,8.05,9.67,1,2,actif,2023-2024
+ETU-7A8EFAF9,Khemiri,Sami,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Licence,L2,2020,Manouba,Non,15.6,17.17,8,10,actif,2023-2024
+ETU-B7F172F4,Khemiri,Rania,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,L3,2024,Sfax,Non,9.13,10.34,10,9,actif,2023-2024
+ETU-D2BBEC6C,Gafsi,Mariem,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Master,M1,2022,Tunis,Non,14.85,15.48,7,10,actif,2023-2024
+ETU-45E7FCCD,Hamdi,Tarek,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Master,L2,2024,Bizerte,Oui,9.91,9.79,11,7,actif,2023-2024
+ETU-0D06A660,Khlifi,Amira,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,L2,2022,Sousse,Non,13.77,14.38,12,11,actif,2023-2024
+ETU-4BAFB4CD,Belhaj,Sirine,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,L2,2021,Monastir,Oui,11.65,12.02,0,3,actif,2023-2024
+ETU-104F0ADD,Mzoughi,Fatma,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Master,L3,2024,Tunis,Non,10.22,11.89,4,1,diplome,2023-2024
+ETU-42738219,Khemiri,Hamza,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Licence,L3,2020,Manouba,Non,3.29,5.18,39,18,abandonne,2023-2024
+ETU-A3D200CA,Belhaj,Salma,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,M2,2020,Monastir,Non,9.82,11.25,7,10,actif,2023-2024
+ETU-BE5EE9F8,Oueslati,Rim,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Master,L2,2023,Tunis,Non,2.97,1.84,18,5,actif,2023-2024
+ETU-E0E17936,Chaari,Sirine,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,M1,2021,Tunis,Non,5.33,5.18,16,4,actif,2023-2024
+ETU-D92EFBD5,Ben Ali,Sirine,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Master,M1,2024,Tunis,Non,9.93,9.99,6,2,actif,2023-2024
+ETU-FBCCB2E7,Baccouche,Rim,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,L1,2021,Monastir,Non,13.78,13.7,8,8,actif,2023-2024
+ETU-11BAA5E1,Ayari,Rim,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,L2,2020,Bizerte,Oui,7.09,7.34,4,6,actif,2023-2024
+ETU-69F43557,Jebali,Sarra,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Licence,L1,2021,Ariana,Non,11.48,11.93,1,1,actif,2023-2024
+ETU-6BAAF815,Jebali,Hamza,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,M1,2024,Monastir,Non,8.15,7.1,1,1,actif,2023-2024
+ETU-8C3CB463,Jebali,Yassine,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,L2,2020,Ben Arous,Non,13.83,13.15,10,13,actif,2023-2024
+ETU-2C84CBD4,Sfaxi,Sarra,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,M2,2023,Sousse,Non,2.59,2.16,34,36,abandonne,2023-2024
+ETU-2317F405,Ben Ali,Rami,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,L1,2020,Sousse,Oui,16.28,17.6,5,7,actif,2023-2024
+ETU-172A360B,Belhaj,Bilel,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Licence,L1,2020,Sfax,Non,10.72,10.16,2,2,actif,2023-2024
+ETU-B7129C9C,Mansouri,Tarek,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,L3,2021,Sousse,Oui,10.5,12.02,9,4,diplome,2023-2024
+ETU-3DB91C17,Gafsi,Bilel,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Licence,L3,2020,Bizerte,Non,16.16,17.21,11,7,diplome,2023-2024
+ETU-D2E40A34,Mzoughi,Fatma,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Master,L1,2020,Nabeul,Non,14.75,14.26,1,0,actif,2023-2024
+ETU-DDC50934,Hamdi,Sami,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,L1,2020,Ariana,Non,12.05,11.96,2,3,actif,2023-2024
+ETU-6872E837,Trabelsi,Anis,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Licence,L3,2024,Sfax,Non,12.26,13.46,12,13,actif,2023-2024
+ETU-4EE7909C,Chaari,Mohamed,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,L1,2020,Tunis,Non,8.56,10.08,2,4,actif,2023-2024
+ETU-E6470E90,Ayari,Sarra,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Cycle Ingénieur,L3,2024,Bizerte,Non,16.39,16.44,0,1,actif,2023-2024
+ETU-9CE387E1,Baccouche,Rim,F,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Doctorat,M1,2021,Ben Arous,Oui,11.02,10.99,7,2,actif,2023-2024
+ETU-53C6A7B8,Ayari,Mohamed,M,UCAR-ISPA,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,Master,L1,2021,Nabeul,Oui,9.77,10.74,10,8,actif,2023-2024
+ETU-9D32F7C3,Chaari,Maissa,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Doctorat,M1,2022,Sfax,Non,10.73,10.13,6,2,actif,2023-2024
+ETU-61F91ECF,Khlifi,Hamza,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,L3,2024,Sfax,Non,14.12,13.75,1,0,actif,2023-2024
+ETU-96069A69,Trabelsi,Khaled,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Doctorat,L2,2023,Monastir,Non,12.13,10.72,8,10,actif,2023-2024
+ETU-ED8B92AD,Ben Ali,Adam,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,M2,2021,Zaghouan,Oui,12.89,12.93,6,2,actif,2023-2024
+ETU-F56D2B34,Trabelsi,Tarek,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,L2,2023,Nabeul,Non,13.54,14.92,6,5,actif,2023-2024
+ETU-970B1298,Baccouche,Khaled,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,L1,2020,Manouba,Non,7.42,7.13,7,1,actif,2023-2024
+ETU-C0C81898,Mansouri,Asma,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,M2,2022,Manouba,Non,16.39,18.35,0,2,diplome,2023-2024
+ETU-A53C81D9,Chaari,Nour,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,M2,2020,Zaghouan,Non,12.97,12.31,4,1,diplome,2023-2024
+ETU-E5E9269C,Ayari,Mehdi,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,M1,2022,Ben Arous,Non,17.28,17.45,12,12,actif,2023-2024
+ETU-057845E3,Jebali,Hedi,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,L3,2024,Sfax,Oui,11.48,12.56,3,0,diplome,2023-2024
+ETU-42D87BE1,Oueslati,Hamza,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,M2,2022,Monastir,Non,11.2,11.97,4,0,actif,2023-2024
+ETU-E0879311,Aloui,Yassine,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,M1,2023,Bizerte,Non,16.77,17.01,1,0,actif,2023-2024
+ETU-4E3A6B07,Trabelsi,Ahmed,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,M1,2022,Nabeul,Non,8.3,8.09,1,3,actif,2023-2024
+ETU-4F237E4D,Dridi,Yassine,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,M1,2024,Ben Arous,Non,9.77,11.66,9,3,actif,2023-2024
+ETU-DF53421A,Khemiri,Bilel,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,L3,2024,Tunis,Non,8.54,8.5,10,12,actif,2023-2024
+ETU-FC66966D,Khlifi,Nour,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,L1,2024,Bizerte,Non,14.56,14.56,6,9,actif,2023-2024
+ETU-6F23245F,Belhaj,Nour,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,M1,2020,Bizerte,Non,11.67,12.77,5,0,actif,2023-2024
+ETU-04EBB1D1,Trabelsi,Amira,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,L2,2021,Ben Arous,Non,11.14,10.84,12,12,actif,2023-2024
+ETU-8E9A3F90,Hamdi,Sarra,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,M2,2023,Ariana,Oui,12.56,11.12,3,2,actif,2023-2024
+ETU-65B2748F,Baccouche,Sami,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,M1,2023,Monastir,Non,4.2,4.26,23,1,abandonne,2023-2024
+ETU-BF3ECE06,Khlifi,Adam,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,L2,2020,Sousse,Non,8.34,9.95,12,6,actif,2023-2024
+ETU-9E2F8673,Dridi,Amira,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,L2,2021,Sfax,Oui,9.3,10.94,12,7,actif,2023-2024
+ETU-6D17D193,Hamdi,Asma,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,L2,2022,Manouba,Oui,11.41,12.25,12,4,actif,2023-2024
+ETU-92C6117F,Khlifi,Rim,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,L2,2023,Nabeul,Oui,16.59,15.93,6,1,actif,2023-2024
+ETU-976BA742,Zouaghi,Bilel,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,M2,2020,Sousse,Non,12.82,14.61,1,0,actif,2023-2024
+ETU-D4C9FA3A,Belhaj,Hamza,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,L3,2022,Monastir,Non,9.74,11.33,11,2,actif,2023-2024
+ETU-24D8C7BF,Khlifi,Nour,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Cycle Ingénieur,M2,2024,Tunis,Non,10.77,12.58,5,0,actif,2023-2024
+ETU-575B4D30,Belhaj,Adam,M,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,L2,2024,Sousse,Oui,14.54,13.81,8,2,actif,2023-2024
+ETU-A0440856,Jebali,Hajer,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Master,L1,2023,Tunis,Non,7.84,9.64,4,5,actif,2023-2024
+ETU-77C33AB5,Zouaghi,Rim,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,L1,2020,Zaghouan,Oui,13.62,15.23,8,4,actif,2023-2024
+ETU-794F5CFC,Ben Ali,Salma,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Licence,M2,2021,Nabeul,Oui,12.89,13.09,4,5,diplome,2023-2024
+ETU-518B8BD7,Jebali,Salma,F,UCAR-INTES,Institut National du Travail et des Etudes Sociales de Tunis,Doctorat,L2,2023,Sfax,Non,16.37,16.92,6,4,actif,2023-2024
+ETU-83B7FDC6,Mzoughi,Ines,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,L2,2024,Bizerte,Non,13.01,14.66,8,3,actif,2023-2024
+ETU-F2DB8B2A,Chaari,Mehdi,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Master,L1,2020,Ben Arous,Non,13.98,13.66,10,11,actif,2023-2024
+ETU-51562B41,Gafsi,Tarek,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,L3,2023,Bizerte,Non,15.02,16.32,5,2,actif,2023-2024
+ETU-3141DE71,Mansouri,Adam,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,L3,2021,Tunis,Non,14.02,14.55,7,1,actif,2023-2024
+ETU-CDCB9A54,Baccouche,Bilel,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,M1,2024,Nabeul,Non,15.89,16.5,11,5,actif,2023-2024
+ETU-3893CED4,Oueslati,Bilel,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Master,M2,2022,Ariana,Oui,8.79,9.73,9,10,actif,2023-2024
+ETU-A2C4453A,Khlifi,Hedi,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,L2,2024,Ariana,Non,10.22,9.92,3,6,actif,2023-2024
+ETU-E5474564,Sfaxi,Anis,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,L1,2022,Nabeul,Non,12.39,13.63,0,2,actif,2023-2024
+ETU-ECCA31A6,Chaari,Salma,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Master,M1,2023,Ariana,Non,16.57,18.17,6,2,actif,2023-2024
+ETU-A380E333,Mzoughi,Mariem,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,L3,2024,Manouba,Non,15.45,15.89,6,0,diplome,2023-2024
+ETU-C7DE8B13,Zouaghi,Adam,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,M2,2020,Ben Arous,Non,14.01,12.82,2,1,diplome,2023-2024
+ETU-2275410E,Jebali,Sirine,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Master,M1,2024,Ben Arous,Non,7.03,8.27,7,7,actif,2023-2024
+ETU-1FB84B73,Dridi,Sami,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,L1,2022,Sfax,Non,15.86,15.7,8,4,actif,2023-2024
+ETU-267E517D,Sfaxi,Rania,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,M1,2024,Zaghouan,Non,13.07,12.85,12,3,actif,2023-2024
+ETU-DC049FD4,Khemiri,Hamza,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,L1,2024,Monastir,Non,8.71,10.06,10,0,actif,2023-2024
+ETU-AC4D1088,Zouaghi,Nour,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,M1,2023,Zaghouan,Non,16.71,17.26,0,1,actif,2023-2024
+ETU-1EE3E8E6,Chaari,Ahmed,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,L3,2023,Zaghouan,Non,12.65,11.61,1,0,actif,2023-2024
+ETU-DBD3F5E0,Baccouche,Bilel,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,M2,2021,Bizerte,Non,3.88,4.37,18,0,actif,2023-2024
+ETU-B78ACEE4,Mansouri,Lina,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Doctorat,M2,2021,Bizerte,Oui,7.04,8.52,10,12,actif,2023-2024
+ETU-BD6BAC6C,Oueslati,Mehdi,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Master,L2,2020,Monastir,Oui,8.7,7.43,5,3,actif,2023-2024
+ETU-6214BA35,Dridi,Lina,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,M2,2020,Tunis,Oui,10.03,11.69,8,7,actif,2023-2024
+ETU-F51E6FA1,Aloui,Ahmed,M,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Cycle Ingénieur,L1,2020,Sfax,Non,8.84,7.51,4,6,actif,2023-2024
+ETU-B378F74F,Trabelsi,Mariem,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Licence,L2,2023,Monastir,Oui,13.66,12.29,2,4,actif,2023-2024
+ETU-C65C39C8,Sfaxi,Sirine,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Licence,M1,2023,Tunis,Non,10.52,10.76,5,5,actif,2023-2024
+ETU-46EC289F,Zouaghi,Amira,F,UCAR-ISCE,Institut Supérieur des Cadres de l'Enfance,Licence,L2,2023,Monastir,Oui,12.82,12.36,9,10,actif,2023-2024
+ETU-3F83FD52,Jebali,Sirine,F,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,M2,2024,Bizerte,Non,9.76,11.69,2,5,actif,2023-2024
+ETU-AFA4DBD0,Belhaj,Rim,F,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,L3,2022,Tunis,Non,6.17,6.72,8,9,actif,2023-2024
+ETU-8119C3CD,Zouaghi,Hamza,M,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,M2,2024,Manouba,Non,8.51,9.29,7,2,actif,2023-2024
+ETU-646498E8,Ben Ali,Bilel,M,UCAR-INAT,Institut National Agronomique de Tunisie,Économie Rurale,L2,2020,Bizerte,Non,12.53,11.73,4,4,actif,2023-2024
+ETU-5A29460F,Sfaxi,Sirine,F,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,M1,2022,Monastir,Non,9.19,11.06,7,3,actif,2023-2024
+ETU-0B5B8DD9,Mansouri,Mehdi,M,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,M2,2024,Sfax,Non,13.22,14.67,7,10,actif,2023-2024
+ETU-F2B6C087,Mansouri,Nizar,M,UCAR-INAT,Institut National Agronomique de Tunisie,Économie Rurale,L2,2021,Nabeul,Oui,13.92,15.48,12,11,actif,2023-2024
+ETU-47DD80BD,Chaari,Amira,F,UCAR-INAT,Institut National Agronomique de Tunisie,Économie Rurale,L3,2022,Manouba,Oui,17.01,16.2,3,4,actif,2023-2024
+ETU-CCD912D9,Mzoughi,Sirine,F,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,L2,2021,Sfax,Non,8.37,8.16,10,0,actif,2023-2024
+ETU-3619137D,Ben Ali,Bilel,M,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,L2,2020,Ben Arous,Non,15.36,13.91,4,4,actif,2023-2024
+ETU-25275D7B,Hamdi,Salma,F,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,M2,2020,Ben Arous,Oui,13.54,14.23,1,2,diplome,2023-2024
+ETU-83279064,Oueslati,Asma,F,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,L1,2020,Monastir,Oui,14.41,12.95,1,0,actif,2023-2024
+ETU-4EFC2584,Ben Ali,Sarra,F,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,L2,2023,Tunis,Non,17.26,17.63,0,1,actif,2023-2024
+ETU-64744077,Belhaj,Maissa,F,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,L3,2024,Nabeul,Non,13.38,13.19,6,2,actif,2023-2024
+ETU-F1FA80F5,Chaari,Hedi,M,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,L1,2022,Ariana,Non,11.36,10.18,10,4,actif,2023-2024
+ETU-4AD5D1B7,Oueslati,Hedi,M,UCAR-INAT,Institut National Agronomique de Tunisie,Économie Rurale,M2,2023,Ariana,Non,4.32,4.31,43,3,abandonne,2023-2024
+ETU-71EFEF32,Dridi,Anis,M,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,M2,2023,Ben Arous,Non,11.3,12.68,5,6,actif,2023-2024
+ETU-8E9BAA85,Chaari,Khaled,M,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,L2,2023,Bizerte,Non,12.45,10.97,5,0,actif,2023-2024
+ETU-11281A26,Khlifi,Yassine,M,UCAR-INAT,Institut National Agronomique de Tunisie,Économie Rurale,L2,2020,Sousse,Oui,13.3,12.2,1,2,actif,2023-2024
+ETU-910BA952,Khemiri,Rania,F,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,M2,2023,Zaghouan,Non,7.84,9.2,2,1,actif,2023-2024
+ETU-5B86DE81,Khlifi,Amira,F,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,L2,2020,Manouba,Non,2.65,1.94,18,1,actif,2023-2024
+ETU-3F3ECDC6,Mzoughi,Anis,M,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,M1,2024,Monastir,Non,12.21,13.7,2,0,actif,2023-2024
+ETU-6B2A01DE,Mzoughi,Sirine,F,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,M2,2024,Manouba,Non,9.82,9.11,4,1,actif,2023-2024
+ETU-8CBC18CF,Baccouche,Tarek,M,UCAR-INAT,Institut National Agronomique de Tunisie,Économie Rurale,L3,2024,Zaghouan,Oui,4.39,4.49,33,26,abandonne,2023-2024
+ETU-AC3C0426,Dridi,Rim,F,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,M2,2022,Zaghouan,Non,17.4,17.11,10,10,actif,2023-2024
+ETU-032CD7EB,Dridi,Salma,F,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,M1,2022,Ariana,Non,6.25,4.92,8,5,actif,2023-2024
+ETU-CF7848E8,Ben Ali,Rim,F,UCAR-INAT,Institut National Agronomique de Tunisie,Économie Rurale,L2,2022,Sfax,Non,8.43,9.01,6,6,actif,2023-2024
+ETU-2C230F95,Belhaj,Sami,M,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,M2,2020,Ariana,Non,17.33,17.3,8,8,actif,2023-2024
+ETU-50CF4231,Zouaghi,Sirine,F,UCAR-INAT,Institut National Agronomique de Tunisie,Génie Rural,M1,2023,Bizerte,Non,12.94,13.13,6,0,actif,2023-2024
+ETU-6222656C,Chaari,Maissa,F,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,L1,2021,Ariana,Non,9.36,9.58,4,4,actif,2023-2024
+ETU-BD5D6C3C,Mansouri,Amira,F,UCAR-INAT,Institut National Agronomique de Tunisie,Économie Rurale,L2,2024,Monastir,Non,3.65,4.56,34,3,abandonne,2023-2024
+ETU-14F3C3D0,Khemiri,Khaled,M,UCAR-INAT,Institut National Agronomique de Tunisie,Production Animale,L3,2020,Sousse,Non,2.84,2.03,39,14,abandonne,2023-2024
+ETU-F5791632,Gafsi,Sami,M,UCAR-INAT,Institut National Agronomique de Tunisie,Économie Rurale,L3,2024,Sousse,Non,13.16,14.83,12,6,diplome,2023-2024
+ETU-BA6624D2,Chaari,Bilel,M,UCAR-INAT,Institut National Agronomique de Tunisie,Agronomie,L1,2024,Monastir,Non,10.95,11.88,8,6,actif,2023-2024
+ETU-48C10C97,Trabelsi,Anis,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Master,M1,2024,Monastir,Non,10.02,11.47,5,2,actif,2023-2024
+ETU-74523FBA,Chaari,Rania,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Master,L2,2023,Zaghouan,Non,7.51,7.27,4,3,actif,2023-2024
+ETU-4496B3F3,Dridi,Rania,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,M2,2022,Nabeul,Oui,16.23,15.76,4,4,actif,2023-2024
+ETU-3DBF0A72,Oueslati,Maissa,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,L2,2023,Tunis,Non,12.5,12.54,2,5,actif,2023-2024
+ETU-CBC0F142,Gafsi,Hamza,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Master,M2,2023,Tunis,Oui,4.5,3.41,40,41,abandonne,2023-2024
+ETU-DD968E9A,Sfaxi,Nour,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,L2,2020,Monastir,Non,10.72,11.01,10,7,actif,2023-2024
+ETU-3A31712D,Trabelsi,Sarra,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Master,L3,2022,Bizerte,Non,7.33,8.82,5,2,actif,2023-2024
+ETU-1AAE3053,Mzoughi,Ines,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Master,M2,2024,Ariana,Non,8.51,9.45,1,2,actif,2023-2024
+ETU-96C356AA,Dridi,Rami,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,L3,2020,Sfax,Non,10.75,10.54,7,5,diplome,2023-2024
+ETU-7A19EDB3,Sfaxi,Amira,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Licence,L3,2023,Manouba,Non,7.7,8.28,10,12,actif,2023-2024
+ETU-14C2E703,Ayari,Ines,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,M2,2022,Nabeul,Oui,11.54,12.57,1,4,diplome,2023-2024
+ETU-A8F4929B,Khemiri,Ines,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Licence,L1,2023,Bizerte,Oui,9.03,8.58,10,7,actif,2023-2024
+ETU-85BA4E13,Mansouri,Mariem,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Master,L3,2020,Ariana,Non,16.42,15.32,12,11,diplome,2023-2024
+ETU-92506D17,Oueslati,Nour,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,M2,2021,Tunis,Non,14.44,13.15,11,10,diplome,2023-2024
+ETU-2CE248A2,Ben Ali,Nour,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,L3,2022,Manouba,Oui,11.87,10.99,11,13,actif,2023-2024
+ETU-122AC968,Aloui,Salma,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Licence,M1,2021,Sfax,Non,16.2,15.77,1,0,actif,2023-2024
+ETU-A3EFDFF1,Jebali,Ines,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,L1,2024,Tunis,Non,3.3,4.44,24,25,abandonne,2023-2024
+ETU-A1B7C178,Mansouri,Amira,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,L3,2022,Sousse,Non,5.17,6.01,29,5,actif,2023-2024
+ETU-722CB7EC,Hamdi,Hajer,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,L2,2021,Tunis,Non,14.81,14.76,10,4,actif,2023-2024
+ETU-0394F4E5,Khemiri,Nizar,M,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Licence,M2,2020,Bizerte,Non,6.41,7.39,9,5,actif,2023-2024
+ETU-D0D8511A,Zouaghi,Maissa,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,M2,2023,Tunis,Oui,10.93,11.03,11,11,actif,2023-2024
+ETU-D683B2BE,Zouaghi,Amira,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,L1,2020,Manouba,Oui,16.56,16.76,0,1,actif,2023-2024
+ETU-CC6C1FFD,Dridi,Lina,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,L1,2024,Tunis,Non,15.28,14.08,1,3,actif,2023-2024
+ETU-8FEDADD3,Baccouche,Hajer,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Cycle Ingénieur,L1,2022,Sousse,Oui,13.91,12.78,8,2,actif,2023-2024
+ETU-ABC28816,Aloui,Fatma,F,UCAR-IHET,Institut des Hautes Etudes Touristiques de Sidi Dhrif,Doctorat,L1,2022,Sousse,Non,7.82,8.89,8,9,actif,2023-2024
+ETU-D9723FC3,Mzoughi,Ahmed,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Doctorat,M2,2021,Nabeul,Non,10.3,12.25,8,4,diplome,2023-2024
+ETU-F4000519,Khlifi,Sarra,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Cycle Ingénieur,L2,2022,Bizerte,Non,8.58,8.41,12,0,actif,2023-2024
+ETU-BCB2E034,Hamdi,Nour,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,L3,2022,Tunis,Oui,11.01,12.8,10,4,diplome,2023-2024
+ETU-85D05BDB,Oueslati,Hamza,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Doctorat,M1,2020,Ariana,Non,17.34,15.85,9,12,actif,2023-2024
+ETU-EA0A01CD,Hamdi,Ines,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Cycle Ingénieur,M1,2021,Sousse,Oui,14.93,14.89,5,4,actif,2023-2024
+ETU-01040BFD,Zouaghi,Lina,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,M1,2021,Manouba,Non,15.61,17.53,6,8,actif,2023-2024
+ETU-F7C4B78D,Oueslati,Mehdi,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,L1,2020,Zaghouan,Oui,11.37,11.23,5,5,actif,2023-2024
+ETU-D7609331,Dridi,Tarek,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,L1,2021,Sousse,Non,16.65,15.89,4,0,actif,2023-2024
+ETU-0E50C2FE,Trabelsi,Nizar,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,L2,2021,Sousse,Non,8.68,7.94,12,1,actif,2023-2024
+ETU-7AE61D02,Khlifi,Khaled,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,M2,2022,Tunis,Non,13.65,13.66,8,1,diplome,2023-2024
+ETU-16E31C4F,Gafsi,Khaled,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Cycle Ingénieur,M1,2021,Nabeul,Non,17.36,17.33,3,6,actif,2023-2024
+ETU-30A275C2,Dridi,Tarek,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,L1,2021,Tunis,Non,13.29,12.73,2,5,actif,2023-2024
+ETU-47A71860,Ben Ali,Mehdi,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Cycle Ingénieur,L3,2021,Zaghouan,Oui,10.02,8.97,8,11,diplome,2023-2024
+ETU-A87BB9D7,Baccouche,Nour,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Doctorat,L3,2023,Nabeul,Non,10.37,9.49,9,12,actif,2023-2024
+ETU-85B12205,Sfaxi,Maissa,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Cycle Ingénieur,L2,2021,Tunis,Non,11.36,10.31,10,9,actif,2023-2024
+ETU-1F82E47E,Ben Ali,Tarek,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,L3,2022,Tunis,Non,7.6,7.01,2,1,actif,2023-2024
+ETU-7E0BCE40,Zouaghi,Ines,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,L1,2024,Zaghouan,Non,7.06,5.57,2,0,actif,2023-2024
+ETU-1D96BA25,Dridi,Hedi,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Cycle Ingénieur,M1,2020,Zaghouan,Non,11.25,11.92,5,0,actif,2023-2024
+ETU-5621E077,Trabelsi,Salma,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,L1,2023,Manouba,Non,7.38,9.31,8,10,actif,2023-2024
+ETU-E37CD57E,Baccouche,Rim,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,L3,2022,Ariana,Oui,8.34,6.97,6,5,actif,2023-2024
+ETU-EA91BA27,Aloui,Hamza,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Cycle Ingénieur,M2,2023,Sousse,Non,13.27,12.36,9,3,actif,2023-2024
+ETU-6A5BAFFE,Ayari,Mariem,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,M1,2023,Sousse,Non,12.64,12.68,0,1,actif,2023-2024
+ETU-890BDA71,Mansouri,Mohamed,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Licence,L2,2021,Sfax,Non,11.34,12.83,6,3,actif,2023-2024
+ETU-2370099E,Jebali,Mehdi,M,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Cycle Ingénieur,L3,2023,Sousse,Oui,11.09,10.96,4,5,actif,2023-2024
+ETU-4113013B,Oueslati,Lina,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Master,L2,2020,Zaghouan,Oui,9.53,8.38,8,6,actif,2023-2024
+ETU-77BEA110,Oueslati,Rim,F,UCAR-INRGREF,"Institut National de Recherche en Génie Rural, Eau et Forêt",Doctorat,L3,2021,Ben Arous,Non,13.67,15.1,6,1,diplome,2023-2024
+ETU-96DF745D,Mansouri,Fatma,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Licence,M1,2020,Tunis,Oui,10.32,10.43,4,4,actif,2023-2024
+ETU-2864BB6D,Zouaghi,Hamza,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,L3,2020,Tunis,Non,15.79,14.67,9,0,actif,2023-2024
+ETU-A404A199,Mzoughi,Rim,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,M2,2020,Zaghouan,Non,13.71,13.2,11,6,actif,2023-2024
+ETU-436C9513,Ben Ali,Sarra,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,L1,2020,Monastir,Non,10.35,10.89,1,4,actif,2023-2024
+ETU-DB9C4A11,Khlifi,Mehdi,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Licence,L2,2022,Sousse,Non,8.05,8.18,5,6,actif,2023-2024
+ETU-4E09719C,Sfaxi,Khaled,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,L3,2022,Bizerte,Non,8.79,10.03,2,2,actif,2023-2024
+ETU-9DD04229,Baccouche,Maissa,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Licence,L1,2021,Manouba,Non,11.78,12.46,4,6,actif,2023-2024
+ETU-33E167BA,Aloui,Tarek,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,M1,2021,Sfax,Oui,15.78,17.04,11,12,actif,2023-2024
+ETU-71E172F9,Gafsi,Amira,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Master,L2,2022,Bizerte,Non,3.5,4.24,26,22,abandonne,2023-2024
+ETU-A1B99AB3,Oueslati,Anis,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,L2,2024,Bizerte,Non,14.64,13.31,10,13,actif,2023-2024
+ETU-215173AE,Jebali,Mehdi,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Master,M1,2020,Sousse,Oui,15.58,14.18,3,6,actif,2023-2024
+ETU-91BDF057,Baccouche,Fatma,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Master,M1,2023,Nabeul,Non,15.24,16.3,2,2,actif,2023-2024
+ETU-42115BAC,Oueslati,Khaled,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,L1,2024,Monastir,Non,17.14,18.64,7,9,actif,2023-2024
+ETU-FDF52ED2,Belhaj,Sami,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,L2,2022,Nabeul,Non,16.8,16.08,0,0,actif,2023-2024
+ETU-ED8AB7A4,Hamdi,Hajer,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Master,M1,2023,Nabeul,Oui,9.76,10.61,11,0,actif,2023-2024
+ETU-7C8D1E94,Belhaj,Hamza,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Master,L1,2021,Ben Arous,Non,16.18,18.02,10,6,actif,2023-2024
+ETU-362B356E,Khlifi,Hamza,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,M1,2023,Nabeul,Non,13.66,14.88,11,4,actif,2023-2024
+ETU-A428B376,Oueslati,Rania,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,L2,2024,Tunis,Non,13.98,12.97,6,3,actif,2023-2024
+ETU-10BC2B72,Oueslati,Khaled,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,M1,2022,Bizerte,Non,9.52,8.76,12,15,actif,2023-2024
+ETU-569C936E,Baccouche,Khaled,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,L1,2021,Nabeul,Non,14.18,15.59,9,8,actif,2023-2024
+ETU-3A845BB4,Oueslati,Nour,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,L3,2022,Tunis,Oui,11.11,12.85,12,5,actif,2023-2024
+ETU-F1022EFE,Baccouche,Rim,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,L2,2020,Tunis,Non,6.05,5.37,9,0,actif,2023-2024
+ETU-AF944C23,Mzoughi,Asma,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,M2,2021,Nabeul,Non,14.61,16.15,3,2,actif,2023-2024
+ETU-412EFF05,Gafsi,Amira,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Master,L3,2023,Tunis,Non,15.69,14.8,8,3,actif,2023-2024
+ETU-584ABA82,Ayari,Rania,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,L1,2023,Manouba,Oui,8.36,10.36,10,12,actif,2023-2024
+ETU-0646F1B9,Mzoughi,Hajer,F,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Doctorat,L3,2024,Tunis,Non,16.33,16.61,2,0,actif,2023-2024
+ETU-DD82409C,Sfaxi,Hamza,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,L1,2022,Tunis,Non,5.31,6.34,42,30,actif,2023-2024
+ETU-E7EBB54C,Mansouri,Rami,M,UCAR-INRAT,Institut National de Recherche Agronomique de Tunis,Cycle Ingénieur,L3,2024,Tunis,Non,11.73,13.33,2,4,diplome,2023-2024
